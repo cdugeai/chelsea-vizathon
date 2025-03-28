@@ -1,0 +1,13 @@
+services:
+  chelsea_viz_db:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment: 
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: local
+    volumes:
+      - chelsea_viz:/var/lib/postgresql/data
+volumes:
+  chelsea_viz:
