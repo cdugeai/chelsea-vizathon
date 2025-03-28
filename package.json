@@ -47,6 +47,8 @@
 	"dependencies": {
 		"@inlang/paraglide-js": "^2.0.0",
 		"drizzle-orm": "^0.40.0",
-		"postgres": "^3.4.5"
+		"layerchart": "^1.0.8",
+		"postgres": "^3.4.5",
+		"svelte-ux": "^1.0.4"
 	}
 }
