@@ -1,6 +1,4 @@
 <script lang="ts">
-	import { Button } from 'svelte-ux';
-
 	import {
 		Axis,
 		Canvas,
@@ -179,9 +177,4 @@
 		}));
 </script>
 
-<Button>Click here</Button>
-area chart below:
-
-<div class="h-[300px] p-4 border rounded">
-	<AreaChart data={dateSeriesDataEnhanced} x="date" y="value" {renderContext} {debug} />
-</div>
+<AreaChart data={dateSeriesDataEnhanced} x="date" y="value" {renderContext} {debug} />
