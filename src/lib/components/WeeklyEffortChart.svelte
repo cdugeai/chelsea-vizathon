@@ -151,7 +151,7 @@
 	let dateSeriesDataEnhanced: dateSeriesDataEnhancedInterface[] = [];
 
 	dateSeriesData.forEach((e) => {
-		if (e.date.getDate() === 0) {
+		if (e.date.getDay() === 0) {
 			weekIndex++;
 		}
 		dateSeriesDataEnhanced.push({
@@ -161,6 +161,20 @@
 			weekNo: weekIndex
 		});
 	});
+
+	const dataMap = new Map();
+	dataMap.set(
+		'0',
+		dateSeriesDataEnhanced.filter((e) => e.weekNo === 0)
+	);
+	dataMap.set(
+		'1',
+		dateSeriesDataEnhanced.filter((e) => e.weekNo === 1)
+	);
+	dataMap.set(
+		'2x',
+		dateSeriesDataEnhanced.filter((e) => e.weekNo === 2)
+	);
 
 	let renderContext: 'svg' | 'canvas' = 'svg';
 	let debug = false;
@@ -177,4 +191,24 @@
 		}));
 </script>
 
-<AreaChart data={dateSeriesDataEnhanced} x="date" y="value" {renderContext} {debug} />
+<div class="chart">
+	<AreaChart
+		x="dayOfWeek"
+		y="value"
+		points
+		{renderContext}
+		{debug}
+		series={[
+			{ key: '0', data: dataMap.get('0'), color: 'red' },
+			{ key: '1', data: dataMap.get('1'), color: 'blue' },
+			{ key: '2', data: dataMap.get('2'), color: 'green' }
+		]}
+	/>
+</div>
+
+<style>
+	.chart {
+		height: 150px;
+		flex-grow: 1;
+	}
+</style>
