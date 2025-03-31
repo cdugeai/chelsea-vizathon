@@ -4,8 +4,8 @@
 @import '@layerstack/tailwind/utils.css';
 @import '@layerstack/tailwind/themes/basic.css';
 
-@source '../../node_modules/svelte-ux/dist';
-@source '../../node_modules/layerchart/dist';
+@source '../node_modules/svelte-ux/dist';
+@source '../node_modules/layerchart/dist';
 
 :root {
     --color-primary: var(--color-emerald-600);

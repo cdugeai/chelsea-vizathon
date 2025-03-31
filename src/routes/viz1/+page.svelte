@@ -18,6 +18,12 @@
 	} from 'layerchart';
 	import { format, PeriodType, sortFunc } from '@layerstack/utils';
 
+	interface dateSeriesDataEnhancedInterface {
+		date: Date;
+		value: number;
+		dayOfWeek: number;
+		weekNo: number;
+	}
 	export let data;
 
 	const dateSeriesData = [
@@ -142,31 +148,21 @@
 			value: 66
 		}
 	];
-	$: dateSeriesDataWithNulls = dateSeriesData.map((d) => {
-		return {
-			...d,
-			value: Math.random() < 0.2 ? null : d.value
-		};
+
+	let weekIndex = 0;
+	let dateSeriesDataEnhanced: dateSeriesDataEnhancedInterface[] = [];
+
+	dateSeriesData.forEach((e) => {
+		if (e.date.getDate() === 0) {
+			weekIndex++;
+		}
+		dateSeriesDataEnhanced.push({
+			date: e.date,
+			value: e.value,
+			dayOfWeek: e.date.getDay(),
+			weekNo: weekIndex
+		});
 	});
-
-	const keys = ['apples', 'bananas', 'oranges'];
-
-	const pitchData = [
-		{ name: 'fastball', value: 10 },
-		{ name: 'change', value: 0 },
-		{ name: 'slider', value: 4 },
-		{ name: 'cutter', value: 8 },
-		{ name: 'curve', value: 5 }
-	];
-
-	const budgetData = [
-		{ name: 'Sales', budget: 22000, actual: 40000 },
-		{ name: 'Administration', budget: 3000, actual: 14000 },
-		{ name: 'Information Technology', budget: 20000, actual: 28000 },
-		{ name: 'Customer Support', budget: 35000, actual: 26000 },
-		{ name: 'Development', budget: 50000, actual: 42000 },
-		{ name: 'Marketing', budget: 18000, actual: 21000 }
-	];
 
 	let renderContext: 'svg' | 'canvas' = 'svg';
 	let debug = false;
@@ -184,8 +180,8 @@
 </script>
 
 <Button>Click here</Button>
+area chart below:
 
 <div class="h-[300px] p-4 border rounded">
-	area chart below:
-	<AreaChart data={dateSeriesData} x="date" y="value" {renderContext} {debug} />
+	<AreaChart data={dateSeriesDataEnhanced} x="date" y="value" {renderContext} {debug} />
 </div>
