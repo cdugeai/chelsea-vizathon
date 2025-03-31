@@ -7,25 +7,36 @@
 </script>
 
 <Navbar />
-<GoalSection />
+<div>
+	{@render title('Goal section')}
+	<GoalSection />
+</div>
 
 <Button>Click here</Button>
+
+{#snippet title(text: string)}
+	<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 leading-none">
+		{text}
+	</h2>
+{/snippet}
 
 <div class="flex-col">
 	<h1>Graph section</h1>
 	<div class="flex gap-2">
 		<div class="graph-column">
-			<h2>Weekly data</h2>
+			{@render title('Weekly data')}
 
 			<WeeklyEffortChart data={[]} />
 			<WeeklyEffortChart data={[]} />
 			<WeeklyEffortChart data={[]} />
 		</div>
 		<div class="graph-column bg-red-400">
-			<h2>Yearly data</h2>
+			{@render title('Yearly data')}
 			round data on year
 		</div>
 		<div class="graph-column">
+			{@render title('Player Identity')}
+
 			<PlayerIdentity />
 		</div>
 	</div>
