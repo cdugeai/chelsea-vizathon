@@ -1,6 +1,13 @@
 <div class="container">
-	<div class="container-logo">logo</div>
-	<div class="container-title">title</div>
+	<div class="container-logo">
+		<img
+			src="https://chelsea-fc-performance-insights.github.io/Competition/assets/img/logo/logo.svg"
+			alt="logo-chelse-fc"
+		/>
+	</div>
+	<div class="container-title flex items-center mx-12 text-2xl">
+		<p class="font-cfc">CFC Performance <br />Insights Vizathon</p>
+	</div>
 </div>
 
 <style>
@@ -12,11 +19,19 @@
 	.container-logo {
 		width: 100px;
 		height: 100px;
-		background-color: blue;
 	}
 
 	.container-title {
-		background-color: cadetblue;
-		flex-grow: 1;
+		flex-grow: 0;
+	}
+
+	@font-face {
+		font-family: CFCSerif;
+		font-weight: bold;
+		src: url('https://chelsea-fc-performance-insights.github.io/Competition/assets/fonts/CFCSerif-Bold.otf')
+			format('opentype');
+	}
+	.font-cfc {
+		font-family: CFCSerif, serif;
 	}
 </style>
