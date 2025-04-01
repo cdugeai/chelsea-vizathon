@@ -13,8 +13,14 @@
 	};
 </script>
 
+{#snippet title(text: string)}
+	<h2 class="mb-2 text-2xl font-extrabold tracking-tight text-gray-900 leading-none">
+		{text}
+	</h2>
+{/snippet}
+
 <div class="container">
-	<h2>Player identity</h2>
+	{@render title(player.name)}
 	<div class="player-card">
 		<div class="img-container">image</div>
 		<h2>{player.name}</h2>

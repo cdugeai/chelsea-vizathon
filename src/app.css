@@ -9,6 +9,7 @@
 
 :root {
     --color-primary: var(--color-emerald-600);
+    --color-white: var(--color-white);
     --color-success: var(--color-emerald-600);
     --color-secondary: var(--color-blue-500);
 }
