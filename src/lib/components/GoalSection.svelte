@@ -2,6 +2,11 @@
 	import { Avatar, Progress, ProgressCircle, Icon } from 'svelte-ux';
 	import Badge from '$lib/components/Badge.svelte';
 
+	function getRandomInt(min: number, max: number): number {
+		const minCeiled = Math.ceil(min);
+		const maxFloored = Math.floor(max);
+		return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
+	}
 	interface PriorityInterface {
 		Area: string;
 		Category: string;
@@ -11,6 +16,7 @@
 		Target: string;
 		'Target set': string;
 		Tracking: string;
+		progression: number;
 	}
 
 	interface GoalInterface {
@@ -56,7 +62,9 @@
 		priorities: PriorityInterface[];
 	}
 	let { priorities, ...rest }: Props = $props();
+
 	console.log({ priorities });
+	priorities = priorities.map((obj) => ({ ...obj, progression: getRandomInt(0, 100) }));
 </script>
 
 {#snippet title(text: string)}
@@ -91,10 +99,10 @@
 
 <div class="flex-col overflow-x-scroll">
 	<div class="container py-1">
-		{#each goals as goal}
+		{#each priorities as goal}
 			<div class="container-goal">
 				<div class="flex items-center justify-between">
-					<Badge text={goal.category} color={colorMap.get(goal.category) || 'pink'} />
+					<Badge text={goal.Category} color={colorMap.get(goal.Category) || 'pink'} />
 
 					<div class="flex items-start">
 						<p class="text-4xl font-extrabold text-blue-200 text-right">{goal.progression}</p>
@@ -103,12 +111,11 @@
 				</div>
 
 				<div class="flex text-nowrap gap-1.5 items-start my-1">
-					{@render getAvatar(goal.category)}
+					{@render getAvatar(goal.Category)}
 
 					<div class="flex flex-col font-light mx-1.5">
-						{@render title(goal.title)}
-						<p class="text-red-50 font-extralight text-sm">Description of goal</p>
-						<p class="text-red-50 font-extralight text-sm">Description of goal</p>
+						{@render title(goal.Area)}
+						<p class="text-red-50 font-extralight text-sm">{goal.Target}</p>
 					</div>
 				</div>
 
@@ -117,12 +124,16 @@
 					class="[--color:theme(--color-white)] [--track-color:theme(--color-primary/15%)]"
 				/>
 				<div class="flex justify-between items-start">
-					{@render renderDate(goal.dateStart)}
-					{@render renderDate(goal.dateEnd)}
+					{@render renderDate('12-24')}
+					{@render renderDate(goal['Review Date'])}
 				</div>
 			</div>
 		{/each}
 	</div>
+	<p>
+		Following data was not provided in the dataset and data is mocked: percentage of progression +
+		start date.
+	</p>
 </div>
 
 <style>
