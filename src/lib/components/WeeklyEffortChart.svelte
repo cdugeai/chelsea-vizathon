@@ -16,15 +16,7 @@
 	} from 'layerchart';
 	import { format, PeriodType, sortFunc } from '@layerstack/utils';
 
-	interface dateSeriesDataEnhancedInterface {
-		date: Date;
-		value: number;
-		dayOfWeek: number;
-		weekNo: number;
-	}
-	export let data;
-
-	const dateSeriesData = [
+	const dateSeriesDataMock = [
 		{
 			date: new Date('2025-02-26T23:00:00.000Z'),
 			value: 60
@@ -147,61 +139,89 @@
 		}
 	];
 
-	let weekIndex = 0;
-	let dateSeriesDataEnhanced: dateSeriesDataEnhancedInterface[] = [];
+	interface GpsData {
+		date: string;
+		day_duration: string;
+		distance: string;
+		distance_over_21: string;
+		distance_over_24: string;
+		distance_over_27: string;
+		md_minus_code: string;
+		md_plus_code: string;
+		peak_speed: string;
+		season: string;
+		wweek: string;
+		yyear: string;
+	}
+	interface Props {
+		data: GpsData[];
+	}
 
-	dateSeriesData.forEach((e) => {
-		if (e.date.getDay() === 0) {
-			weekIndex++;
-		}
-		dateSeriesDataEnhanced.push({
-			date: e.date,
-			value: e.value,
-			dayOfWeek: e.date.getDay(),
-			weekNo: weekIndex
-		});
-	});
+	let { data, ...rest }: Props = $props();
+
+	console.log(data);
+	console.log('');
+	let dateSeriesData = data.map((e) => ({
+		date: new Date(e.date),
+		value: parseFloat(e.day_duration),
+		wweek: parseInt(e.wweek),
+		yyear: parseInt(e.yyear),
+		md_minus_code: parseInt(e.md_minus_code)
+	}));
+
+	interface dateSeriesDataEnhancedInterface {
+		date: Date;
+		value: number;
+		md_minus_code: number;
+		weekNo: number;
+		yyear: number;
+	}
+	let weekIndex = 0;
+	let dateSeriesDataEnhanced: dateSeriesDataEnhancedInterface[] = dateSeriesData.map((e) => ({
+		date: e.date,
+		value: e.value,
+		md_minus_code: e.md_minus_code,
+		weekNo: e.wweek,
+		yyear: e.yyear
+	}));
+
+	console.log(dateSeriesDataEnhanced.filter((e) => e.weekNo === 31 && e.yyear === 2024));
 
 	const dataMap = new Map();
 	dataMap.set(
-		'0',
-		dateSeriesDataEnhanced.filter((e) => e.weekNo === 0)
+		'31',
+		dateSeriesDataEnhanced
+			.filter((e) => e.weekNo === 31 && e.yyear === 2024)
+			.sort((a, b) => a.md_minus_code - b.md_minus_code)
 	);
 	dataMap.set(
-		'1',
-		dateSeriesDataEnhanced.filter((e) => e.weekNo === 1)
+		'32',
+		dateSeriesDataEnhanced
+			.filter((e) => e.weekNo === 32 && e.yyear === 2024)
+			.sort((a, b) => a.md_minus_code - b.md_minus_code)
 	);
 	dataMap.set(
-		'2x',
-		dateSeriesDataEnhanced.filter((e) => e.weekNo === 2)
+		'33',
+		dateSeriesDataEnhanced
+			.filter((e) => e.weekNo === 33 && e.yyear === 2024)
+			.sort((a, b) => a.md_minus_code - b.md_minus_code)
 	);
 
 	let renderContext: 'svg' | 'canvas' = 'svg';
 	let debug = false;
-
-	// Get a few random points to use for annotations
-	$: annotations = [...dateSeriesData]
-		.sort(() => Math.random() - 0.5)
-		.slice(0, 5)
-		.sort(sortFunc('date'))
-		.map((d, i) => ({
-			date: d.date,
-			label: String.fromCharCode(65 + i),
-			description: `This is an annotation for ${format(d.date)}`
-		}));
+	console.log({ dataMap });
 </script>
 
 <div class="chart">
-	<AreaChart
-		x="dayOfWeek"
+	<LineChart
+		x="md_minus_code"
 		y="value"
-		points
 		{renderContext}
 		{debug}
 		series={[
-			{ key: '0', data: dataMap.get('0'), color: 'red' },
-			{ key: '1', data: dataMap.get('1'), color: 'blue' },
-			{ key: '2', data: dataMap.get('2'), color: 'green' }
+			{ key: '31', data: dataMap.get('31'), color: 'red' },
+			{ key: '32', data: dataMap.get('32'), color: 'blue' },
+			{ key: '33', data: dataMap.get('33'), color: 'green' }
 		]}
 	/>
 </div>

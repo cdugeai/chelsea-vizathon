@@ -31,9 +31,9 @@
 		<div class="graph-column">
 			{@render title('Weekly data')}
 
-			<WeeklyEffortChart data={[]} />
-			<WeeklyEffortChart data={[]} />
-			<WeeklyEffortChart data={[]} />
+			<WeeklyEffortChart data={data.gps} />
+			<WeeklyEffortChart data={data.gps} />
+			<WeeklyEffortChart data={data.gps} />
 		</div>
 		<div class="graph-column bg-red-400">
 			{@render title('Yearly data')}

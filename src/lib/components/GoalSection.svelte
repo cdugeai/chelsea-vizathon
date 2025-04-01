@@ -63,8 +63,9 @@
 	}
 	let { priorities, ...rest }: Props = $props();
 
-	console.log({ priorities });
-	priorities = priorities.map((obj) => ({ ...obj, progression: getRandomInt(0, 100) }));
+	priorities = priorities
+		.map((obj) => ({ ...obj, progression: getRandomInt(0, 100) }))
+		.sort((a, b) => a.progression - b.progression);
 </script>
 
 {#snippet title(text: string)}
