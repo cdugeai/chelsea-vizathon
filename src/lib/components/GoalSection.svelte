@@ -92,9 +92,6 @@
 					</div>
 				</div>
 
-				<div class="flex justify-center items-end">
-					{@render renderProgress(goal.progression)}
-				</div>
 				<Progress
 					value={goal.progression / 100}
 					class="[--color:theme(--color-white)] [--track-color:theme(--color-primary/15%)]"
