@@ -8,7 +8,7 @@
 
 <Navbar />
 <div>
-	{@render title('Goal section')}
+	{@render title('Goals')}
 	<GoalSection />
 </div>
 

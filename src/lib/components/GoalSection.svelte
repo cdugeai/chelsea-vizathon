@@ -47,11 +47,11 @@
 {/snippet}
 
 {#snippet renderDate(date_: string)}
-	<p class=" text-orange-200 progress-date">{date_}</p>
+	<p class=" text-blue-200 progress-date">{date_}</p>
 {/snippet}
 
 {#snippet renderProgress(progress: number)}
-	<p class="text-sm text-orange-100">{progress} %</p>
+	<p class="text-sm text-blue-100">{progress} %</p>
 {/snippet}
 
 {#snippet getAvatar(category: string)}
@@ -75,19 +75,20 @@
 		{#each goals as goal}
 			<div class="container-goal">
 				<div class="flex items-center justify-between">
+					<Badge text={goal.category} color={colorMap.get(goal.category) || 'pink'} />
+
 					<div class="flex items-start">
-						<p class="text-4xl font-extrabold text-gray-700 text-right">{goal.progression}</p>
+						<p class="text-4xl font-extrabold text-blue-200 text-right">{goal.progression}</p>
 						<p class="text-sm font-extrabold text-gray-500 text-right">&nbsp; / 100</p>
 					</div>
-
-					<Badge text={goal.category} color={colorMap.get(goal.category) || 'pink'} />
 				</div>
 
-				<div class="flex text-nowrap gap-1.5 items-center my-1">
+				<div class="flex text-nowrap gap-1.5 items-start my-1">
 					{@render getAvatar(goal.category)}
 
 					<div class="flex flex-col font-light mx-1.5">
 						{@render title(goal.title)}
+						<p class="text-red-50 font-extralight text-sm">Description of goal</p>
 						<p class="text-red-50 font-extralight text-sm">Description of goal</p>
 					</div>
 				</div>
@@ -116,13 +117,15 @@
 
 	.container-goal {
 		display: flex;
-		background-color: rgb(253 128 88);
+		/*background-color: rgb(253 128 88);*/
+		background-color: rgb(0 27 113);
+
 		min-width: 250px;
 		flex-shrink: 0;
 		gap: 0;
 		flex-direction: column;
 		border-radius: 5px;
-		padding: 1rem;
+		padding: 0.5rem 1rem 1rem 1rem;
 	}
 
 	.title {
