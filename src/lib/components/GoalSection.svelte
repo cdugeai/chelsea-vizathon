@@ -2,10 +2,21 @@
 	import { Avatar, Progress, ProgressCircle, Icon } from 'svelte-ux';
 	import Badge from '$lib/components/Badge.svelte';
 
+	interface PriorityInterface {
+		Area: string;
+		Category: string;
+		Performance: string;
+		Priority: string;
+		'Review Date': string;
+		Target: string;
+		'Target set': string;
+		Tracking: string;
+	}
+
 	interface GoalInterface {
 		title: string;
 		progression: number;
-		category: 'Personal' | 'Sport';
+		category: 'Personal' | 'Sport' | 'Recovery' | 'Performance';
 		dateStart: string;
 		dateEnd: string;
 	}
@@ -36,8 +47,16 @@
 
 	const colorMap = new Map([
 		['Sport', 'pink'],
-		['Personal', 'blue']
+		['Personal', 'blue'],
+		['Performance', 'pink'],
+		['Recovery', 'blue']
 	]);
+
+	interface Props {
+		priorities: PriorityInterface[];
+	}
+	let { priorities, ...rest }: Props = $props();
+	console.log({ priorities });
 </script>
 
 {#snippet title(text: string)}

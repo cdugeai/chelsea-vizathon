@@ -4,12 +4,17 @@
 	import Navbar from '$lib/components/Navbar.svelte';
 	import GoalSection from '$lib/components/GoalSection.svelte';
 	import PlayerIdentity from '$lib/components/PlayerIdentity.svelte';
+	import type { PageData } from './$types.js';
+
+	let { data }: { data: PageData } = $props();
+
+	console.log({ data });
 </script>
 
 <Navbar />
 <div>
 	{@render title('Goals')}
-	<GoalSection />
+	<GoalSection priorities={data.priorities} />
 </div>
 
 <Button>Click here</Button>

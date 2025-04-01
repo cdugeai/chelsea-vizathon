@@ -47,6 +47,8 @@
 	"dependencies": {
 		"@inlang/paraglide-js": "^2.0.0",
 		"@layerstack/tailwind": "^2.0.0-next.2",
+		"@types/d3-fetch": "^3.0.7",
+		"d3-fetch": "^3.0.1",
 		"drizzle-orm": "^0.40.0",
 		"layerchart": "^2.0.0-next.1",
 		"postgres": "^3.4.5",
