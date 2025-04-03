@@ -1,6 +1,8 @@
 <script lang="ts">
 	import { Avatar, Progress, ProgressCircle, Icon } from 'svelte-ux';
 	import Badge from '$lib/components/Badge.svelte';
+	import GoalProgressionConcentric from '$lib/components/GoalProgressionConcentric.svelte';
+	import { Point, Points } from 'layerchart';
 
 	function getRandomInt(min: number, max: number): number {
 		const minCeiled = Math.ceil(min);
@@ -55,7 +57,7 @@
 		['Sport', 'pink'],
 		['Personal', 'blue'],
 		['Performance', 'pink'],
-		['Recovery', 'blue']
+		['Recovery', 'green']
 	]);
 
 	interface Props {
@@ -66,6 +68,18 @@
 	priorities = priorities
 		.map((obj) => ({ ...obj, progression: getRandomInt(0, 100) }))
 		.sort((a, b) => a.progression - b.progression);
+
+	const average = (array) => array.reduce((a, b) => a + b) / array.length;
+
+	let redValue: number = average(
+		priorities.filter((p) => p.Category === 'Performance').map((e) => e.progression)
+	);
+	let greenValue: number = average(
+		priorities.filter((p) => p.Category === 'Recovery').map((e) => e.progression)
+	);
+	let blueValue: number = 65;
+
+	console.log({ priorities });
 </script>
 
 {#snippet title(text: string)}
@@ -98,8 +112,28 @@
 	{/if}
 {/snippet}
 
+{#snippet legendItem(text: string, classColor: string)}
+	<div class="flex items-center">
+		<svg height="10" width="10" xmlns="http://www.w3.org/2000/svg">
+			<circle r="6" cx="2" cy="5" class={classColor} />
+		</svg>
+		<p class="mx-1">{text}</p>
+	</div>
+{/snippet}
+
 <div class="flex-col overflow-x-scroll">
 	<div class="container py-1">
+		<div class="container-concentric w-[150px] py-4 px-3 justify-evenly gap-3">
+			<div class="w-[100px]">
+				<GoalProgressionConcentric {redValue} {greenValue} {blueValue} />
+			</div>
+			<div id="legend" class="flex-col py-0">
+				<h2 class="mb-2 text-xl tracking-tight leading-none">Progress</h2>
+				{@render legendItem('Performance', 'fill-red-500')}
+				{@render legendItem('Recovery', 'fill-lime-400')}
+				{@render legendItem('Other', 'fill-cyan-500')}
+			</div>
+		</div>
 		{#each priorities as goal}
 			<div class="container-goal">
 				<div class="flex items-center justify-between">
@@ -157,6 +191,16 @@
 		flex-direction: column;
 		border-radius: 5px;
 		padding: 0.5rem 1rem 1rem 1rem;
+	}
+
+	.container-concentric {
+		display: flex;
+		flex-direction: row;
+		justify-items: start;
+		background-color: rgba(3, 67, 243, 0.04);
+		border: rgba(2, 58, 213, 0.51) 1px solid;
+		min-width: 250px;
+		border-radius: 5px;
 	}
 
 	.title {

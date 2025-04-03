@@ -71,6 +71,14 @@
 	<div class="flex gap-2 justify-between">
 		<div class="graph-column">
 			{@render title('Weekly data')}
+			<p class="mb-4 text-lg font-extralight tracking-tight text-gray-900 leading-none">
+				Displays data over the last 3 match weeks. The x-axis represents the number of <b
+					>days before match day</b
+				>.
+			</p>
+			<p class="mb-4 text-lg font-extralight tracking-tight text-gray-900 leading-none">
+				This graph allows to compare training intensity over the last few match weeks.
+			</p>
 			<div class="p-4 border rounded">
 				{@render chartTitle('Day duration', 'Duration of training each day before matchday.')}
 				<WeeklyEffortChart data={data_day_duration} display_legend={false} />
