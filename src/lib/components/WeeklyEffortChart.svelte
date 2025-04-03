@@ -153,8 +153,18 @@
 		wweek: string;
 		yyear: string;
 	}
+
+	interface GpsData5Last {
+		previous_week: string;
+		md_minus_code: string;
+		day_duration: string;
+		info_cols: '-';
+		date: string;
+		match_week: string;
+	}
+
 	interface Props {
-		data: GpsData[];
+		data: GpsData5Last[];
 	}
 
 	let { data, ...rest }: Props = $props();
@@ -163,47 +173,30 @@
 	console.log('');
 	let dateSeriesData = data.map((e) => ({
 		date: new Date(e.date),
-		value: parseFloat(e.day_duration),
-		wweek: parseInt(e.wweek),
-		yyear: parseInt(e.yyear),
-		md_minus_code: parseInt(e.md_minus_code)
+		day_duration: parseFloat(e.day_duration),
+		md_minus_code: parseInt(e.md_minus_code),
+		previous_week: parseInt(e.previous_week)
 	}));
 
-	interface dateSeriesDataEnhancedInterface {
-		date: Date;
-		value: number;
-		md_minus_code: number;
-		weekNo: number;
-		yyear: number;
-	}
-	let weekIndex = 0;
-	let dateSeriesDataEnhanced: dateSeriesDataEnhancedInterface[] = dateSeriesData.map((e) => ({
-		date: e.date,
-		value: e.value,
-		md_minus_code: e.md_minus_code,
-		weekNo: e.wweek,
-		yyear: e.yyear
-	}));
-
-	console.log(dateSeriesDataEnhanced.filter((e) => e.weekNo === 31 && e.yyear === 2024));
+	console.log(dateSeriesData.filter((e) => e.previous_week == 0));
 
 	const dataMap = new Map();
 	dataMap.set(
-		'31',
-		dateSeriesDataEnhanced
-			.filter((e) => e.weekNo === 31 && e.yyear === 2024)
+		'currentweek',
+		dateSeriesData
+			.filter((e) => e.previous_week === 0)
 			.sort((a, b) => a.md_minus_code - b.md_minus_code)
 	);
 	dataMap.set(
-		'32',
-		dateSeriesDataEnhanced
-			.filter((e) => e.weekNo === 32 && e.yyear === 2024)
+		'prev 1 w',
+		dateSeriesData
+			.filter((e) => e.previous_week === 1)
 			.sort((a, b) => a.md_minus_code - b.md_minus_code)
 	);
 	dataMap.set(
-		'33',
-		dateSeriesDataEnhanced
-			.filter((e) => e.weekNo === 33 && e.yyear === 2024)
+		'prev 2 w',
+		dateSeriesData
+			.filter((e) => e.previous_week === 2)
 			.sort((a, b) => a.md_minus_code - b.md_minus_code)
 	);
 
@@ -215,13 +208,15 @@
 <div class="chart">
 	<LineChart
 		x="md_minus_code"
-		y="value"
+		y="day_duration"
+		legend
 		{renderContext}
 		{debug}
 		series={[
-			{ key: '31', data: dataMap.get('31'), color: 'red' },
-			{ key: '32', data: dataMap.get('32'), color: 'blue' },
-			{ key: '33', data: dataMap.get('33'), color: 'green' }
+			//d9f0ff
+			{ key: 'Current week', data: dataMap.get('currentweek'), color: 'red' },
+			{ key: 'Week - 1', data: dataMap.get('prev 1 w'), color: '#a3d5ff' },
+			{ key: 'Week - 2', data: dataMap.get('prev 2 w'), color: '#83c9f4' }
 		]}
 	/>
 </div>
