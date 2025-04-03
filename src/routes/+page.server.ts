@@ -5,6 +5,7 @@ export const load: PageServerLoad = async (event) => {
 	const parsePriorities: boolean = true;
 	const parseGps: boolean = true;
 	const parse5lastW: boolean = true;
+	const parseYearlyData: boolean = true;
 
 	const priorities = parsePriorities
 		? await csv(
@@ -23,9 +24,16 @@ export const load: PageServerLoad = async (event) => {
 			)
 		: {};
 
+	const gps_yearly_data = parseYearlyData
+		? await csv(
+				'https://gist.githubusercontent.com/cdugeai/d03aa93e9c310747d5c9bf9c5fedb048/raw/3c00caa642e2f4a859fb97e94eeea0570e1e5e61/marts_yearly_data.csv'
+			)
+		: {};
+
 	return {
 		priorities,
 		gps,
-		gps_5_last_weeks
+		gps_5_last_weeks,
+		gps_yearly_data
 	};
 };

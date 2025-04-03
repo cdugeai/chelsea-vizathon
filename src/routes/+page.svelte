@@ -5,10 +5,11 @@
 	import GoalSection from '$lib/components/GoalSection.svelte';
 	import PlayerIdentity from '$lib/components/PlayerIdentity.svelte';
 	import type { PageData } from './$types.js';
+	import { Calendar } from 'layerchart';
+	import CalendarView from '$lib/components/CalendarView.svelte';
+	import CalendarViewSimple from '$lib/components/CalendarViewSimple.svelte';
 
 	let { data }: { data: PageData } = $props();
-
-	console.log({ data });
 
 	interface GpsData {
 		previous_week: number;
@@ -41,6 +42,40 @@
 		info_cols: '-',
 		date: new Date(e.date)
 	}));
+
+	let selectedYear: string = $state('2023');
+	let selectedYearColumn: string = $state('peak_speed');
+	let selectedData = $derived.by(() => {
+		return data.gps_yearly_data.map((e) => ({
+			year: e.yyear,
+			date: new Date(e.date).setHours(0, 0, 0, 0),
+			value: parseFloat(e[selectedYear])
+		}));
+	});
+
+	const selectNextData = () => {
+		if (selectedYearColumn === 'peak_speed') {
+			selectedYearColumn = 'day_duration';
+		} else {
+			selectedYearColumn = 'peak_speed';
+		}
+	};
+	const selectYearlyData = (yyear: string, column: string) => {
+		return data.gps_yearly_data
+			.filter((e) => e.yyear === yyear)
+			.map((e) => ({
+				date: new Date(e.date).setHours(0, 0, 0, 0),
+				value: parseFloat(e[column])
+			}));
+	};
+	let selectedYearlyData = $derived.by(() => {
+		return data.gps_yearly_data
+			.filter((e) => e.yyear === selectedYear)
+			.map((e) => ({
+				date: new Date(e.date).setHours(0, 0, 0, 0),
+				value: parseFloat(e[selectedYearColumn])
+			}));
+	});
 </script>
 
 <Navbar />
@@ -88,9 +123,37 @@
 				<WeeklyEffortChart data={data_peak_speed} display_legend={true} />
 			</div>
 		</div>
-		<div class="graph-column bg-red-400">
+		<div class="graph-column">
 			{@render title('Yearly data')}
 			round data on year
+			<div class=" overflow-hidden p-4 border rounded flex flex-col">
+				<!--<CalendarViewSimple data={selectedYearlyData} tooltipLabel={selectedYearColumn} />-->
+				<div class="h-[100px]">
+					<CalendarViewSimple
+						data={selectYearlyData('2023', 'peak_speed')}
+						tooltipLabel={'peak_speed'}
+					/>
+				</div>
+				<div class="h-[100px]">
+					<CalendarViewSimple
+						data={selectYearlyData('2023', 'peak_speed')}
+						tooltipLabel={'peak_speed'}
+					/>
+				</div>
+				<div class="h-[100px]">
+					<CalendarViewSimple
+						data={selectYearlyData('2024', 'peak_speed')}
+						tooltipLabel={'peak_speed'}
+					/>
+				</div>
+				<div class="h-[100px]">
+					<CalendarViewSimple
+						data={selectYearlyData('2025', 'peak_speed')}
+						tooltipLabel={'peak_speed'}
+					/>
+				</div>
+				<Button variant="outline" on:click={selectNextData}>Change variable</Button>
+			</div>
 		</div>
 		<div class="graph-column">
 			{@render title('Player Identity')}
