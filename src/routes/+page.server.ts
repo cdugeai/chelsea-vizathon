@@ -19,7 +19,7 @@ export const load: PageServerLoad = async (event) => {
 
 	const gps_5_last_weeks = parse5lastW
 		? await csv(
-				'https://gist.githubusercontent.com/cdugeai/20c1c6cca147f65599db24b5c7156241/raw/a72341095988b9bf39bade20796a787aa9d964e5/marts_gps_last_5_matchweeks.csv'
+				'https://gist.githubusercontent.com/cdugeai/20c1c6cca147f65599db24b5c7156241/raw/1812fe5fe2036ef5a67b166eef07372a8a5a840b/marts_gps_last_5_matchweeks.csv'
 			)
 		: {};
 
