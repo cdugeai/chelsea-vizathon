@@ -43,13 +43,12 @@
 		date: new Date(e.date)
 	}));
 
-	let selectedYear: string = $state('2023');
 	let selectedYearColumn: string = $state('peak_speed');
 	let selectedData = $derived.by(() => {
 		return data.gps_yearly_data.map((e) => ({
 			year: e.yyear,
 			date: new Date(e.date).setHours(0, 0, 0, 0),
-			value: parseFloat(e[selectedYear])
+			value: parseFloat(e[selectedYearColumn])
 		}));
 	});
 
@@ -60,22 +59,6 @@
 			selectedYearColumn = 'peak_speed';
 		}
 	};
-	const selectYearlyData = (yyear: string, column: string) => {
-		return data.gps_yearly_data
-			.filter((e) => e.yyear === yyear)
-			.map((e) => ({
-				date: new Date(e.date).setHours(0, 0, 0, 0),
-				value: parseFloat(e[column])
-			}));
-	};
-	let selectedYearlyData = $derived.by(() => {
-		return data.gps_yearly_data
-			.filter((e) => e.yyear === selectedYear)
-			.map((e) => ({
-				date: new Date(e.date).setHours(0, 0, 0, 0),
-				value: parseFloat(e[selectedYearColumn])
-			}));
-	});
 </script>
 
 <Navbar />
@@ -125,33 +108,20 @@
 		</div>
 		<div class="graph-column">
 			{@render title('Yearly data')}
-			round data on year
+			<p>Evolution of variable <b>{selectedYearColumn}</b> over years.</p>
+
 			<div class=" overflow-hidden p-4 border rounded flex flex-col">
 				<!--<CalendarViewSimple data={selectedYearlyData} tooltipLabel={selectedYearColumn} />-->
-				<div class="h-[100px]">
-					<CalendarViewSimple
-						data={selectYearlyData('2023', 'peak_speed')}
-						tooltipLabel={'peak_speed'}
-					/>
-				</div>
-				<div class="h-[100px]">
-					<CalendarViewSimple
-						data={selectYearlyData('2023', 'peak_speed')}
-						tooltipLabel={'peak_speed'}
-					/>
-				</div>
-				<div class="h-[100px]">
-					<CalendarViewSimple
-						data={selectYearlyData('2024', 'peak_speed')}
-						tooltipLabel={'peak_speed'}
-					/>
-				</div>
-				<div class="h-[100px]">
-					<CalendarViewSimple
-						data={selectYearlyData('2025', 'peak_speed')}
-						tooltipLabel={'peak_speed'}
-					/>
-				</div>
+
+				{#each ['2022', '2023', '2024', '2025'] as yy}
+					<div class="h-[100px]">
+						<CalendarViewSimple
+							data={selectedData.filter((e) => e.year === yy)}
+							tooltipLabel={selectedYearColumn}
+						/>
+					</div>
+				{/each}
+
 				<Button variant="outline" on:click={selectNextData}>Change variable</Button>
 			</div>
 		</div>
