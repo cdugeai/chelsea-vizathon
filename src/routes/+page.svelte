@@ -6,39 +6,32 @@
 	import PlayerIdentity from '$lib/components/PlayerIdentity.svelte';
 	import type { PageData } from './$types.js';
 	import CalendarViewSimple from '$lib/components/CalendarViewSimple.svelte';
+	import type { GpsData } from 'data';
 
 	let { data }: { data: PageData } = $props();
 
-	interface GpsData {
-		previous_week: number;
-		md_minus_code: number;
-		value: number;
-		info_cols: '-';
-		date: Date;
-	}
-
 	let data_day_duration: GpsData[] = data.gps_5_last_weeks.map((e) => ({
-		previous_week: parseInt(e.previous_week),
-		md_minus_code: parseInt(e.md_minus_code),
-		value: parseFloat(e.day_duration),
+		previous_week: e.previous_week,
+		md_minus_code: e.md_minus_code,
+		value: e.day_duration,
 		info_cols: '-',
-		date: new Date(e.date)
+		date: e.date
 	}));
 
 	let data_distance: GpsData[] = data.gps_5_last_weeks.map((e) => ({
-		previous_week: parseInt(e.previous_week),
-		md_minus_code: parseInt(e.md_minus_code),
-		value: parseFloat(e.distance),
+		previous_week: e.previous_week,
+		md_minus_code: e.md_minus_code,
+		value: e.distance,
 		info_cols: '-',
-		date: new Date(e.date)
+		date: e.date
 	}));
 
 	let data_peak_speed: GpsData[] = data.gps_5_last_weeks.map((e) => ({
-		previous_week: parseInt(e.previous_week),
-		md_minus_code: parseInt(e.md_minus_code),
-		value: parseFloat(e.peak_speed),
+		previous_week: e.previous_week,
+		md_minus_code: e.md_minus_code,
+		value: e.peak_speed,
 		info_cols: '-',
-		date: new Date(e.date)
+		date: e.date
 	}));
 
 	let selectedYearColumn: string = $state('peak_speed');
