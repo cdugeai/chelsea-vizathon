@@ -5,8 +5,6 @@
 	import GoalSection from '$lib/components/GoalSection.svelte';
 	import PlayerIdentity from '$lib/components/PlayerIdentity.svelte';
 	import type { PageData } from './$types.js';
-	import { Calendar } from 'layerchart';
-	import CalendarView from '$lib/components/CalendarView.svelte';
 	import CalendarViewSimple from '$lib/components/CalendarViewSimple.svelte';
 
 	let { data }: { data: PageData } = $props();
@@ -111,8 +109,6 @@
 			<p>Evolution of variable <b>{selectedYearColumn}</b> over years.</p>
 
 			<div class=" overflow-hidden p-4 border rounded flex flex-col">
-				<!--<CalendarViewSimple data={selectedYearlyData} tooltipLabel={selectedYearColumn} />-->
-
 				{#each ['2022', '2023', '2024', '2025'] as yy}
 					<div class="h-[100px]">
 						<CalendarViewSimple

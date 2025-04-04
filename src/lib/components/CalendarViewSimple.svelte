@@ -1,13 +1,8 @@
 <script lang="ts">
-	import { Calendar, Chart, Svg, Group, Text, Tooltip } from 'layerchart';
+	import { Calendar, Chart, Svg, Tooltip } from 'layerchart';
 	import { format, PeriodType } from '@layerstack/utils';
-
 	import { startOfYear, endOfYear } from 'date-fns';
-
 	import { scaleThreshold } from 'd3-scale';
-	import { range } from 'd3-array';
-
-	const now = new Date();
 
 	interface Props {
 		tooltipLabel: string;
