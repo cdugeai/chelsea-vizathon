@@ -78,8 +78,6 @@
 		priorities.filter((p) => p.Category === 'Recovery').map((e) => e.progression)
 	);
 	let blueValue: number = 65;
-
-	console.log({ priorities });
 </script>
 
 {#snippet title(text: string)}

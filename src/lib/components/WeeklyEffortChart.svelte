@@ -32,8 +32,6 @@
 	let { data, display_legend, ...rest }: Props = $props();
 
 	let cwData = data.filter((e) => e.previous_week == 0);
-	console.log({ cwData });
-
 	const dataMap = new Map();
 	dataMap.set(
 		'week_current',
@@ -50,7 +48,6 @@
 
 	let renderContext: 'svg' | 'canvas' = 'svg';
 	let debug = false;
-	console.log({ dataMap });
 </script>
 
 <div class="chart">
