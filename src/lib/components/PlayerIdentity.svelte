@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { Card, Button } from 'svelte-ux';
-	import profile_12 from '../../../static/profile/12.png';
 
 	interface PlayerIdentityInterface {
 		name: string;
@@ -63,7 +62,7 @@
 					<h2 class="text-4xl font-bold font-cfc-color">{player.name.split(' ')[1]}</h2>
 				</div>
 			</div>
-			<img src={'./profile/' + player.jersey_no + '.png'} alt="player picture" />
+			<img src={'/img/profile/' + player.jersey_no + '.png'} alt="player profile" />
 		</div>
 
 		<div class="flex gap-2 justify-between my-5" id="player-info">
