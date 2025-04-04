@@ -3,14 +3,18 @@
 	import { format, PeriodType } from '@layerstack/utils';
 	import { startOfYear, endOfYear } from 'date-fns';
 	import { scaleThreshold } from 'd3-scale';
+	import { onMount } from 'svelte';
 
 	interface Props {
 		tooltipLabel: string;
 		data: Array<any>;
 	}
 
+	onMount(() => {
+		console.log('Mounting data calendar:');
+		console.log(data.length);
+	});
 	let { tooltipLabel, data, ...rest }: Props = $props();
-
 	const firstDayOfYear = startOfYear(data[0].date);
 	const lastDayOfYear = endOfYear(data[0].date);
 </script>

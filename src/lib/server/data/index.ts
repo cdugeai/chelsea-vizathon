@@ -69,6 +69,7 @@ export interface GpsYearlyData {
 }
 
 export function load_gps_yearly_data(): GpsYearlyData[] {
+	console.log('Load _gps_yearly_data');
 	return gps_yearly_data.map((e) => ({
 		date_str: e.date,
 		date: new Date(e.date).setHours(0, 0, 0, 0),

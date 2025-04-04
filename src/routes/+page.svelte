@@ -53,8 +53,6 @@
 		}
 	});
 
-	$inspect(selectedData);
-
 	const selectNextData = () => {
 		if (selectedYearColumn === 'peak_speed') {
 			selectedYearColumn = 'day_duration';
