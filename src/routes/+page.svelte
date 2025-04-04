@@ -59,14 +59,6 @@
 	};
 </script>
 
-<Navbar />
-<div>
-	{@render title('Goals')}
-	<GoalSection priorities={data.priorities} />
-</div>
-
-<Button>Click here</Button>
-
 {#snippet title(text: string)}
 	<h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 leading-none">
 		{text}
@@ -82,8 +74,13 @@
 	</h2>
 {/snippet}
 
+<Navbar />
+<div>
+	{@render title('Goals')}
+	<GoalSection />
+</div>
+
 <div class="flex-col">
-	<h1>Graph section</h1>
 	<div class="flex gap-2 justify-between">
 		<div class="graph-column">
 			{@render title('Weekly data')}

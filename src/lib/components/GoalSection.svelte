@@ -3,12 +3,20 @@
 	import Badge from '$lib/components/Badge.svelte';
 	import GoalProgressionConcentric from '$lib/components/GoalProgressionConcentric.svelte';
 	import { Point, Points } from 'layerchart';
+	import { onMount } from 'svelte';
 
 	function getRandomInt(min: number, max: number): number {
 		const minCeiled = Math.ceil(min);
 		const maxFloored = Math.floor(max);
 		return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
 	}
+	const average = (array) => array.reduce((a, b) => a + b, -1) / array.length;
+
+	let priorities: PriorityInterface[] = $state([]);
+	let redValue: number = $state(0);
+	let greenValue: number = $state(0);
+	let blueValue: number = $state(0);
+
 	interface PriorityInterface {
 		Area: string;
 		Category: string;
@@ -21,37 +29,23 @@
 		progression: number;
 	}
 
-	interface GoalInterface {
-		title: string;
-		progression: number;
-		category: 'Personal' | 'Sport' | 'Recovery' | 'Performance';
-		dateStart: string;
-		dateEnd: string;
-	}
+	onMount(async () => {
+		priorities = (await fetch('/data/priorities.json').then((r) =>
+			r.json()
+		)) as PriorityInterface[];
 
-	const goals: GoalInterface[] = [
-		{
-			title: 'Faster sprint',
-			progression: 40,
-			category: 'Sport',
-			dateStart: '12-24',
-			dateEnd: '05-25'
-		},
-		{
-			title: 'Better sleep',
-			progression: 70,
-			category: 'Personal',
-			dateStart: '12-24',
-			dateEnd: '05-25'
-		},
-		{
-			title: 'Better nutrition',
-			progression: 60,
-			category: 'Personal',
-			dateStart: '12-24',
-			dateEnd: '05-25'
-		}
-	];
+		priorities = priorities
+			.map((obj) => ({ ...obj, progression: getRandomInt(0, 100) }))
+			.sort((a, b) => a.progression - b.progression);
+
+		redValue = average(
+			priorities.filter((p) => p.Category === 'Performance').map((e) => e.progression)
+		);
+		greenValue = average(
+			priorities.filter((p) => p.Category === 'Recovery').map((e) => e.progression)
+		);
+		blueValue = 65;
+	});
 
 	const colorMap = new Map([
 		['Sport', 'pink'],
@@ -63,21 +57,7 @@
 	interface Props {
 		priorities: PriorityInterface[];
 	}
-	let { priorities, ...rest }: Props = $props();
-
-	priorities = priorities
-		.map((obj) => ({ ...obj, progression: getRandomInt(0, 100) }))
-		.sort((a, b) => a.progression - b.progression);
-
-	const average = (array) => array.reduce((a, b) => a + b) / array.length;
-
-	let redValue: number = average(
-		priorities.filter((p) => p.Category === 'Performance').map((e) => e.progression)
-	);
-	let greenValue: number = average(
-		priorities.filter((p) => p.Category === 'Recovery').map((e) => e.progression)
-	);
-	let blueValue: number = 65;
+	//let { priorities, ...rest }: Props = $props();
 </script>
 
 {#snippet title(text: string)}
@@ -163,10 +143,6 @@
 			</div>
 		{/each}
 	</div>
-	<p>
-		Following data was not provided in the dataset and data is mocked: percentage of progression +
-		start date.
-	</p>
 </div>
 
 <style>
