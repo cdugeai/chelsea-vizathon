@@ -77,7 +77,7 @@
 <Navbar />
 <div>
 	{@render title('Goals')}
-	<GoalSection />
+	<GoalSection priorities={data.priorities} />
 </div>
 
 <div class="flex-col">

@@ -1,6 +1,8 @@
 import type { PageServerLoad, Actions } from './$types.js';
 import { csv } from 'd3-fetch';
 
+import { load_priorities } from 'data';
+
 export const load: PageServerLoad = async (event) => {
 	const parseGps: boolean = true;
 	const parse5lastW: boolean = true;
@@ -27,6 +29,7 @@ export const load: PageServerLoad = async (event) => {
 	return {
 		gps,
 		gps_5_last_weeks,
-		gps_yearly_data
+		gps_yearly_data,
+		priorities: load_priorities()
 	};
 };

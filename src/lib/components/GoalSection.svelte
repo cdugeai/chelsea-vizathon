@@ -3,49 +3,7 @@
 	import Badge from '$lib/components/Badge.svelte';
 	import GoalProgressionConcentric from '$lib/components/GoalProgressionConcentric.svelte';
 	import { Point, Points } from 'layerchart';
-	import { onMount } from 'svelte';
-
-	function getRandomInt(min: number, max: number): number {
-		const minCeiled = Math.ceil(min);
-		const maxFloored = Math.floor(max);
-		return Math.floor(Math.random() * (maxFloored - minCeiled) + minCeiled); // The maximum is exclusive and the minimum is inclusive
-	}
-	const average = (array) => array.reduce((a, b) => a + b, -1) / array.length;
-
-	let priorities: PriorityInterface[] = $state([]);
-	let redValue: number = $state(0);
-	let greenValue: number = $state(0);
-	let blueValue: number = $state(0);
-
-	interface PriorityInterface {
-		Area: string;
-		Category: string;
-		Performance: string;
-		Priority: string;
-		'Review Date': string;
-		Target: string;
-		'Target set': string;
-		Tracking: string;
-		progression: number;
-	}
-
-	onMount(async () => {
-		priorities = (await fetch('/data/priorities.json').then((r) =>
-			r.json()
-		)) as PriorityInterface[];
-
-		priorities = priorities
-			.map((obj) => ({ ...obj, progression: getRandomInt(0, 100) }))
-			.sort((a, b) => a.progression - b.progression);
-
-		redValue = average(
-			priorities.filter((p) => p.Category === 'Performance').map((e) => e.progression)
-		);
-		greenValue = average(
-			priorities.filter((p) => p.Category === 'Recovery').map((e) => e.progression)
-		);
-		blueValue = 65;
-	});
+	import type { PriorityInterface } from 'data';
 
 	const colorMap = new Map([
 		['Sport', 'pink'],
@@ -57,7 +15,15 @@
 	interface Props {
 		priorities: PriorityInterface[];
 	}
-	//let { priorities, ...rest }: Props = $props();
+	let { priorities, ...rest }: Props = $props();
+
+	const average = (array) => array.reduce((a, b) => a + b) / array.length;
+
+	let concentric_values: { red: number; green: number; blue: number } = {
+		red: average(priorities.filter((p) => p.Category === 'Performance').map((e) => e.progression)),
+		green: average(priorities.filter((p) => p.Category === 'Recovery').map((e) => e.progression)),
+		blue: 65
+	};
 </script>
 
 {#snippet title(text: string)}
@@ -103,7 +69,11 @@
 	<div class="container py-1">
 		<div class="container-concentric w-[150px] py-4 px-3 justify-evenly gap-3">
 			<div class="w-[100px]">
-				<GoalProgressionConcentric {redValue} {greenValue} {blueValue} />
+				<GoalProgressionConcentric
+					redValue={concentric_values.red}
+					greenValue={concentric_values.green}
+					blueValue={concentric_values.blue}
+				/>
 			</div>
 			<div id="legend" class="flex-col py-0">
 				<h2 class="mb-2 text-xl tracking-tight leading-none">Progress</h2>

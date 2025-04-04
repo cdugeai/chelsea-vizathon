@@ -13,8 +13,7 @@ const config = {
 		// See https://svelte.dev/docs/kit/adapters for more information about adapters.
 		adapter: adapter(),
 		alias: {
-			data: '/static/data',
-			'my-file': 'path/to/my-file.js'
+			data: 'src/lib/server/data'
 		}
 	}
 };
