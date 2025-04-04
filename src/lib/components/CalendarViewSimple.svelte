@@ -17,6 +17,8 @@
 	let { tooltipLabel, data, ...rest }: Props = $props();
 	const firstDayOfYear = startOfYear(data[0].date);
 	const lastDayOfYear = endOfYear(data[0].date);
+	console.log({ firstDayOfYear });
+	console.log({ lastDayOfYear });
 </script>
 
 <Chart
