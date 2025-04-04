@@ -35,7 +35,7 @@
 	}));
 
 	let selectedYearColumn: string = $state('peak_speed');
-	let selectedData: { year: number; date: Date; value: number }[] = $derived.by(() => {
+	let selectedData: { year: number; date: number; value: number }[] = $derived.by(() => {
 		// TODO optimize
 		if (selectedYearColumn === 'peak_speed') {
 			return data.gps_yearly_data.map((e) => ({
@@ -52,6 +52,8 @@
 			}));
 		}
 	});
+
+	$inspect(selectedData);
 
 	const selectNextData = () => {
 		if (selectedYearColumn === 'peak_speed') {
