@@ -1,0 +1,6658 @@
+[
+  {
+    "date": "2022-08-02",
+    "yyear": 2022,
+    "distance": 4524.085076,
+    "pct_distance_over_21": 1.9734052065823704,
+    "day_duration": 76.24236931,
+    "peak_speed": 30.7559
+  },
+  {
+    "date": "2022-08-03",
+    "yyear": 2022,
+    "distance": 5264.645855,
+    "pct_distance_over_21": 4.670051847200651,
+    "day_duration": 65.21783048,
+    "peak_speed": 28.67495
+  },
+  {
+    "date": "2022-08-04",
+    "yyear": 2022,
+    "distance": 6886.542272,
+    "pct_distance_over_21": 2.892311578625564,
+    "day_duration": 105.139759,
+    "peak_speed": 29.2172
+  },
+  {
+    "date": "2022-08-05",
+    "yyear": 2022,
+    "distance": 2622.552016,
+    "pct_distance_over_21": 2.607739350173484,
+    "day_duration": 64.58843385,
+    "peak_speed": 28.703
+  },
+  {
+    "date": "2022-08-06",
+    "yyear": 2022,
+    "distance": 5654.028319,
+    "pct_distance_over_21": 7.9074691525258345,
+    "day_duration": 46.04835304,
+    "peak_speed": 30.29811976
+  },
+  {
+    "date": "2022-08-07",
+    "yyear": 2022,
+    "distance": 7379.419445,
+    "pct_distance_over_21": 3.1229608252739722,
+    "day_duration": 116.656904,
+    "peak_speed": 30.8216
+  },
+  {
+    "date": "2022-08-08",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-08-09",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-08-10",
+    "yyear": 2022,
+    "distance": 6388.152035,
+    "pct_distance_over_21": 7.227888329367226,
+    "day_duration": 94.99376919,
+    "peak_speed": 31.51548
+  },
+  {
+    "date": "2022-08-11",
+    "yyear": 2022,
+    "distance": 3727.993084,
+    "pct_distance_over_21": 4.8687377715103075,
+    "day_duration": 60.25599587,
+    "peak_speed": 28.85883
+  },
+  {
+    "date": "2022-08-12",
+    "yyear": 2022,
+    "distance": 4205.273933,
+    "pct_distance_over_21": 2.1095813814609823,
+    "day_duration": 63.96877816,
+    "peak_speed": 31.1003
+  },
+  {
+    "date": "2022-08-13",
+    "yyear": 2022,
+    "distance": 2821.360564,
+    "pct_distance_over_21": 2.3424751264794383,
+    "day_duration": 54.75395802,
+    "peak_speed": 26.7007
+  },
+  {
+    "date": "2022-08-14",
+    "yyear": 2022,
+    "distance": 10190.6242,
+    "pct_distance_over_21": 3.995337505429746,
+    "day_duration": 96.40421297,
+    "peak_speed": 32.322
+  },
+  {
+    "date": "2022-08-15",
+    "yyear": 2022,
+    "distance": 3507.646465,
+    "pct_distance_over_21": 0,
+    "day_duration": 62.97166806,
+    "peak_speed": 28.2309
+  },
+  {
+    "date": "2022-08-16",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-08-17",
+    "yyear": 2022,
+    "distance": 4746.079919,
+    "pct_distance_over_21": 0.9071598804655527,
+    "day_duration": 66.90251893,
+    "peak_speed": 22.543
+  },
+  {
+    "date": "2022-08-18",
+    "yyear": 2022,
+    "distance": 4995.294095,
+    "pct_distance_over_21": 3.583638174160394,
+    "day_duration": 79.10967238,
+    "peak_speed": 30.6657
+  },
+  {
+    "date": "2022-08-19",
+    "yyear": 2022,
+    "distance": 3468.36657,
+    "pct_distance_over_21": 1.1195977012891114,
+    "day_duration": 81.55446762,
+    "peak_speed": 27.1173
+  },
+  {
+    "date": "2022-08-20",
+    "yyear": 2022,
+    "distance": 2436.343984,
+    "pct_distance_over_21": 0.28027498784424526,
+    "day_duration": 59.64192971,
+    "peak_speed": 27.0906
+  },
+  {
+    "date": "2022-08-21",
+    "yyear": 2022,
+    "distance": 5635.717452,
+    "pct_distance_over_21": 6.0852126889061084,
+    "day_duration": 64.04870174,
+    "peak_speed": 30.2783581
+  },
+  {
+    "date": "2022-08-22",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-08-23",
+    "yyear": 2022,
+    "distance": 3275.065816,
+    "pct_distance_over_21": 2.395824820272864,
+    "day_duration": 60.3564997,
+    "peak_speed": 25.3047
+  },
+  {
+    "date": "2022-08-24",
+    "yyear": 2022,
+    "distance": 5673.246746,
+    "pct_distance_over_21": 2.114331492536849,
+    "day_duration": 64.47035894,
+    "peak_speed": 29.0369
+  },
+  {
+    "date": "2022-08-25",
+    "yyear": 2022,
+    "distance": 5716.893586,
+    "pct_distance_over_21": 3.0034192103991346,
+    "day_duration": 75.58331233,
+    "peak_speed": 30.1399
+  },
+  {
+    "date": "2022-08-26",
+    "yyear": 2022,
+    "distance": 3871.322539,
+    "pct_distance_over_21": 5.015892846535049,
+    "day_duration": 59.95414971,
+    "peak_speed": 28.97405
+  },
+  {
+    "date": "2022-08-27",
+    "yyear": 2022,
+    "distance": 9243.83888,
+    "pct_distance_over_21": 5.8257390873087145,
+    "day_duration": 90.21831558,
+    "peak_speed": 31.7049
+  },
+  {
+    "date": "2022-08-28",
+    "yyear": 2022,
+    "distance": 4714.720847,
+    "pct_distance_over_21": 2.46531442203963,
+    "day_duration": 64.55603515,
+    "peak_speed": 28.11856667
+  },
+  {
+    "date": "2022-08-29",
+    "yyear": 2022,
+    "distance": 1419.717131,
+    "pct_distance_over_21": 6.0996889900879845,
+    "day_duration": 55.7508119,
+    "peak_speed": 27.2766
+  },
+  {
+    "date": "2022-08-30",
+    "yyear": 2022,
+    "distance": 5380.990631,
+    "pct_distance_over_21": 4.922334567432181,
+    "day_duration": 56.71042608,
+    "peak_speed": 29.81470476
+  },
+  {
+    "date": "2022-08-31",
+    "yyear": 2022,
+    "distance": 3171.196542,
+    "pct_distance_over_21": 4.7390453637799155,
+    "day_duration": 29.72558671,
+    "peak_speed": 27.6732
+  },
+  {
+    "date": "2022-09-01",
+    "yyear": 2022,
+    "distance": 3939.213092,
+    "pct_distance_over_21": 2.249938719232912,
+    "day_duration": 68.67255145,
+    "peak_speed": 30.66142857
+  },
+  {
+    "date": "2022-09-02",
+    "yyear": 2022,
+    "distance": 4283.844231,
+    "pct_distance_over_21": 2.9581568158564537,
+    "day_duration": 62.94869557,
+    "peak_speed": 27.0873
+  },
+  {
+    "date": "2022-09-03",
+    "yyear": 2022,
+    "distance": 3128.296272,
+    "pct_distance_over_21": 15.802949158774561,
+    "day_duration": 31.01756843,
+    "peak_speed": 29.85651333
+  },
+  {
+    "date": "2022-09-04",
+    "yyear": 2022,
+    "distance": 3769.789047,
+    "pct_distance_over_21": 6.970742320690922,
+    "day_duration": 43.06702465,
+    "peak_speed": 28.7826
+  },
+  {
+    "date": "2022-09-05",
+    "yyear": 2022,
+    "distance": 1653.959753,
+    "pct_distance_over_21": 3.0955280959608693,
+    "day_duration": 30.41873857,
+    "peak_speed": 27.9332
+  },
+  {
+    "date": "2022-09-06",
+    "yyear": 2022,
+    "distance": 3491.169199,
+    "pct_distance_over_21": 5.607064884052903,
+    "day_duration": 23.42294754,
+    "peak_speed": 30.8133
+  },
+  {
+    "date": "2022-09-07",
+    "yyear": 2022,
+    "distance": 6489.755554,
+    "pct_distance_over_21": 3.52678223386902,
+    "day_duration": 102.6247436,
+    "peak_speed": 30.1673
+  },
+  {
+    "date": "2022-09-08",
+    "yyear": 2022,
+    "distance": 3755.942243,
+    "pct_distance_over_21": 5.4793467227445865,
+    "day_duration": 52.23107419,
+    "peak_speed": 28.446
+  },
+  {
+    "date": "2022-09-09",
+    "yyear": 2022,
+    "distance": 4608.970329,
+    "pct_distance_over_21": 5.209182586603717,
+    "day_duration": 81.37187294,
+    "peak_speed": 28.56055
+  },
+  {
+    "date": "2022-09-10",
+    "yyear": 2022,
+    "distance": 5590.174035,
+    "pct_distance_over_21": 1.8352015994078081,
+    "day_duration": 78.47921058,
+    "peak_speed": 30.401
+  },
+  {
+    "date": "2022-09-11",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-09-12",
+    "yyear": 2022,
+    "distance": 4764.915757,
+    "pct_distance_over_21": 2.832725336260337,
+    "day_duration": 83.84561565,
+    "peak_speed": 28.66
+  },
+  {
+    "date": "2022-09-13",
+    "yyear": 2022,
+    "distance": 2556.075053,
+    "pct_distance_over_21": 0.6013014133509482,
+    "day_duration": 54.72289519,
+    "peak_speed": 28.3028
+  },
+  {
+    "date": "2022-09-14",
+    "yyear": 2022,
+    "distance": 6831.807937,
+    "pct_distance_over_21": 8.542965056718046,
+    "day_duration": 70.7016143,
+    "peak_speed": 31.34165524
+  },
+  {
+    "date": "2022-09-15",
+    "yyear": 2022,
+    "distance": 5003.656438,
+    "pct_distance_over_21": 2.2481181131005545,
+    "day_duration": 69.38929913,
+    "peak_speed": 26.7946
+  },
+  {
+    "date": "2022-09-16",
+    "yyear": 2022,
+    "distance": 2675.802324,
+    "pct_distance_over_21": 5.4683078487377825,
+    "day_duration": 72.20670774,
+    "peak_speed": 29.1539
+  },
+  {
+    "date": "2022-09-17",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-09-18",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-09-19",
+    "yyear": 2022,
+    "distance": 5138.242651,
+    "pct_distance_over_21": 7.614235484263433,
+    "day_duration": 115.3483193,
+    "peak_speed": 28.74074857
+  },
+  {
+    "date": "2022-09-20",
+    "yyear": 2022,
+    "distance": 3573.506891,
+    "pct_distance_over_21": 3.9182662597529605,
+    "day_duration": 81.55632281,
+    "peak_speed": 28.5244
+  },
+  {
+    "date": "2022-09-21",
+    "yyear": 2022,
+    "distance": 5492.495697,
+    "pct_distance_over_21": 2.9191361367396986,
+    "day_duration": 80.80652657,
+    "peak_speed": 25.8151
+  },
+  {
+    "date": "2022-09-22",
+    "yyear": 2022,
+    "distance": 4719.036826,
+    "pct_distance_over_21": 0.7436436570414677,
+    "day_duration": 66.58423049,
+    "peak_speed": 28.4489
+  },
+  {
+    "date": "2022-09-23",
+    "yyear": 2022,
+    "distance": 4204.835622,
+    "pct_distance_over_21": 3.139738626386665,
+    "day_duration": 60.86984882,
+    "peak_speed": 26.553795
+  },
+  {
+    "date": "2022-09-24",
+    "yyear": 2022,
+    "distance": 4897.708424,
+    "pct_distance_over_21": 7.582226879417025,
+    "day_duration": 69.20331888,
+    "peak_speed": 30.59651667
+  },
+  {
+    "date": "2022-09-25",
+    "yyear": 2022,
+    "distance": 7994.176379,
+    "pct_distance_over_21": 3.7387328804144717,
+    "day_duration": 99.5102122,
+    "peak_speed": 28.8263
+  },
+  {
+    "date": "2022-09-26",
+    "yyear": 2022,
+    "distance": 6481.453235,
+    "pct_distance_over_21": 2.0625132428344983,
+    "day_duration": 60.56431432,
+    "peak_speed": 28.76939167
+  },
+  {
+    "date": "2022-09-27",
+    "yyear": 2022,
+    "distance": 8433.076205,
+    "pct_distance_over_21": 4.328560127128603,
+    "day_duration": 116.5542714,
+    "peak_speed": 32.2044
+  },
+  {
+    "date": "2022-09-28",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-09-29",
+    "yyear": 2022,
+    "distance": 1195.107351,
+    "pct_distance_over_21": 2.147240956097173,
+    "day_duration": 59.01455933,
+    "peak_speed": 30.47083333
+  },
+  {
+    "date": "2022-09-30",
+    "yyear": 2022,
+    "distance": 2246.872857,
+    "pct_distance_over_21": 0.8527008130571762,
+    "day_duration": 45.4524609,
+    "peak_speed": 28.7998
+  },
+  {
+    "date": "2022-10-01",
+    "yyear": 2022,
+    "distance": 2412.574632,
+    "pct_distance_over_21": 7.117349416778581,
+    "day_duration": 32.21081053,
+    "peak_speed": 30.62161
+  },
+  {
+    "date": "2022-10-02",
+    "yyear": 2022,
+    "distance": 6517.875457,
+    "pct_distance_over_21": 3.8701405015201717,
+    "day_duration": 80.97088094,
+    "peak_speed": 31.20963333
+  },
+  {
+    "date": "2022-10-03",
+    "yyear": 2022,
+    "distance": 5641.407219,
+    "pct_distance_over_21": 1.0436038067189208,
+    "day_duration": 89.88005004,
+    "peak_speed": 28.8883
+  },
+  {
+    "date": "2022-10-04",
+    "yyear": 2022,
+    "distance": 3282.389955,
+    "pct_distance_over_21": 3.4768468879256,
+    "day_duration": 47.29598072,
+    "peak_speed": 27.8874
+  },
+  {
+    "date": "2022-10-05",
+    "yyear": 2022,
+    "distance": 5682.388525,
+    "pct_distance_over_21": 4.470426219227943,
+    "day_duration": 44.94286276,
+    "peak_speed": 29.6802481
+  },
+  {
+    "date": "2022-10-06",
+    "yyear": 2022,
+    "distance": 3014.069068,
+    "pct_distance_over_21": 3.779236309126278,
+    "day_duration": 62.89678165,
+    "peak_speed": 27.3825
+  },
+  {
+    "date": "2022-10-07",
+    "yyear": 2022,
+    "distance": 2978.612609,
+    "pct_distance_over_21": 1.008368473269966,
+    "day_duration": 41.97144339,
+    "peak_speed": 28.8215
+  },
+  {
+    "date": "2022-10-08",
+    "yyear": 2022,
+    "distance": 4286.457344,
+    "pct_distance_over_21": 6.609694042484329,
+    "day_duration": 44.57726651,
+    "peak_speed": 30.79512
+  },
+  {
+    "date": "2022-10-09",
+    "yyear": 2022,
+    "distance": 3958.094064,
+    "pct_distance_over_21": 2.9727848605267506,
+    "day_duration": 48.16531563,
+    "peak_speed": 27.7554
+  },
+  {
+    "date": "2022-10-10",
+    "yyear": 2022,
+    "distance": 2580.125049,
+    "pct_distance_over_21": 3.4669925818002474,
+    "day_duration": 63.77357094,
+    "peak_speed": 27.5704
+  },
+  {
+    "date": "2022-10-11",
+    "yyear": 2022,
+    "distance": 6490.633016,
+    "pct_distance_over_21": 2.8907828903201693,
+    "day_duration": 53.46195219,
+    "peak_speed": 27.2947
+  },
+  {
+    "date": "2022-10-12",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-10-13",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-10-14",
+    "yyear": 2022,
+    "distance": 4435.32419,
+    "pct_distance_over_21": 1.4016429004257296,
+    "day_duration": 76.62825879,
+    "peak_speed": 22.8186
+  },
+  {
+    "date": "2022-10-15",
+    "yyear": 2022,
+    "distance": 4432.379185,
+    "pct_distance_over_21": 0.2793914841922533,
+    "day_duration": 72.14290416,
+    "peak_speed": 27.924
+  },
+  {
+    "date": "2022-10-16",
+    "yyear": 2022,
+    "distance": 11741.87661,
+    "pct_distance_over_21": 5.860799905816759,
+    "day_duration": 98.26980155,
+    "peak_speed": 29.9964
+  },
+  {
+    "date": "2022-10-17",
+    "yyear": 2022,
+    "distance": 4806.045344,
+    "pct_distance_over_21": 2.774602271834079,
+    "day_duration": 65.71720589,
+    "peak_speed": 27.3605
+  },
+  {
+    "date": "2022-10-18",
+    "yyear": 2022,
+    "distance": 3468.125369,
+    "pct_distance_over_21": 2.648488843887581,
+    "day_duration": 72.16988243,
+    "peak_speed": 26.0151
+  },
+  {
+    "date": "2022-10-19",
+    "yyear": 2022,
+    "distance": 12652.12978,
+    "pct_distance_over_21": 6.28863643619691,
+    "day_duration": 96.88503478,
+    "peak_speed": 29.46996
+  },
+  {
+    "date": "2022-10-20",
+    "yyear": 2022,
+    "distance": 2919.951985,
+    "pct_distance_over_21": 2.141270838739494,
+    "day_duration": 37.46608163,
+    "peak_speed": 27.8497
+  },
+  {
+    "date": "2022-10-21",
+    "yyear": 2022,
+    "distance": 3556.09284,
+    "pct_distance_over_21": 2.4149699502783513,
+    "day_duration": 83.36471666,
+    "peak_speed": 27.0394
+  },
+  {
+    "date": "2022-10-22",
+    "yyear": 2022,
+    "distance": 8622.662508,
+    "pct_distance_over_21": 3.2152592559755098,
+    "day_duration": 93.74086007,
+    "peak_speed": 28.67684667
+  },
+  {
+    "date": "2022-10-23",
+    "yyear": 2022,
+    "distance": 3554.762789,
+    "pct_distance_over_21": 3.150096187754372,
+    "day_duration": 38.42148287,
+    "peak_speed": 31.6461
+  },
+  {
+    "date": "2022-10-24",
+    "yyear": 2022,
+    "distance": 3038.770565,
+    "pct_distance_over_21": 0.8160493696239289,
+    "day_duration": 48.80141291,
+    "peak_speed": 27.2963
+  },
+  {
+    "date": "2022-10-25",
+    "yyear": 2022,
+    "distance": 8088.84218,
+    "pct_distance_over_21": 10.064446497829929,
+    "day_duration": 43.30948118,
+    "peak_speed": 31.39681333
+  },
+  {
+    "date": "2022-10-26",
+    "yyear": 2022,
+    "distance": 5825.26028,
+    "pct_distance_over_21": 3.8091730297757604,
+    "day_duration": 77.0662783,
+    "peak_speed": 30.1004
+  },
+  {
+    "date": "2022-10-27",
+    "yyear": 2022,
+    "distance": 4023.03016,
+    "pct_distance_over_21": 2.775702312905355,
+    "day_duration": 62.92304035,
+    "peak_speed": 29.5299
+  },
+  {
+    "date": "2022-10-28",
+    "yyear": 2022,
+    "distance": 3433.051303,
+    "pct_distance_over_21": 6.42898604536234,
+    "day_duration": 66.04088515,
+    "peak_speed": 28.4325
+  },
+  {
+    "date": "2022-10-29",
+    "yyear": 2022,
+    "distance": 5715.463619,
+    "pct_distance_over_21": 1.6902346521611198,
+    "day_duration": 69.11922099,
+    "peak_speed": 32.4917
+  },
+  {
+    "date": "2022-10-30",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-10-31",
+    "yyear": 2022,
+    "distance": 4721.401147,
+    "pct_distance_over_21": 1.7404345884105408,
+    "day_duration": 71.64030959,
+    "peak_speed": 30.0663
+  },
+  {
+    "date": "2022-11-01",
+    "yyear": 2022,
+    "distance": 2636.880762,
+    "pct_distance_over_21": 2.1463325409175256,
+    "day_duration": 46.39939062,
+    "peak_speed": 31.68875
+  },
+  {
+    "date": "2022-11-02",
+    "yyear": 2022,
+    "distance": 2337.306867,
+    "pct_distance_over_21": 4.202708221025391,
+    "day_duration": 17.24683854,
+    "peak_speed": 29.52370667
+  },
+  {
+    "date": "2022-11-03",
+    "yyear": 2022,
+    "distance": 5275.41234,
+    "pct_distance_over_21": 6.5187385485017835,
+    "day_duration": 64.12692503,
+    "peak_speed": 29.62112
+  },
+  {
+    "date": "2022-11-04",
+    "yyear": 2022,
+    "distance": 5775.497577,
+    "pct_distance_over_21": 0.6833559326069474,
+    "day_duration": 92.04521242,
+    "peak_speed": 29.9482
+  },
+  {
+    "date": "2022-11-05",
+    "yyear": 2022,
+    "distance": 3050.331044,
+    "pct_distance_over_21": 3.030396327042069,
+    "day_duration": 64.14033156,
+    "peak_speed": 32.7596
+  },
+  {
+    "date": "2022-11-06",
+    "yyear": 2022,
+    "distance": 8007.714695,
+    "pct_distance_over_21": 8.176164398174778,
+    "day_duration": 71.27834085,
+    "peak_speed": 30.65331714
+  },
+  {
+    "date": "2022-11-07",
+    "yyear": 2022,
+    "distance": 3717.647205,
+    "pct_distance_over_21": 6.886823186332981,
+    "day_duration": 51.40394795,
+    "peak_speed": 27.3792
+  },
+  {
+    "date": "2022-11-08",
+    "yyear": 2022,
+    "distance": 3762.445731,
+    "pct_distance_over_21": 0.6579351294303093,
+    "day_duration": 70.60968979,
+    "peak_speed": 27.2766
+  },
+  {
+    "date": "2022-11-09",
+    "yyear": 2022,
+    "distance": 4284.040209,
+    "pct_distance_over_21": 3.8770809538870044,
+    "day_duration": 68.52371847,
+    "peak_speed": 30.7691
+  },
+  {
+    "date": "2022-11-10",
+    "yyear": 2022,
+    "distance": 3759.504512,
+    "pct_distance_over_21": 3.205157012456859,
+    "day_duration": 45.33543596,
+    "peak_speed": 27.6214
+  },
+  {
+    "date": "2022-11-11",
+    "yyear": 2022,
+    "distance": 2131.922298,
+    "pct_distance_over_21": 1.6603227520630772,
+    "day_duration": 69.93753196,
+    "peak_speed": 25.7256
+  },
+  {
+    "date": "2022-11-12",
+    "yyear": 2022,
+    "distance": 5263.518831,
+    "pct_distance_over_21": 7.953513000360348,
+    "day_duration": 36.28982553,
+    "peak_speed": 30.30827333
+  },
+  {
+    "date": "2022-11-13",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-11-14",
+    "yyear": 2022,
+    "distance": 4012.591543,
+    "pct_distance_over_21": 4.898649458674792,
+    "day_duration": 73.25222917,
+    "peak_speed": 28.7055
+  },
+  {
+    "date": "2022-11-15",
+    "yyear": 2022,
+    "distance": 1464.543251,
+    "pct_distance_over_21": 6.105727713329239,
+    "day_duration": 28.84094019,
+    "peak_speed": 27.4476
+  },
+  {
+    "date": "2022-11-16",
+    "yyear": 2022,
+    "distance": 5731.712273,
+    "pct_distance_over_21": 5.106041175141172,
+    "day_duration": 94.90901861,
+    "peak_speed": 30.959
+  },
+  {
+    "date": "2022-11-17",
+    "yyear": 2022,
+    "distance": 3520.197903,
+    "pct_distance_over_21": 4.1405065401517565,
+    "day_duration": 82.15059328,
+    "peak_speed": 28.9782
+  },
+  {
+    "date": "2022-11-18",
+    "yyear": 2022,
+    "distance": 3746.114236,
+    "pct_distance_over_21": 2.636671313725522,
+    "day_duration": 73.86186467,
+    "peak_speed": 25.3521
+  },
+  {
+    "date": "2022-11-19",
+    "yyear": 2022,
+    "distance": 3947.886941,
+    "pct_distance_over_21": 3.2970920329098647,
+    "day_duration": 76.48469239,
+    "peak_speed": 26.8789
+  },
+  {
+    "date": "2022-11-20",
+    "yyear": 2022,
+    "distance": 6574.774088,
+    "pct_distance_over_21": 3.593115523637137,
+    "day_duration": 89.03890433,
+    "peak_speed": 28.7529
+  },
+  {
+    "date": "2022-11-21",
+    "yyear": 2022,
+    "distance": 7529.112029,
+    "pct_distance_over_21": 5.574724859762078,
+    "day_duration": 99.47764171,
+    "peak_speed": 29.86906667
+  },
+  {
+    "date": "2022-11-22",
+    "yyear": 2022,
+    "distance": 7718.887318,
+    "pct_distance_over_21": 5.759480084173448,
+    "day_duration": 72.24010709,
+    "peak_speed": 31.37459524
+  },
+  {
+    "date": "2022-11-23",
+    "yyear": 2022,
+    "distance": 7028.138073,
+    "pct_distance_over_21": 6.279201010512077,
+    "day_duration": 110.1360067,
+    "peak_speed": 31.6592
+  },
+  {
+    "date": "2022-11-24",
+    "yyear": 2022,
+    "distance": 5605.599751,
+    "pct_distance_over_21": 1.3230388044877734,
+    "day_duration": 84.11343197,
+    "peak_speed": 28.8452
+  },
+  {
+    "date": "2022-11-25",
+    "yyear": 2022,
+    "distance": 9388.537127,
+    "pct_distance_over_21": 4.251829760059274,
+    "day_duration": 99.13280218,
+    "peak_speed": 28.857125
+  },
+  {
+    "date": "2022-11-26",
+    "yyear": 2022,
+    "distance": 7806.640087,
+    "pct_distance_over_21": 5.833463298229288,
+    "day_duration": 72.1937208,
+    "peak_speed": 31.67114524
+  },
+  {
+    "date": "2022-11-27",
+    "yyear": 2022,
+    "distance": 6796.472191,
+    "pct_distance_over_21": 5.729668555337725,
+    "day_duration": 80.37123847,
+    "peak_speed": 31.1909
+  },
+  {
+    "date": "2022-11-28",
+    "yyear": 2022,
+    "distance": 9045.235009,
+    "pct_distance_over_21": 5.0433513805456505,
+    "day_duration": 84.60525006,
+    "peak_speed": 32.82765
+  },
+  {
+    "date": "2022-11-29",
+    "yyear": 2022,
+    "distance": 6188.570998,
+    "pct_distance_over_21": 5.387786311375529,
+    "day_duration": 75.3083798,
+    "peak_speed": 31.26861667
+  },
+  {
+    "date": "2022-11-30",
+    "yyear": 2022,
+    "distance": 3085.026241,
+    "pct_distance_over_21": 2.389372190108382,
+    "day_duration": 50.32963894,
+    "peak_speed": 28.987
+  },
+  {
+    "date": "2022-12-01",
+    "yyear": 2022,
+    "distance": 3578.524357,
+    "pct_distance_over_21": 10.637545164541688,
+    "day_duration": 59.88380464,
+    "peak_speed": 30.33096667
+  },
+  {
+    "date": "2022-12-02",
+    "yyear": 2022,
+    "distance": 9209.484025,
+    "pct_distance_over_21": 4.484626238330437,
+    "day_duration": 111.0600259,
+    "peak_speed": 31.9685
+  },
+  {
+    "date": "2022-12-03",
+    "yyear": 2022,
+    "distance": 9147.660878,
+    "pct_distance_over_21": 5.922620742347113,
+    "day_duration": 114.5575784,
+    "peak_speed": 31.09043333
+  },
+  {
+    "date": "2022-12-04",
+    "yyear": 2022,
+    "distance": 5823.728474,
+    "pct_distance_over_21": 4.4479798252352385,
+    "day_duration": 69.94962271,
+    "peak_speed": 30.0803
+  },
+  {
+    "date": "2022-12-05",
+    "yyear": 2022,
+    "distance": 9461.818238,
+    "pct_distance_over_21": 2.495969570114247,
+    "day_duration": 86.14812318,
+    "peak_speed": 32.1073
+  },
+  {
+    "date": "2022-12-06",
+    "yyear": 2022,
+    "distance": 7225.697598,
+    "pct_distance_over_21": 4.544869695223578,
+    "day_duration": 93.04496205,
+    "peak_speed": 28.97683333
+  },
+  {
+    "date": "2022-12-07",
+    "yyear": 2022,
+    "distance": 9572.859968,
+    "pct_distance_over_21": 4.124968433884857,
+    "day_duration": 89.35320257,
+    "peak_speed": 32.3056
+  },
+  {
+    "date": "2022-12-08",
+    "yyear": 2022,
+    "distance": 12414.87762,
+    "pct_distance_over_21": 4.8024567776609315,
+    "day_duration": 110.3290379,
+    "peak_speed": 30.544
+  },
+  {
+    "date": "2022-12-09",
+    "yyear": 2022,
+    "distance": 6449.219441,
+    "pct_distance_over_21": 9.556738284973484,
+    "day_duration": 85.14114068,
+    "peak_speed": 30.75906714
+  },
+  {
+    "date": "2022-12-10",
+    "yyear": 2022,
+    "distance": 3394.769216,
+    "pct_distance_over_21": 3.8399664956782735,
+    "day_duration": 71.27640075,
+    "peak_speed": 31.1466
+  },
+  {
+    "date": "2022-12-11",
+    "yyear": 2022,
+    "distance": 3881.087809,
+    "pct_distance_over_21": 5.690490536901944,
+    "day_duration": 64.95382508,
+    "peak_speed": 28.85396667
+  },
+  {
+    "date": "2022-12-12",
+    "yyear": 2022,
+    "distance": 2233.526604,
+    "pct_distance_over_21": 2.156153424085205,
+    "day_duration": 42.59847996,
+    "peak_speed": 26.096
+  },
+  {
+    "date": "2022-12-13",
+    "yyear": 2022,
+    "distance": 4641.928368,
+    "pct_distance_over_21": 4.252499647792928,
+    "day_duration": 80.77096144,
+    "peak_speed": 30.53373333
+  },
+  {
+    "date": "2022-12-14",
+    "yyear": 2022,
+    "distance": 6800.886979,
+    "pct_distance_over_21": 2.0779364652929337,
+    "day_duration": 79.30043304,
+    "peak_speed": 27.2124
+  },
+  {
+    "date": "2022-12-15",
+    "yyear": 2022,
+    "distance": 1894.150257,
+    "pct_distance_over_21": 11.635597022227156,
+    "day_duration": 52.70944046,
+    "peak_speed": 30.6599119
+  },
+  {
+    "date": "2022-12-16",
+    "yyear": 2022,
+    "distance": 6986.745826,
+    "pct_distance_over_21": 3.780643357842398,
+    "day_duration": 101.1583225,
+    "peak_speed": 30.4918
+  },
+  {
+    "date": "2022-12-17",
+    "yyear": 2022,
+    "distance": 8283.737651,
+    "pct_distance_over_21": 4.185859732751694,
+    "day_duration": 79.73971599,
+    "peak_speed": 31.8964
+  },
+  {
+    "date": "2022-12-18",
+    "yyear": 2022,
+    "distance": 4324.185366,
+    "pct_distance_over_21": 0.21471834010642182,
+    "day_duration": 54.54225285,
+    "peak_speed": 27.5328
+  },
+  {
+    "date": "2022-12-19",
+    "yyear": 2022,
+    "distance": 3955.15778,
+    "pct_distance_over_21": 0.7984227686107633,
+    "day_duration": 53.79290952,
+    "peak_speed": 22.7466
+  },
+  {
+    "date": "2022-12-20",
+    "yyear": 2022,
+    "distance": 6386.451619,
+    "pct_distance_over_21": 5.617997024084243,
+    "day_duration": 72.61755393,
+    "peak_speed": 30.5796
+  },
+  {
+    "date": "2022-12-21",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-12-22",
+    "yyear": 2022,
+    "distance": 5022.902329,
+    "pct_distance_over_21": 3.979880891687552,
+    "day_duration": 74.70181992,
+    "peak_speed": 28.72835
+  },
+  {
+    "date": "2022-12-23",
+    "yyear": 2022,
+    "distance": 7437.797317,
+    "pct_distance_over_21": 2.2584902268855416,
+    "day_duration": 108.039284,
+    "peak_speed": 29.8276
+  },
+  {
+    "date": "2022-12-24",
+    "yyear": 2022,
+    "distance": 3786.965454,
+    "pct_distance_over_21": 0.5436939198442448,
+    "day_duration": 67.8109446,
+    "peak_speed": 28.1755
+  },
+  {
+    "date": "2022-12-25",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-12-26",
+    "yyear": 2022,
+    "distance": 3435.753831,
+    "pct_distance_over_21": 2.04740318544667,
+    "day_duration": 56.88602758,
+    "peak_speed": 27.3647
+  },
+  {
+    "date": "2022-12-27",
+    "yyear": 2022,
+    "distance": 2693.308962,
+    "pct_distance_over_21": 6.324681464450569,
+    "day_duration": 32.3206006,
+    "peak_speed": 27.1284
+  },
+  {
+    "date": "2022-12-28",
+    "yyear": 2022,
+    "distance": 3601.569057,
+    "pct_distance_over_21": 3.2406993355618448,
+    "day_duration": 52.56242221,
+    "peak_speed": 27.0913
+  },
+  {
+    "date": "2022-12-29",
+    "yyear": 2022,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2022-12-30",
+    "yyear": 2022,
+    "distance": 4276.85189,
+    "pct_distance_over_21": 3.491579716593833,
+    "day_duration": 65.96948303,
+    "peak_speed": 27.7803
+  },
+  {
+    "date": "2022-12-31",
+    "yyear": 2022,
+    "distance": 2389.67961,
+    "pct_distance_over_21": 3.1007859840256993,
+    "day_duration": 60.02116871,
+    "peak_speed": 27.5125
+  },
+  {
+    "date": "2023-01-01",
+    "yyear": 2023,
+    "distance": 3126.246897,
+    "pct_distance_over_21": 4.276783872326383,
+    "day_duration": 51.24149011,
+    "peak_speed": 30.840875
+  },
+  {
+    "date": "2023-01-02",
+    "yyear": 2023,
+    "distance": 4844.862033,
+    "pct_distance_over_21": 6.55641915778781,
+    "day_duration": 69.07048469,
+    "peak_speed": 28.36658
+  },
+  {
+    "date": "2023-01-03",
+    "yyear": 2023,
+    "distance": 2574.957022,
+    "pct_distance_over_21": 2.0750022327945477,
+    "day_duration": 50.64899857,
+    "peak_speed": 29.8149
+  },
+  {
+    "date": "2023-01-04",
+    "yyear": 2023,
+    "distance": 3482.568082,
+    "pct_distance_over_21": 4.880927364451737,
+    "day_duration": 67.09755225,
+    "peak_speed": 29.2148
+  },
+  {
+    "date": "2023-01-05",
+    "yyear": 2023,
+    "distance": 3661.730908,
+    "pct_distance_over_21": 4.781324450070704,
+    "day_duration": 59.19899859,
+    "peak_speed": 30.88657917
+  },
+  {
+    "date": "2023-01-06",
+    "yyear": 2023,
+    "distance": 4009.743596,
+    "pct_distance_over_21": 4.051393913617214,
+    "day_duration": 46.53329722,
+    "peak_speed": 28.99535
+  },
+  {
+    "date": "2023-01-07",
+    "yyear": 2023,
+    "distance": 3183.327653,
+    "pct_distance_over_21": 4.0419998481381585,
+    "day_duration": 71.17204692,
+    "peak_speed": 25.77875
+  },
+  {
+    "date": "2023-01-08",
+    "yyear": 2023,
+    "distance": 6045.131801,
+    "pct_distance_over_21": 8.133047458430426,
+    "day_duration": 42.10101946,
+    "peak_speed": 30.35953333
+  },
+  {
+    "date": "2023-01-09",
+    "yyear": 2023,
+    "distance": 1911.770537,
+    "pct_distance_over_21": 15.414791843295365,
+    "day_duration": 8.744194019,
+    "peak_speed": 28.28710333
+  },
+  {
+    "date": "2023-01-10",
+    "yyear": 2023,
+    "distance": 3120.471743,
+    "pct_distance_over_21": 0.6214906106265612,
+    "day_duration": 62.18324438,
+    "peak_speed": 22.8512
+  },
+  {
+    "date": "2023-01-11",
+    "yyear": 2023,
+    "distance": 3566.641256,
+    "pct_distance_over_21": 4.655617074486059,
+    "day_duration": 91.98755187,
+    "peak_speed": 29.2773
+  },
+  {
+    "date": "2023-01-12",
+    "yyear": 2023,
+    "distance": 8680.900594,
+    "pct_distance_over_21": 9.854687262417004,
+    "day_duration": 66.81442597,
+    "peak_speed": 31.38630333
+  },
+  {
+    "date": "2023-01-13",
+    "yyear": 2023,
+    "distance": 3628.521222,
+    "pct_distance_over_21": 5.086451926503298,
+    "day_duration": 47.40994571,
+    "peak_speed": 28.9684
+  },
+  {
+    "date": "2023-01-14",
+    "yyear": 2023,
+    "distance": 2893.934339,
+    "pct_distance_over_21": 3.8022084439559913,
+    "day_duration": 65.08840885,
+    "peak_speed": 24.2047
+  },
+  {
+    "date": "2023-01-15",
+    "yyear": 2023,
+    "distance": 5483.738794,
+    "pct_distance_over_21": 7.7371700884847066,
+    "day_duration": 34.19470385,
+    "peak_speed": 29.90048214
+  },
+  {
+    "date": "2023-01-16",
+    "yyear": 2023,
+    "distance": 5671.947,
+    "pct_distance_over_21": 4.52515306472363,
+    "day_duration": 75.05358759,
+    "peak_speed": 29.82946667
+  },
+  {
+    "date": "2023-01-17",
+    "yyear": 2023,
+    "distance": 2743.606136,
+    "pct_distance_over_21": 1.5039660601633822,
+    "day_duration": 48.75555669,
+    "peak_speed": 27.5103
+  },
+  {
+    "date": "2023-01-18",
+    "yyear": 2023,
+    "distance": 4432.248355,
+    "pct_distance_over_21": 3.979027820068987,
+    "day_duration": 75.47032149,
+    "peak_speed": 29.7203
+  },
+  {
+    "date": "2023-01-19",
+    "yyear": 2023,
+    "distance": 3998.551806,
+    "pct_distance_over_21": 2.6760867982111622,
+    "day_duration": 79.09045244,
+    "peak_speed": 32.937
+  },
+  {
+    "date": "2023-01-20",
+    "yyear": 2023,
+    "distance": 3388.641987,
+    "pct_distance_over_21": 3.1243371830415794,
+    "day_duration": 70.59387717,
+    "peak_speed": 26.1703
+  },
+  {
+    "date": "2023-01-21",
+    "yyear": 2023,
+    "distance": 7244.526599,
+    "pct_distance_over_21": 5.090653398262166,
+    "day_duration": 92.87083453,
+    "peak_speed": 30.50806
+  },
+  {
+    "date": "2023-01-22",
+    "yyear": 2023,
+    "distance": 4205.672128,
+    "pct_distance_over_21": 3.1224067640871507,
+    "day_duration": 61.394232,
+    "peak_speed": 26.0071
+  },
+  {
+    "date": "2023-01-23",
+    "yyear": 2023,
+    "distance": 5365.722488,
+    "pct_distance_over_21": 3.766734896409723,
+    "day_duration": 93.19678804,
+    "peak_speed": 29.8191
+  },
+  {
+    "date": "2023-01-24",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-01-25",
+    "yyear": 2023,
+    "distance": 5140.230552,
+    "pct_distance_over_21": 0.20654541547497499,
+    "day_duration": 69.84218007,
+    "peak_speed": 27.5488
+  },
+  {
+    "date": "2023-01-26",
+    "yyear": 2023,
+    "distance": 6717.393281,
+    "pct_distance_over_21": 9.192572420117024,
+    "day_duration": 81.93605049,
+    "peak_speed": 31.38782143
+  },
+  {
+    "date": "2023-01-27",
+    "yyear": 2023,
+    "distance": 4155.708703,
+    "pct_distance_over_21": 4.095038595394063,
+    "day_duration": 79.38636378,
+    "peak_speed": 26.3408
+  },
+  {
+    "date": "2023-01-28",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-01-29",
+    "yyear": 2023,
+    "distance": 4476.817709,
+    "pct_distance_over_21": 5.265007755981427,
+    "day_duration": 67.20718649,
+    "peak_speed": 27.2556
+  },
+  {
+    "date": "2023-01-30",
+    "yyear": 2023,
+    "distance": 6051.793138,
+    "pct_distance_over_21": 3.0221758498580065,
+    "day_duration": 86.71543126,
+    "peak_speed": 30.2783
+  },
+  {
+    "date": "2023-01-31",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-02-01",
+    "yyear": 2023,
+    "distance": 3778.615001,
+    "pct_distance_over_21": 3.041417534456033,
+    "day_duration": 87.88345283,
+    "peak_speed": 29.0364
+  },
+  {
+    "date": "2023-02-02",
+    "yyear": 2023,
+    "distance": 2190.219063,
+    "pct_distance_over_21": 1.4310252193252873,
+    "day_duration": 53.67278063,
+    "peak_speed": 27.1316
+  },
+  {
+    "date": "2023-02-03",
+    "yyear": 2023,
+    "distance": 4513.413749,
+    "pct_distance_over_21": 15.624296601574427,
+    "day_duration": 24.01872788,
+    "peak_speed": 31.08898833
+  },
+  {
+    "date": "2023-02-04",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-02-05",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-02-06",
+    "yyear": 2023,
+    "distance": 4082.582886,
+    "pct_distance_over_21": 5.043478629817584,
+    "day_duration": 71.64148516,
+    "peak_speed": 30.84028333
+  },
+  {
+    "date": "2023-02-07",
+    "yyear": 2023,
+    "distance": 3707.807073,
+    "pct_distance_over_21": 3.6752965220960405,
+    "day_duration": 73.56954601,
+    "peak_speed": 26.9672
+  },
+  {
+    "date": "2023-02-08",
+    "yyear": 2023,
+    "distance": 7196.621038,
+    "pct_distance_over_21": 1.4848566603098101,
+    "day_duration": 112.0303862,
+    "peak_speed": 29.8652
+  },
+  {
+    "date": "2023-02-09",
+    "yyear": 2023,
+    "distance": 4677.823893,
+    "pct_distance_over_21": 1.583920437254477,
+    "day_duration": 85.27447395,
+    "peak_speed": 28.7976
+  },
+  {
+    "date": "2023-02-10",
+    "yyear": 2023,
+    "distance": 3667.229664,
+    "pct_distance_over_21": 1.7358903126499143,
+    "day_duration": 71.9897183,
+    "peak_speed": 27.2725
+  },
+  {
+    "date": "2023-02-11",
+    "yyear": 2023,
+    "distance": 7551.210758,
+    "pct_distance_over_21": 6.880190600554814,
+    "day_duration": 83.47823273,
+    "peak_speed": 31.1292
+  },
+  {
+    "date": "2023-02-12",
+    "yyear": 2023,
+    "distance": 6742.656162,
+    "pct_distance_over_21": 8.254603540912397,
+    "day_duration": 133.8877806,
+    "peak_speed": 29.68273333
+  },
+  {
+    "date": "2023-02-13",
+    "yyear": 2023,
+    "distance": 2274.347825,
+    "pct_distance_over_21": 2.05261894450995,
+    "day_duration": 45.1544903,
+    "peak_speed": 25.3361
+  },
+  {
+    "date": "2023-02-14",
+    "yyear": 2023,
+    "distance": 4025.867951,
+    "pct_distance_over_21": 5.157285358761634,
+    "day_duration": 67.23300493,
+    "peak_speed": 27.6861
+  },
+  {
+    "date": "2023-02-15",
+    "yyear": 2023,
+    "distance": 868.7407648,
+    "pct_distance_over_21": 22.26050452973978,
+    "day_duration": 8.02642593,
+    "peak_speed": 28.8576
+  },
+  {
+    "date": "2023-02-16",
+    "yyear": 2023,
+    "distance": 4304.575651,
+    "pct_distance_over_21": 5.144204979846456,
+    "day_duration": 61.36683163,
+    "peak_speed": 27.818
+  },
+  {
+    "date": "2023-02-17",
+    "yyear": 2023,
+    "distance": 2403.750471,
+    "pct_distance_over_21": 1.5675703328858548,
+    "day_duration": 54.58640512,
+    "peak_speed": 22.6852
+  },
+  {
+    "date": "2023-02-18",
+    "yyear": 2023,
+    "distance": 6371.046806,
+    "pct_distance_over_21": 4.287100279074609,
+    "day_duration": 79.9887818,
+    "peak_speed": 30.7674
+  },
+  {
+    "date": "2023-02-19",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-02-20",
+    "yyear": 2023,
+    "distance": 3620.916904,
+    "pct_distance_over_21": 5.85079563040975,
+    "day_duration": 61.47976264,
+    "peak_speed": 26.834
+  },
+  {
+    "date": "2023-02-21",
+    "yyear": 2023,
+    "distance": 5008.848549,
+    "pct_distance_over_21": 5.371027985138626,
+    "day_duration": 70.56370102,
+    "peak_speed": 27.1548
+  },
+  {
+    "date": "2023-02-22",
+    "yyear": 2023,
+    "distance": 5054.764778,
+    "pct_distance_over_21": 4.48882519296529,
+    "day_duration": 61.1831588,
+    "peak_speed": 29.1346
+  },
+  {
+    "date": "2023-02-23",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-02-24",
+    "yyear": 2023,
+    "distance": 4809.144663,
+    "pct_distance_over_21": 2.476475228875851,
+    "day_duration": 68.37023312,
+    "peak_speed": 27.2669
+  },
+  {
+    "date": "2023-02-25",
+    "yyear": 2023,
+    "distance": 3711.729247,
+    "pct_distance_over_21": 4.425655519803059,
+    "day_duration": 65.94285724,
+    "peak_speed": 29.4832
+  },
+  {
+    "date": "2023-02-26",
+    "yyear": 2023,
+    "distance": 4864.689907,
+    "pct_distance_over_21": 6.369202543704909,
+    "day_duration": 53.67160557,
+    "peak_speed": 30.1441331
+  },
+  {
+    "date": "2023-02-27",
+    "yyear": 2023,
+    "distance": 4284.103153,
+    "pct_distance_over_21": 6.449097391749941,
+    "day_duration": 56.93342774,
+    "peak_speed": 29.3345
+  },
+  {
+    "date": "2023-02-28",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-03-01",
+    "yyear": 2023,
+    "distance": 4690.492099,
+    "pct_distance_over_21": 2.7614067237766813,
+    "day_duration": 68.62886831,
+    "peak_speed": 31.8567
+  },
+  {
+    "date": "2023-03-02",
+    "yyear": 2023,
+    "distance": 4035.496156,
+    "pct_distance_over_21": 4.403770659916843,
+    "day_duration": 72.16489128,
+    "peak_speed": 29.0572
+  },
+  {
+    "date": "2023-03-03",
+    "yyear": 2023,
+    "distance": 3497.15094,
+    "pct_distance_over_21": 4.7296671730159865,
+    "day_duration": 71.72726485,
+    "peak_speed": 28.0945
+  },
+  {
+    "date": "2023-03-04",
+    "yyear": 2023,
+    "distance": 10857.31306,
+    "pct_distance_over_21": 7.649149221455717,
+    "day_duration": 76.77098678,
+    "peak_speed": 29.72524
+  },
+  {
+    "date": "2023-03-05",
+    "yyear": 2023,
+    "distance": 4157.794794,
+    "pct_distance_over_21": 3.6768987089168976,
+    "day_duration": 71.91804665,
+    "peak_speed": 28.63654667
+  },
+  {
+    "date": "2023-03-06",
+    "yyear": 2023,
+    "distance": 2542.877846,
+    "pct_distance_over_21": 0.32394002806535127,
+    "day_duration": 56.26918547,
+    "peak_speed": 23.9343
+  },
+  {
+    "date": "2023-03-07",
+    "yyear": 2023,
+    "distance": 13193.00605,
+    "pct_distance_over_21": 6.295357050942912,
+    "day_duration": 120.4487703,
+    "peak_speed": 28.94822
+  },
+  {
+    "date": "2023-03-08",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-03-09",
+    "yyear": 2023,
+    "distance": 3261.61127,
+    "pct_distance_over_21": 0.8422305687581219,
+    "day_duration": 61.25133321,
+    "peak_speed": 28.7971
+  },
+  {
+    "date": "2023-03-10",
+    "yyear": 2023,
+    "distance": 4131.969039,
+    "pct_distance_over_21": 3.0905701348359016,
+    "day_duration": 81.60140499,
+    "peak_speed": 27.206
+  },
+  {
+    "date": "2023-03-11",
+    "yyear": 2023,
+    "distance": 10531.23661,
+    "pct_distance_over_21": 4.690288816898968,
+    "day_duration": 119.1237209,
+    "peak_speed": 29.72526667
+  },
+  {
+    "date": "2023-03-12",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-03-13",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-03-14",
+    "yyear": 2023,
+    "distance": 5616.510291,
+    "pct_distance_over_21": 0.16868884378582905,
+    "day_duration": 75.04507768,
+    "peak_speed": 25.7129
+  },
+  {
+    "date": "2023-03-15",
+    "yyear": 2023,
+    "distance": 3435.635707,
+    "pct_distance_over_21": 5.534583978521912,
+    "day_duration": 59.24161234,
+    "peak_speed": 29.9511
+  },
+  {
+    "date": "2023-03-16",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-03-17",
+    "yyear": 2023,
+    "distance": 4215.198739,
+    "pct_distance_over_21": 1.9785659940149263,
+    "day_duration": 58.73783987,
+    "peak_speed": 25.7431
+  },
+  {
+    "date": "2023-03-18",
+    "yyear": 2023,
+    "distance": 8953.714038,
+    "pct_distance_over_21": 4.225689629959567,
+    "day_duration": 85.0921635,
+    "peak_speed": 28.06623
+  },
+  {
+    "date": "2023-03-19",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-03-20",
+    "yyear": 2023,
+    "distance": 2107.43894,
+    "pct_distance_over_21": 1.9743005294378777,
+    "day_duration": 50.52004518,
+    "peak_speed": 28.0545
+  },
+  {
+    "date": "2023-03-21",
+    "yyear": 2023,
+    "distance": 2662.084087,
+    "pct_distance_over_21": 5.657661023387501,
+    "day_duration": 74.38843818,
+    "peak_speed": 27.7849
+  },
+  {
+    "date": "2023-03-22",
+    "yyear": 2023,
+    "distance": 4554.695403,
+    "pct_distance_over_21": 2.8573364755474078,
+    "day_duration": 78.24037878,
+    "peak_speed": 28.678625
+  },
+  {
+    "date": "2023-03-23",
+    "yyear": 2023,
+    "distance": 4330.336625,
+    "pct_distance_over_21": 3.86333387187884,
+    "day_duration": 63.60733422,
+    "peak_speed": 29.18955
+  },
+  {
+    "date": "2023-03-24",
+    "yyear": 2023,
+    "distance": 7010.538769,
+    "pct_distance_over_21": 4.754058657713416,
+    "day_duration": 82.44459145,
+    "peak_speed": 28.55468889
+  },
+  {
+    "date": "2023-03-25",
+    "yyear": 2023,
+    "distance": 6040.194147,
+    "pct_distance_over_21": 3.956658827244812,
+    "day_duration": 52.49509907,
+    "peak_speed": 30.57891619
+  },
+  {
+    "date": "2023-03-26",
+    "yyear": 2023,
+    "distance": 4345.378437,
+    "pct_distance_over_21": 5.418349136066282,
+    "day_duration": 94.98298091,
+    "peak_speed": 28.70564048
+  },
+  {
+    "date": "2023-03-27",
+    "yyear": 2023,
+    "distance": 6005.667359,
+    "pct_distance_over_21": 5.684957337644646,
+    "day_duration": 81.09911305,
+    "peak_speed": 31.5066
+  },
+  {
+    "date": "2023-03-28",
+    "yyear": 2023,
+    "distance": 6777.108957,
+    "pct_distance_over_21": 3.4279344521980066,
+    "day_duration": 98.49703688,
+    "peak_speed": 28.70209167
+  },
+  {
+    "date": "2023-03-29",
+    "yyear": 2023,
+    "distance": 6929.994341,
+    "pct_distance_over_21": 3.5827947020252844,
+    "day_duration": 108.0847954,
+    "peak_speed": 28.5874
+  },
+  {
+    "date": "2023-03-30",
+    "yyear": 2023,
+    "distance": 2384.996023,
+    "pct_distance_over_21": 2.7312398872708727,
+    "day_duration": 63.6102006,
+    "peak_speed": 30.0317
+  },
+  {
+    "date": "2023-03-31",
+    "yyear": 2023,
+    "distance": 3531.911078,
+    "pct_distance_over_21": 0.8616801405213633,
+    "day_duration": 67.85997043,
+    "peak_speed": 22.7114
+  },
+  {
+    "date": "2023-04-01",
+    "yyear": 2023,
+    "distance": 8719.147818,
+    "pct_distance_over_21": 7.253617959020591,
+    "day_duration": 101.0641079,
+    "peak_speed": 30.7906
+  },
+  {
+    "date": "2023-04-02",
+    "yyear": 2023,
+    "distance": 4388.575027,
+    "pct_distance_over_21": 2.0839695162399696,
+    "day_duration": 45.45772076,
+    "peak_speed": 28.1511
+  },
+  {
+    "date": "2023-04-03",
+    "yyear": 2023,
+    "distance": 1830.25127,
+    "pct_distance_over_21": 1.765307279366073,
+    "day_duration": 39.53749318,
+    "peak_speed": 26.2275
+  },
+  {
+    "date": "2023-04-04",
+    "yyear": 2023,
+    "distance": 7890.10721,
+    "pct_distance_over_21": 4.617724412391096,
+    "day_duration": 71.00082305,
+    "peak_speed": 30.93116524
+  },
+  {
+    "date": "2023-04-05",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-04-06",
+    "yyear": 2023,
+    "distance": 3429.224505,
+    "pct_distance_over_21": 2.336825194243151,
+    "day_duration": 64.34524224,
+    "peak_speed": 29.4368
+  },
+  {
+    "date": "2023-04-07",
+    "yyear": 2023,
+    "distance": 3449.610962,
+    "pct_distance_over_21": 5.452362497449648,
+    "day_duration": 61.82785966,
+    "peak_speed": 29.4692
+  },
+  {
+    "date": "2023-04-08",
+    "yyear": 2023,
+    "distance": 12538.74364,
+    "pct_distance_over_21": 4.417042002782345,
+    "day_duration": 117.8455331,
+    "peak_speed": 30.78503333
+  },
+  {
+    "date": "2023-04-09",
+    "yyear": 2023,
+    "distance": 6349.03567,
+    "pct_distance_over_21": 4.9023501580043884,
+    "day_duration": 75.40149057,
+    "peak_speed": 29.8034
+  },
+  {
+    "date": "2023-04-10",
+    "yyear": 2023,
+    "distance": 4382.617475,
+    "pct_distance_over_21": 1.2819142936950023,
+    "day_duration": 77.06606251,
+    "peak_speed": 28.25248571
+  },
+  {
+    "date": "2023-04-11",
+    "yyear": 2023,
+    "distance": 4086.615804,
+    "pct_distance_over_21": 3.6495082594752284,
+    "day_duration": 70.30584171,
+    "peak_speed": 28.5583
+  },
+  {
+    "date": "2023-04-12",
+    "yyear": 2023,
+    "distance": 2667.198607,
+    "pct_distance_over_21": 6.9351309540482236,
+    "day_duration": 53.23645891,
+    "peak_speed": 30.10635
+  },
+  {
+    "date": "2023-04-13",
+    "yyear": 2023,
+    "distance": 3848.900937,
+    "pct_distance_over_21": 3.5142912201172094,
+    "day_duration": 53.97966492,
+    "peak_speed": 28.3117
+  },
+  {
+    "date": "2023-04-14",
+    "yyear": 2023,
+    "distance": 2068.231695,
+    "pct_distance_over_21": 1.1470105432263962,
+    "day_duration": 46.94017071,
+    "peak_speed": 27.7803
+  },
+  {
+    "date": "2023-04-15",
+    "yyear": 2023,
+    "distance": 9013.767406,
+    "pct_distance_over_21": 8.118318820972691,
+    "day_duration": 96.31803227,
+    "peak_speed": 30.45512
+  },
+  {
+    "date": "2023-04-16",
+    "yyear": 2023,
+    "distance": 4094.97042,
+    "pct_distance_over_21": 4.532662448389554,
+    "day_duration": 54.76258574,
+    "peak_speed": 27.7343
+  },
+  {
+    "date": "2023-04-17",
+    "yyear": 2023,
+    "distance": 2119.116861,
+    "pct_distance_over_21": 1.9648009496914665,
+    "day_duration": 43.94013219,
+    "peak_speed": 26.2796
+  },
+  {
+    "date": "2023-04-18",
+    "yyear": 2023,
+    "distance": 7347.992084,
+    "pct_distance_over_21": 7.916277462609199,
+    "day_duration": 60.17743191,
+    "peak_speed": 31.15255833
+  },
+  {
+    "date": "2023-04-19",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-04-20",
+    "yyear": 2023,
+    "distance": 3239.236797,
+    "pct_distance_over_21": 6.462104619639514,
+    "day_duration": 44.10147187,
+    "peak_speed": 29.6744
+  },
+  {
+    "date": "2023-04-21",
+    "yyear": 2023,
+    "distance": 3756.647557,
+    "pct_distance_over_21": 3.491998876912477,
+    "day_duration": 76.07466768,
+    "peak_speed": 30.8516
+  },
+  {
+    "date": "2023-04-22",
+    "yyear": 2023,
+    "distance": 5103.879993,
+    "pct_distance_over_21": 3.1571949912812145,
+    "day_duration": 74.09955956,
+    "peak_speed": 30.3335
+  },
+  {
+    "date": "2023-04-23",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-04-24",
+    "yyear": 2023,
+    "distance": 4625.693339,
+    "pct_distance_over_21": 2.0858269165084398,
+    "day_duration": 83.71484766,
+    "peak_speed": 28.908
+  },
+  {
+    "date": "2023-04-25",
+    "yyear": 2023,
+    "distance": 2926.692801,
+    "pct_distance_over_21": 3.472184985225581,
+    "day_duration": 57.44643988,
+    "peak_speed": 27.9453
+  },
+  {
+    "date": "2023-04-26",
+    "yyear": 2023,
+    "distance": 7878.198764,
+    "pct_distance_over_21": 2.7034800844737865,
+    "day_duration": 87.19428078,
+    "peak_speed": 29.6106
+  },
+  {
+    "date": "2023-04-27",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-04-28",
+    "yyear": 2023,
+    "distance": 3930.631434,
+    "pct_distance_over_21": 0.4211499100833782,
+    "day_duration": 76.57048074,
+    "peak_speed": 26.8204
+  },
+  {
+    "date": "2023-04-29",
+    "yyear": 2023,
+    "distance": 5136.026462,
+    "pct_distance_over_21": 1.644083705852215,
+    "day_duration": 73.17436763,
+    "peak_speed": 28.8105
+  },
+  {
+    "date": "2023-04-30",
+    "yyear": 2023,
+    "distance": 3499.280527,
+    "pct_distance_over_21": 0.4892160536405032,
+    "day_duration": 64.13447424,
+    "peak_speed": 28.9287
+  },
+  {
+    "date": "2023-05-01",
+    "yyear": 2023,
+    "distance": 2918.438907,
+    "pct_distance_over_21": 1.4519998334849502,
+    "day_duration": 57.39458208,
+    "peak_speed": 29.69935
+  },
+  {
+    "date": "2023-05-02",
+    "yyear": 2023,
+    "distance": 8392.04745,
+    "pct_distance_over_21": 6.548704670396019,
+    "day_duration": 98.56160368,
+    "peak_speed": 31.11113333
+  },
+  {
+    "date": "2023-05-03",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-04",
+    "yyear": 2023,
+    "distance": 3125.057304,
+    "pct_distance_over_21": 1.064158736463285,
+    "day_duration": 84.8284302,
+    "peak_speed": 25.0681
+  },
+  {
+    "date": "2023-05-05",
+    "yyear": 2023,
+    "distance": 3577.465034,
+    "pct_distance_over_21": 3.018712308118677,
+    "day_duration": 53.4336841,
+    "peak_speed": 30.3181
+  },
+  {
+    "date": "2023-05-06",
+    "yyear": 2023,
+    "distance": 11946.59108,
+    "pct_distance_over_21": 4.247537410479442,
+    "day_duration": 123.3952294,
+    "peak_speed": 28.18335238
+  },
+  {
+    "date": "2023-05-07",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-08",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-09",
+    "yyear": 2023,
+    "distance": 5076.582455,
+    "pct_distance_over_21": 0.7470606195442955,
+    "day_duration": 73.10271722,
+    "peak_speed": 28.0753
+  },
+  {
+    "date": "2023-05-10",
+    "yyear": 2023,
+    "distance": 5240.362225,
+    "pct_distance_over_21": 3.553140338500169,
+    "day_duration": 80.74157238,
+    "peak_speed": 30.96993333
+  },
+  {
+    "date": "2023-05-11",
+    "yyear": 2023,
+    "distance": 4658.681077,
+    "pct_distance_over_21": 0.5455608428634231,
+    "day_duration": 82.92411785,
+    "peak_speed": 26.9832
+  },
+  {
+    "date": "2023-05-12",
+    "yyear": 2023,
+    "distance": 4466.820988,
+    "pct_distance_over_21": 0.9604080106466985,
+    "day_duration": 57.71718305,
+    "peak_speed": 27.0296
+  },
+  {
+    "date": "2023-05-13",
+    "yyear": 2023,
+    "distance": 4769.307897,
+    "pct_distance_over_21": 11.414518574957922,
+    "day_duration": 37.33503908,
+    "peak_speed": 29.91884
+  },
+  {
+    "date": "2023-05-14",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-15",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-16",
+    "yyear": 2023,
+    "distance": 4074.469044,
+    "pct_distance_over_21": 6.145000793875218,
+    "day_duration": 86.1627923,
+    "peak_speed": 27.549475
+  },
+  {
+    "date": "2023-05-17",
+    "yyear": 2023,
+    "distance": 5001.323181,
+    "pct_distance_over_21": 2.9782337095483933,
+    "day_duration": 70.12610914,
+    "peak_speed": 29.22338
+  },
+  {
+    "date": "2023-05-18",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-19",
+    "yyear": 2023,
+    "distance": 4427.442218,
+    "pct_distance_over_21": 0.6905239141395385,
+    "day_duration": 67.05126224,
+    "peak_speed": 27.8907
+  },
+  {
+    "date": "2023-05-20",
+    "yyear": 2023,
+    "distance": 3424.3443,
+    "pct_distance_over_21": 1.4233725639095345,
+    "day_duration": 62.5302175,
+    "peak_speed": 25.6348
+  },
+  {
+    "date": "2023-05-21",
+    "yyear": 2023,
+    "distance": 5157.44512,
+    "pct_distance_over_21": 4.221568932564812,
+    "day_duration": 55.37450508,
+    "peak_speed": 28.66928333
+  },
+  {
+    "date": "2023-05-22",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-23",
+    "yyear": 2023,
+    "distance": 2426.763699,
+    "pct_distance_over_21": 4.3901368165306485,
+    "day_duration": 53.84964814,
+    "peak_speed": 30.87703333
+  },
+  {
+    "date": "2023-05-24",
+    "yyear": 2023,
+    "distance": 4789.000437,
+    "pct_distance_over_21": 4.443127437534623,
+    "day_duration": 66.89622434,
+    "peak_speed": 26.9967
+  },
+  {
+    "date": "2023-05-25",
+    "yyear": 2023,
+    "distance": 2736.889735,
+    "pct_distance_over_21": 16.987985381880936,
+    "day_duration": 11.83185243,
+    "peak_speed": 31.05095
+  },
+  {
+    "date": "2023-05-26",
+    "yyear": 2023,
+    "distance": 4106.550665,
+    "pct_distance_over_21": 2.244136132921667,
+    "day_duration": 50.49283107,
+    "peak_speed": 27.7689
+  },
+  {
+    "date": "2023-05-27",
+    "yyear": 2023,
+    "distance": 1696.303915,
+    "pct_distance_over_21": 1.9868643514862137,
+    "day_duration": 41.84855941,
+    "peak_speed": 24.8749
+  },
+  {
+    "date": "2023-05-28",
+    "yyear": 2023,
+    "distance": 4244.786232,
+    "pct_distance_over_21": 11.014301805716936,
+    "day_duration": 57.37545791,
+    "peak_speed": 30.31331
+  },
+  {
+    "date": "2023-05-29",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-30",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-05-31",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-08-01",
+    "yyear": 2023,
+    "distance": 4102.920484,
+    "pct_distance_over_21": 8.83354000433024,
+    "day_duration": 63.66095895,
+    "peak_speed": 28.59203
+  },
+  {
+    "date": "2023-08-02",
+    "yyear": 2023,
+    "distance": 9699.565896,
+    "pct_distance_over_21": 6.9310723748703325,
+    "day_duration": 212.7705474,
+    "peak_speed": 31.1597
+  },
+  {
+    "date": "2023-08-03",
+    "yyear": 2023,
+    "distance": 7814.366795,
+    "pct_distance_over_21": 4.39888336979452,
+    "day_duration": 160.8537654,
+    "peak_speed": 29.65626667
+  },
+  {
+    "date": "2023-08-04",
+    "yyear": 2023,
+    "distance": 4505.063735,
+    "pct_distance_over_21": 7.724465902589501,
+    "day_duration": 72.96387053,
+    "peak_speed": 29.3686
+  },
+  {
+    "date": "2023-08-05",
+    "yyear": 2023,
+    "distance": 4257.722836,
+    "pct_distance_over_21": 5.197460631512088,
+    "day_duration": 57.77367961,
+    "peak_speed": 30.2149
+  },
+  {
+    "date": "2023-08-06",
+    "yyear": 2023,
+    "distance": 6385.700228,
+    "pct_distance_over_21": 4.501853033117357,
+    "day_duration": 53.75062049,
+    "peak_speed": 30.420615
+  },
+  {
+    "date": "2023-08-07",
+    "yyear": 2023,
+    "distance": 2949.963068,
+    "pct_distance_over_21": 6.494099033920515,
+    "day_duration": 91.0508775,
+    "peak_speed": 29.19123333
+  },
+  {
+    "date": "2023-08-08",
+    "yyear": 2023,
+    "distance": 3187.477119,
+    "pct_distance_over_21": 10.53398628961264,
+    "day_duration": 78.27862257,
+    "peak_speed": 28.25916667
+  },
+  {
+    "date": "2023-08-09",
+    "yyear": 2023,
+    "distance": 4060.754307,
+    "pct_distance_over_21": 5.130052523515061,
+    "day_duration": 52.04388838,
+    "peak_speed": 28.7655
+  },
+  {
+    "date": "2023-08-10",
+    "yyear": 2023,
+    "distance": 5348.260297,
+    "pct_distance_over_21": 5.395688058822991,
+    "day_duration": 68.92212959,
+    "peak_speed": 30.5686
+  },
+  {
+    "date": "2023-08-11",
+    "yyear": 2023,
+    "distance": 3357.117004,
+    "pct_distance_over_21": 5.496952729979976,
+    "day_duration": 54.46836373,
+    "peak_speed": 25.87259
+  },
+  {
+    "date": "2023-08-12",
+    "yyear": 2023,
+    "distance": 3283.160003,
+    "pct_distance_over_21": 1.2430650005698183,
+    "day_duration": 52.24964269,
+    "peak_speed": 26.312095
+  },
+  {
+    "date": "2023-08-13",
+    "yyear": 2023,
+    "distance": 5768.904129,
+    "pct_distance_over_21": 7.375211653478321,
+    "day_duration": 76.33797572,
+    "peak_speed": 30.64549524
+  },
+  {
+    "date": "2023-08-14",
+    "yyear": 2023,
+    "distance": 6103.124659,
+    "pct_distance_over_21": 5.135440781761033,
+    "day_duration": 103.7483502,
+    "peak_speed": 28.40566667
+  },
+  {
+    "date": "2023-08-15",
+    "yyear": 2023,
+    "distance": 5061.846914,
+    "pct_distance_over_21": 3.263495139355374,
+    "day_duration": 85.83494758,
+    "peak_speed": 28.01867833
+  },
+  {
+    "date": "2023-08-16",
+    "yyear": 2023,
+    "distance": 7213.515547,
+    "pct_distance_over_21": 7.484797143392087,
+    "day_duration": 110.0066224,
+    "peak_speed": 28.24379333
+  },
+  {
+    "date": "2023-08-17",
+    "yyear": 2023,
+    "distance": 6689.641347,
+    "pct_distance_over_21": 9.833540702372725,
+    "day_duration": 103.3693779,
+    "peak_speed": 31.2808
+  },
+  {
+    "date": "2023-08-18",
+    "yyear": 2023,
+    "distance": 1628.639371,
+    "pct_distance_over_21": 0.19775892142546028,
+    "day_duration": 74.14762917,
+    "peak_speed": 21.423
+  },
+  {
+    "date": "2023-08-19",
+    "yyear": 2023,
+    "distance": 3823.07785,
+    "pct_distance_over_21": 1.4115149112121794,
+    "day_duration": 70.48164001,
+    "peak_speed": 29.5938
+  },
+  {
+    "date": "2023-08-20",
+    "yyear": 2023,
+    "distance": 9064.380122,
+    "pct_distance_over_21": 10.41056348585466,
+    "day_duration": 68.96537351,
+    "peak_speed": 31.89840333
+  },
+  {
+    "date": "2023-08-21",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-08-22",
+    "yyear": 2023,
+    "distance": 6328.023354,
+    "pct_distance_over_21": 4.790232461901247,
+    "day_duration": 83.76554718,
+    "peak_speed": 30.427
+  },
+  {
+    "date": "2023-08-23",
+    "yyear": 2023,
+    "distance": 4480.238801,
+    "pct_distance_over_21": 2.242674198026526,
+    "day_duration": 53.66173538,
+    "peak_speed": 28.813775
+  },
+  {
+    "date": "2023-08-24",
+    "yyear": 2023,
+    "distance": 5213.359428,
+    "pct_distance_over_21": 3.594423559088625,
+    "day_duration": 58.23693448,
+    "peak_speed": 30.22945
+  },
+  {
+    "date": "2023-08-25",
+    "yyear": 2023,
+    "distance": 4397.700359,
+    "pct_distance_over_21": 10.481803990047608,
+    "day_duration": 35.40523429,
+    "peak_speed": 30.51454952
+  },
+  {
+    "date": "2023-08-26",
+    "yyear": 2023,
+    "distance": 3332.412945,
+    "pct_distance_over_21": 1.8945013880925252,
+    "day_duration": 54.53770992,
+    "peak_speed": 29.033
+  },
+  {
+    "date": "2023-08-27",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-08-28",
+    "yyear": 2023,
+    "distance": 5996.999852,
+    "pct_distance_over_21": 4.013113630805539,
+    "day_duration": 93.334126,
+    "peak_speed": 30.3901
+  },
+  {
+    "date": "2023-08-29",
+    "yyear": 2023,
+    "distance": 3820.680367,
+    "pct_distance_over_21": 1.4405831525555617,
+    "day_duration": 75.86922635,
+    "peak_speed": 26.9026
+  },
+  {
+    "date": "2023-08-30",
+    "yyear": 2023,
+    "distance": 7645.275799,
+    "pct_distance_over_21": 3.1211631610623076,
+    "day_duration": 89.29349486,
+    "peak_speed": 30.88883333
+  },
+  {
+    "date": "2023-08-31",
+    "yyear": 2023,
+    "distance": 3690.197045,
+    "pct_distance_over_21": 1.64898085137348,
+    "day_duration": 55.19588939,
+    "peak_speed": 26.025
+  },
+  {
+    "date": "2023-09-01",
+    "yyear": 2023,
+    "distance": 4308.521695,
+    "pct_distance_over_21": 4.490382620668225,
+    "day_duration": 49.9658875,
+    "peak_speed": 29.1212
+  },
+  {
+    "date": "2023-09-02",
+    "yyear": 2023,
+    "distance": 9577.250596,
+    "pct_distance_over_21": 6.629787176762311,
+    "day_duration": 87.27618515,
+    "peak_speed": 30.5503
+  },
+  {
+    "date": "2023-09-03",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-09-04",
+    "yyear": 2023,
+    "distance": 4422.413388,
+    "pct_distance_over_21": 7.83604503912559,
+    "day_duration": 64.66621856,
+    "peak_speed": 28.77258238
+  },
+  {
+    "date": "2023-09-05",
+    "yyear": 2023,
+    "distance": 3595.202588,
+    "pct_distance_over_21": 4.192769659299099,
+    "day_duration": 89.98735494,
+    "peak_speed": 29.2298
+  },
+  {
+    "date": "2023-09-06",
+    "yyear": 2023,
+    "distance": 3698.55738,
+    "pct_distance_over_21": 3.432032223872109,
+    "day_duration": 92.13078036,
+    "peak_speed": 29.0985
+  },
+  {
+    "date": "2023-09-07",
+    "yyear": 2023,
+    "distance": 4730.673664,
+    "pct_distance_over_21": 4.413964693633959,
+    "day_duration": 98.25586103,
+    "peak_speed": 28.22479167
+  },
+  {
+    "date": "2023-09-08",
+    "yyear": 2023,
+    "distance": 760.2110729,
+    "pct_distance_over_21": 12.269912402640037,
+    "day_duration": 77.97018457,
+    "peak_speed": 27.813
+  },
+  {
+    "date": "2023-09-09",
+    "yyear": 2023,
+    "distance": 4203.92935,
+    "pct_distance_over_21": 6.80106461827195,
+    "day_duration": 99.99739021,
+    "peak_speed": 29.02472857
+  },
+  {
+    "date": "2023-09-10",
+    "yyear": 2023,
+    "distance": 3023.510653,
+    "pct_distance_over_21": 1.1757560551251016,
+    "day_duration": 71.02341342,
+    "peak_speed": 27.9716
+  },
+  {
+    "date": "2023-09-11",
+    "yyear": 2023,
+    "distance": 3772.339383,
+    "pct_distance_over_21": 4.088408643586774,
+    "day_duration": 69.36495233,
+    "peak_speed": 27.352
+  },
+  {
+    "date": "2023-09-12",
+    "yyear": 2023,
+    "distance": 4912.234885,
+    "pct_distance_over_21": 14.648900116672657,
+    "day_duration": 60.22710886,
+    "peak_speed": 27.33919762
+  },
+  {
+    "date": "2023-09-13",
+    "yyear": 2023,
+    "distance": 6509.953546,
+    "pct_distance_over_21": 6.941362487565745,
+    "day_duration": 65.74999383,
+    "peak_speed": 31.3985
+  },
+  {
+    "date": "2023-09-14",
+    "yyear": 2023,
+    "distance": 1801.907138,
+    "pct_distance_over_21": 9.87701189738003,
+    "day_duration": 43.12309951,
+    "peak_speed": 27.8429
+  },
+  {
+    "date": "2023-09-15",
+    "yyear": 2023,
+    "distance": 4338.275395,
+    "pct_distance_over_21": 2.3744982722564116,
+    "day_duration": 54.01075729,
+    "peak_speed": 28.7521
+  },
+  {
+    "date": "2023-09-16",
+    "yyear": 2023,
+    "distance": 4531.551158,
+    "pct_distance_over_21": 0,
+    "day_duration": 114.9695477,
+    "peak_speed": 27.2559
+  },
+  {
+    "date": "2023-09-17",
+    "yyear": 2023,
+    "distance": 7324.489403,
+    "pct_distance_over_21": 6.9970802099882565,
+    "day_duration": 70.0024094,
+    "peak_speed": 31.9109
+  },
+  {
+    "date": "2023-09-18",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-09-19",
+    "yyear": 2023,
+    "distance": 4617.543919,
+    "pct_distance_over_21": 1.8784503948753886,
+    "day_duration": 62.92559108,
+    "peak_speed": 30.9357
+  },
+  {
+    "date": "2023-09-20",
+    "yyear": 2023,
+    "distance": 3580.918969,
+    "pct_distance_over_21": 5.366510855554632,
+    "day_duration": 51.50658077,
+    "peak_speed": 27.6321
+  },
+  {
+    "date": "2023-09-21",
+    "yyear": 2023,
+    "distance": 7185.390607,
+    "pct_distance_over_21": 4.141027569331138,
+    "day_duration": 88.56988648,
+    "peak_speed": 30.84353333
+  },
+  {
+    "date": "2023-09-22",
+    "yyear": 2023,
+    "distance": 2282.175388,
+    "pct_distance_over_21": 2.192180297494296,
+    "day_duration": 52.36830746,
+    "peak_speed": 26.6909
+  },
+  {
+    "date": "2023-09-23",
+    "yyear": 2023,
+    "distance": 4129.097081,
+    "pct_distance_over_21": 2.191470310697691,
+    "day_duration": 64.32318844,
+    "peak_speed": 27.0483
+  },
+  {
+    "date": "2023-09-24",
+    "yyear": 2023,
+    "distance": 8482.372554,
+    "pct_distance_over_21": 5.384246097333111,
+    "day_duration": 103.2376908,
+    "peak_speed": 31.9435
+  },
+  {
+    "date": "2023-09-25",
+    "yyear": 2023,
+    "distance": 1523.77108,
+    "pct_distance_over_21": 8.119095192435335,
+    "day_duration": 21.89219832,
+    "peak_speed": 25.77
+  },
+  {
+    "date": "2023-09-26",
+    "yyear": 2023,
+    "distance": 3233.694737,
+    "pct_distance_over_21": 6.770228729230851,
+    "day_duration": 85.99869318,
+    "peak_speed": 27.8377
+  },
+  {
+    "date": "2023-09-27",
+    "yyear": 2023,
+    "distance": 6206.725066,
+    "pct_distance_over_21": 1.061248389602827,
+    "day_duration": 59.31958619,
+    "peak_speed": 31.7556619
+  },
+  {
+    "date": "2023-09-28",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-09-29",
+    "yyear": 2023,
+    "distance": 1935.425236,
+    "pct_distance_over_21": 12.584571109725884,
+    "day_duration": 0,
+    "peak_speed": 30.07501
+  },
+  {
+    "date": "2023-09-30",
+    "yyear": 2023,
+    "distance": 3917.867513,
+    "pct_distance_over_21": 0.9043590724401303,
+    "day_duration": 71.21008413,
+    "peak_speed": 29.3845
+  },
+  {
+    "date": "2023-10-01",
+    "yyear": 2023,
+    "distance": 2702.812865,
+    "pct_distance_over_21": 0,
+    "day_duration": 69.48566128,
+    "peak_speed": 20.3606
+  },
+  {
+    "date": "2023-10-02",
+    "yyear": 2023,
+    "distance": 5029.838473,
+    "pct_distance_over_21": 5.8469578810269685,
+    "day_duration": 70.45043382,
+    "peak_speed": 30.75277333
+  },
+  {
+    "date": "2023-10-03",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-10-04",
+    "yyear": 2023,
+    "distance": 5724.999391,
+    "pct_distance_over_21": 0.884634467553256,
+    "day_duration": 94.92511897,
+    "peak_speed": 29.220925
+  },
+  {
+    "date": "2023-10-05",
+    "yyear": 2023,
+    "distance": 2955.840198,
+    "pct_distance_over_21": 6.937833531689456,
+    "day_duration": 67.3580272,
+    "peak_speed": 27.5908
+  },
+  {
+    "date": "2023-10-06",
+    "yyear": 2023,
+    "distance": 5748.701036,
+    "pct_distance_over_21": 2.753425412258645,
+    "day_duration": 103.0487761,
+    "peak_speed": 29.4851
+  },
+  {
+    "date": "2023-10-07",
+    "yyear": 2023,
+    "distance": 4754.925222,
+    "pct_distance_over_21": 11.686344906729639,
+    "day_duration": 40.61090335,
+    "peak_speed": 31.07746083
+  },
+  {
+    "date": "2023-10-08",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-10-09",
+    "yyear": 2023,
+    "distance": 1201.191671,
+    "pct_distance_over_21": 1.659881192266442,
+    "day_duration": 39.80885842,
+    "peak_speed": 27.9095
+  },
+  {
+    "date": "2023-10-10",
+    "yyear": 2023,
+    "distance": 4202.646309,
+    "pct_distance_over_21": 3.127298103067659,
+    "day_duration": 80.72815086,
+    "peak_speed": 27.9857
+  },
+  {
+    "date": "2023-10-11",
+    "yyear": 2023,
+    "distance": 3842.476884,
+    "pct_distance_over_21": 2.1581300518761948,
+    "day_duration": 57.27138072,
+    "peak_speed": 30.20953333
+  },
+  {
+    "date": "2023-10-12",
+    "yyear": 2023,
+    "distance": 6235.339254,
+    "pct_distance_over_21": 4.708889002497248,
+    "day_duration": 61.67565593,
+    "peak_speed": 31.47392
+  },
+  {
+    "date": "2023-10-13",
+    "yyear": 2023,
+    "distance": 7691.871234,
+    "pct_distance_over_21": 2.6380853296536086,
+    "day_duration": 96.28418204,
+    "peak_speed": 29.9639
+  },
+  {
+    "date": "2023-10-14",
+    "yyear": 2023,
+    "distance": 2690.073937,
+    "pct_distance_over_21": 4.353648261824708,
+    "day_duration": 77.42119665,
+    "peak_speed": 27.439
+  },
+  {
+    "date": "2023-10-15",
+    "yyear": 2023,
+    "distance": 4428.028602,
+    "pct_distance_over_21": 6.566259853621424,
+    "day_duration": 96.0229181,
+    "peak_speed": 29.51796
+  },
+  {
+    "date": "2023-10-16",
+    "yyear": 2023,
+    "distance": 4035.450735,
+    "pct_distance_over_21": 6.365047127752882,
+    "day_duration": 59.37784587,
+    "peak_speed": 31.1683
+  },
+  {
+    "date": "2023-10-17",
+    "yyear": 2023,
+    "distance": 5561.202641,
+    "pct_distance_over_21": 8.292350163616346,
+    "day_duration": 43.77755021,
+    "peak_speed": 32.05949833
+  },
+  {
+    "date": "2023-10-18",
+    "yyear": 2023,
+    "distance": 6847.605852,
+    "pct_distance_over_21": 4.911627607797657,
+    "day_duration": 76.77184574,
+    "peak_speed": 28.43810222
+  },
+  {
+    "date": "2023-10-19",
+    "yyear": 2023,
+    "distance": 2582.792012,
+    "pct_distance_over_21": 3.0104796812419443,
+    "day_duration": 74.14569982,
+    "peak_speed": 28.8756
+  },
+  {
+    "date": "2023-10-20",
+    "yyear": 2023,
+    "distance": 4379.721052,
+    "pct_distance_over_21": 4.570557456132711,
+    "day_duration": 60.79279088,
+    "peak_speed": 29.1614
+  },
+  {
+    "date": "2023-10-21",
+    "yyear": 2023,
+    "distance": 3879.872469,
+    "pct_distance_over_21": 7.92017885781699,
+    "day_duration": 66.79633901,
+    "peak_speed": 28.45888
+  },
+  {
+    "date": "2023-10-22",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-10-23",
+    "yyear": 2023,
+    "distance": 5677.150034,
+    "pct_distance_over_21": 1.735287530010696,
+    "day_duration": 74.08691788,
+    "peak_speed": 29.2416
+  },
+  {
+    "date": "2023-10-24",
+    "yyear": 2023,
+    "distance": 7562.076397,
+    "pct_distance_over_21": 6.75426552953932,
+    "day_duration": 114.6373762,
+    "peak_speed": 27.91354
+  },
+  {
+    "date": "2023-10-25",
+    "yyear": 2023,
+    "distance": 5864.143365,
+    "pct_distance_over_21": 4.329144028353747,
+    "day_duration": 92.7265693,
+    "peak_speed": 30.9403
+  },
+  {
+    "date": "2023-10-26",
+    "yyear": 2023,
+    "distance": 2757.710708,
+    "pct_distance_over_21": 0.965601873784362,
+    "day_duration": 45.36782106,
+    "peak_speed": 26.7561
+  },
+  {
+    "date": "2023-10-27",
+    "yyear": 2023,
+    "distance": 5025.233621,
+    "pct_distance_over_21": 0,
+    "day_duration": 92.06790193,
+    "peak_speed": 25.7626
+  },
+  {
+    "date": "2023-10-28",
+    "yyear": 2023,
+    "distance": 11489.30466,
+    "pct_distance_over_21": 5.198845861225513,
+    "day_duration": 119.5776209,
+    "peak_speed": 31.50885333
+  },
+  {
+    "date": "2023-10-29",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-10-30",
+    "yyear": 2023,
+    "distance": 6233.822095,
+    "pct_distance_over_21": 2.74433703100409,
+    "day_duration": 99.84344413,
+    "peak_speed": 28.027745
+  },
+  {
+    "date": "2023-10-31",
+    "yyear": 2023,
+    "distance": 3619.204158,
+    "pct_distance_over_21": 0.5013172277086005,
+    "day_duration": 71.06988227,
+    "peak_speed": 29.8664
+  },
+  {
+    "date": "2023-11-01",
+    "yyear": 2023,
+    "distance": 6615.353769,
+    "pct_distance_over_21": 5.338208604275174,
+    "day_duration": 93.28363374,
+    "peak_speed": 29.4362
+  },
+  {
+    "date": "2023-11-02",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-11-03",
+    "yyear": 2023,
+    "distance": 3974.718473,
+    "pct_distance_over_21": 7.232525363815874,
+    "day_duration": 59.96800542,
+    "peak_speed": 28.50042667
+  },
+  {
+    "date": "2023-11-04",
+    "yyear": 2023,
+    "distance": 4121.539042,
+    "pct_distance_over_21": 4.979270838119115,
+    "day_duration": 65.028716,
+    "peak_speed": 28.4034
+  },
+  {
+    "date": "2023-11-05",
+    "yyear": 2023,
+    "distance": 4789.729853,
+    "pct_distance_over_21": 2.308729491930283,
+    "day_duration": 73.96287662,
+    "peak_speed": 29.8786
+  },
+  {
+    "date": "2023-11-06",
+    "yyear": 2023,
+    "distance": 4120.241253,
+    "pct_distance_over_21": 13.191598319740429,
+    "day_duration": 49.0118418,
+    "peak_speed": 31.44258143
+  },
+  {
+    "date": "2023-11-07",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-11-08",
+    "yyear": 2023,
+    "distance": 1809.358971,
+    "pct_distance_over_21": 2.3832939516787572,
+    "day_duration": 20.21643632,
+    "peak_speed": 28.7107
+  },
+  {
+    "date": "2023-11-09",
+    "yyear": 2023,
+    "distance": 3280.503846,
+    "pct_distance_over_21": 6.5350614620190886,
+    "day_duration": 45.01182359,
+    "peak_speed": 31.16625
+  },
+  {
+    "date": "2023-11-10",
+    "yyear": 2023,
+    "distance": 2598.458423,
+    "pct_distance_over_21": 1.4337383096162015,
+    "day_duration": 59.70106514,
+    "peak_speed": 29.37103333
+  },
+  {
+    "date": "2023-11-11",
+    "yyear": 2023,
+    "distance": 3035.936044,
+    "pct_distance_over_21": 7.319016338935762,
+    "day_duration": 75.15850966,
+    "peak_speed": 28.74945
+  },
+  {
+    "date": "2023-11-12",
+    "yyear": 2023,
+    "distance": 6585.738527,
+    "pct_distance_over_21": 5.202315722001028,
+    "day_duration": 38.76171863,
+    "peak_speed": 32.817285
+  },
+  {
+    "date": "2023-11-13",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-11-14",
+    "yyear": 2023,
+    "distance": 3420.251228,
+    "pct_distance_over_21": 8.084118854674964,
+    "day_duration": 51.09167051,
+    "peak_speed": 29.2159
+  },
+  {
+    "date": "2023-11-15",
+    "yyear": 2023,
+    "distance": 3385.624978,
+    "pct_distance_over_21": 2.0681986423482726,
+    "day_duration": 57.65774623,
+    "peak_speed": 23.1016
+  },
+  {
+    "date": "2023-11-16",
+    "yyear": 2023,
+    "distance": 6950.186353,
+    "pct_distance_over_21": 9.405816883137607,
+    "day_duration": 113.7689969,
+    "peak_speed": 32.1377
+  },
+  {
+    "date": "2023-11-17",
+    "yyear": 2023,
+    "distance": 4589.164537,
+    "pct_distance_over_21": 4.6662405296975304,
+    "day_duration": 72.85143235,
+    "peak_speed": 30.7788
+  },
+  {
+    "date": "2023-11-18",
+    "yyear": 2023,
+    "distance": 5823.386275,
+    "pct_distance_over_21": 3.2044022152729346,
+    "day_duration": 78.06029966,
+    "peak_speed": 30.5849
+  },
+  {
+    "date": "2023-11-19",
+    "yyear": 2023,
+    "distance": 3191.794494,
+    "pct_distance_over_21": 3.618593102316442,
+    "day_duration": 82.96710954,
+    "peak_speed": 28.90768333
+  },
+  {
+    "date": "2023-11-20",
+    "yyear": 2023,
+    "distance": 2963.98581,
+    "pct_distance_over_21": 5.457959027813294,
+    "day_duration": 56.48244974,
+    "peak_speed": 28.98335
+  },
+  {
+    "date": "2023-11-21",
+    "yyear": 2023,
+    "distance": 2390.255712,
+    "pct_distance_over_21": 9.232142975002333,
+    "day_duration": 20.65030389,
+    "peak_speed": 30.77841
+  },
+  {
+    "date": "2023-11-22",
+    "yyear": 2023,
+    "distance": 6506.194,
+    "pct_distance_over_21": 7.439992149019841,
+    "day_duration": 91.7425131,
+    "peak_speed": 30.751
+  },
+  {
+    "date": "2023-11-23",
+    "yyear": 2023,
+    "distance": 2432.716539,
+    "pct_distance_over_21": 2.698278081217912,
+    "day_duration": 64.03933573,
+    "peak_speed": 27.0424
+  },
+  {
+    "date": "2023-11-24",
+    "yyear": 2023,
+    "distance": 3322.692414,
+    "pct_distance_over_21": 7.052861444911343,
+    "day_duration": 68.84753605,
+    "peak_speed": 31.1457
+  },
+  {
+    "date": "2023-11-25",
+    "yyear": 2023,
+    "distance": 9705.884726,
+    "pct_distance_over_21": 5.461077116237739,
+    "day_duration": 81.56258265,
+    "peak_speed": 29.68249333
+  },
+  {
+    "date": "2023-11-26",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-11-27",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-11-28",
+    "yyear": 2023,
+    "distance": 4273.597784,
+    "pct_distance_over_21": 5.063728243453245,
+    "day_duration": 80.08216496,
+    "peak_speed": 23.1804
+  },
+  {
+    "date": "2023-11-29",
+    "yyear": 2023,
+    "distance": 5112.526664,
+    "pct_distance_over_21": 3.421836557486559,
+    "day_duration": 72.17063392,
+    "peak_speed": 28.8755
+  },
+  {
+    "date": "2023-11-30",
+    "yyear": 2023,
+    "distance": 7792.367725,
+    "pct_distance_over_21": 6.286970915505659,
+    "day_duration": 99.49741582,
+    "peak_speed": 30.1016
+  },
+  {
+    "date": "2023-12-01",
+    "yyear": 2023,
+    "distance": 2251.060772,
+    "pct_distance_over_21": 4.918291015379126,
+    "day_duration": 66.70561998,
+    "peak_speed": 27.2723
+  },
+  {
+    "date": "2023-12-02",
+    "yyear": 2023,
+    "distance": 4147.178776,
+    "pct_distance_over_21": 0.7023257518715658,
+    "day_duration": 66.91606327,
+    "peak_speed": 27.8472
+  },
+  {
+    "date": "2023-12-03",
+    "yyear": 2023,
+    "distance": 9401.683277,
+    "pct_distance_over_21": 8.94682808830383,
+    "day_duration": 71.12831247,
+    "peak_speed": 30.01088
+  },
+  {
+    "date": "2023-12-04",
+    "yyear": 2023,
+    "distance": 3136.500913,
+    "pct_distance_over_21": 3.5061782301480235,
+    "day_duration": 66.39504177,
+    "peak_speed": 22.8903
+  },
+  {
+    "date": "2023-12-05",
+    "yyear": 2023,
+    "distance": 3055.510343,
+    "pct_distance_over_21": 3.1719090145459212,
+    "day_duration": 67.35780148,
+    "peak_speed": 29.6784
+  },
+  {
+    "date": "2023-12-06",
+    "yyear": 2023,
+    "distance": 9419.139201,
+    "pct_distance_over_21": 5.830670608856628,
+    "day_duration": 104.7399641,
+    "peak_speed": 30.33246
+  },
+  {
+    "date": "2023-12-07",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-12-08",
+    "yyear": 2023,
+    "distance": 3595.21739,
+    "pct_distance_over_21": 2.859429012163295,
+    "day_duration": 38.7210361,
+    "peak_speed": 23.9796
+  },
+  {
+    "date": "2023-12-09",
+    "yyear": 2023,
+    "distance": 3778.967953,
+    "pct_distance_over_21": 4.262345865413588,
+    "day_duration": 81.99900349,
+    "peak_speed": 27.5495
+  },
+  {
+    "date": "2023-12-10",
+    "yyear": 2023,
+    "distance": 5278.865402,
+    "pct_distance_over_21": 5.728756703768671,
+    "day_duration": 61.32172616,
+    "peak_speed": 30.888825
+  },
+  {
+    "date": "2023-12-11",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-12-12",
+    "yyear": 2023,
+    "distance": 5853.019555,
+    "pct_distance_over_21": 4.483850037299252,
+    "day_duration": 123.793246,
+    "peak_speed": 30.077125
+  },
+  {
+    "date": "2023-12-13",
+    "yyear": 2023,
+    "distance": 5809.329109,
+    "pct_distance_over_21": 2.453438290820717,
+    "day_duration": 83.71985094,
+    "peak_speed": 25.9416
+  },
+  {
+    "date": "2023-12-14",
+    "yyear": 2023,
+    "distance": 1866.383726,
+    "pct_distance_over_21": 2.7778215073227663,
+    "day_duration": 52.37358672,
+    "peak_speed": 27.7746
+  },
+  {
+    "date": "2023-12-15",
+    "yyear": 2023,
+    "distance": 3514.641371,
+    "pct_distance_over_21": 1.0269793950479278,
+    "day_duration": 44.28454859,
+    "peak_speed": 29.7981
+  },
+  {
+    "date": "2023-12-16",
+    "yyear": 2023,
+    "distance": 4938.844863,
+    "pct_distance_over_21": 0.5650669493402145,
+    "day_duration": 44.07693132,
+    "peak_speed": 31.4148819
+  },
+  {
+    "date": "2023-12-17",
+    "yyear": 2023,
+    "distance": 4973.529003,
+    "pct_distance_over_21": 3.4466360746383695,
+    "day_duration": 81.88335366,
+    "peak_speed": 26.736
+  },
+  {
+    "date": "2023-12-18",
+    "yyear": 2023,
+    "distance": 4524.130732,
+    "pct_distance_over_21": 1.4115057234822632,
+    "day_duration": 78.34044677,
+    "peak_speed": 30.4723
+  },
+  {
+    "date": "2023-12-19",
+    "yyear": 2023,
+    "distance": 7623.245874,
+    "pct_distance_over_21": 13.115026415583772,
+    "day_duration": 83.16194113,
+    "peak_speed": 31.85012
+  },
+  {
+    "date": "2023-12-20",
+    "yyear": 2023,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2023-12-21",
+    "yyear": 2023,
+    "distance": 3166.618359,
+    "pct_distance_over_21": 8.253510817215597,
+    "day_duration": 45.94098298,
+    "peak_speed": 28.00198571
+  },
+  {
+    "date": "2023-12-22",
+    "yyear": 2023,
+    "distance": 4649.094919,
+    "pct_distance_over_21": 5.406252689589365,
+    "day_duration": 66.73754375,
+    "peak_speed": 28.69415833
+  },
+  {
+    "date": "2023-12-23",
+    "yyear": 2023,
+    "distance": 5125.2198,
+    "pct_distance_over_21": 4.997249280899133,
+    "day_duration": 96.89847292,
+    "peak_speed": 30.8883
+  },
+  {
+    "date": "2023-12-24",
+    "yyear": 2023,
+    "distance": 9483.852577,
+    "pct_distance_over_21": 2.426956022684282,
+    "day_duration": 109.2809586,
+    "peak_speed": 29.8757
+  },
+  {
+    "date": "2023-12-25",
+    "yyear": 2023,
+    "distance": 2858.089867,
+    "pct_distance_over_21": 1.4486863879987297,
+    "day_duration": 49.60189198,
+    "peak_speed": 27.9558
+  },
+  {
+    "date": "2023-12-26",
+    "yyear": 2023,
+    "distance": 3975.319652,
+    "pct_distance_over_21": 1.0010945557542301,
+    "day_duration": 79.56220611,
+    "peak_speed": 27.3105
+  },
+  {
+    "date": "2023-12-27",
+    "yyear": 2023,
+    "distance": 7080.890527,
+    "pct_distance_over_21": 5.613906348138632,
+    "day_duration": 68.1806933,
+    "peak_speed": 30.87170857
+  },
+  {
+    "date": "2023-12-28",
+    "yyear": 2023,
+    "distance": 2831.40135,
+    "pct_distance_over_21": 1.334754469195969,
+    "day_duration": 50.52168515,
+    "peak_speed": 26.6166
+  },
+  {
+    "date": "2023-12-29",
+    "yyear": 2023,
+    "distance": 4007.270505,
+    "pct_distance_over_21": 2.787246183172254,
+    "day_duration": 64.97930294,
+    "peak_speed": 27.2842
+  },
+  {
+    "date": "2023-12-30",
+    "yyear": 2023,
+    "distance": 7479.689355,
+    "pct_distance_over_21": 9.235006922289488,
+    "day_duration": 50.16600099,
+    "peak_speed": 32.04053333
+  },
+  {
+    "date": "2023-12-31",
+    "yyear": 2023,
+    "distance": 7034.663255,
+    "pct_distance_over_21": 4.867695637834763,
+    "day_duration": 127.0143573,
+    "peak_speed": 29.14143333
+  },
+  {
+    "date": "2024-01-01",
+    "yyear": 2024,
+    "distance": 3763.62156,
+    "pct_distance_over_21": 7.598110496529305,
+    "day_duration": 59.13552348,
+    "peak_speed": 30.78977857
+  },
+  {
+    "date": "2024-01-02",
+    "yyear": 2024,
+    "distance": 5475.247135,
+    "pct_distance_over_21": 3.3039594257511085,
+    "day_duration": 97.244194,
+    "peak_speed": 28.23124667
+  },
+  {
+    "date": "2024-01-03",
+    "yyear": 2024,
+    "distance": 8746.808456,
+    "pct_distance_over_21": 4.736198043937135,
+    "day_duration": 121.0090916,
+    "peak_speed": 31.8226819
+  },
+  {
+    "date": "2024-01-04",
+    "yyear": 2024,
+    "distance": 3134.943069,
+    "pct_distance_over_21": 0.18305310822855012,
+    "day_duration": 73.72223194,
+    "peak_speed": 27.7825
+  },
+  {
+    "date": "2024-01-05",
+    "yyear": 2024,
+    "distance": 4422.351734,
+    "pct_distance_over_21": 4.994875466411736,
+    "day_duration": 81.9970632,
+    "peak_speed": 27.2138
+  },
+  {
+    "date": "2024-01-06",
+    "yyear": 2024,
+    "distance": 10831.70678,
+    "pct_distance_over_21": 7.595424147919927,
+    "day_duration": 105.230143,
+    "peak_speed": 30.80376
+  },
+  {
+    "date": "2024-01-07",
+    "yyear": 2024,
+    "distance": 2943.781236,
+    "pct_distance_over_21": 2.183846781609148,
+    "day_duration": 64.2809474,
+    "peak_speed": 26.998
+  },
+  {
+    "date": "2024-01-08",
+    "yyear": 2024,
+    "distance": 3629.951717,
+    "pct_distance_over_21": 0,
+    "day_duration": 61.85793283,
+    "peak_speed": 28.4214
+  },
+  {
+    "date": "2024-01-09",
+    "yyear": 2024,
+    "distance": 8589.187292,
+    "pct_distance_over_21": 10.55125775920733,
+    "day_duration": 76.64138676,
+    "peak_speed": 31.33022
+  },
+  {
+    "date": "2024-01-10",
+    "yyear": 2024,
+    "distance": 5709.560254,
+    "pct_distance_over_21": 2.3258877460302565,
+    "day_duration": 76.91960266,
+    "peak_speed": 30.90984857
+  },
+  {
+    "date": "2024-01-11",
+    "yyear": 2024,
+    "distance": 5518.416086,
+    "pct_distance_over_21": 2.256837847293851,
+    "day_duration": 79.84815369,
+    "peak_speed": 29.7669
+  },
+  {
+    "date": "2024-01-12",
+    "yyear": 2024,
+    "distance": 3102.248466,
+    "pct_distance_over_21": 2.332881393711035,
+    "day_duration": 33.20432002,
+    "peak_speed": 29.9855
+  },
+  {
+    "date": "2024-01-13",
+    "yyear": 2024,
+    "distance": 1935.471089,
+    "pct_distance_over_21": 4.842891302418209,
+    "day_duration": 55.91569546,
+    "peak_speed": 31.500525
+  },
+  {
+    "date": "2024-01-14",
+    "yyear": 2024,
+    "distance": 5861.672813,
+    "pct_distance_over_21": 4.115021931368246,
+    "day_duration": 88.54568426,
+    "peak_speed": 24.8621
+  },
+  {
+    "date": "2024-01-15",
+    "yyear": 2024,
+    "distance": 5341.723039,
+    "pct_distance_over_21": 7.7475827851508345,
+    "day_duration": 82.38330116,
+    "peak_speed": 28.41166333
+  },
+  {
+    "date": "2024-01-16",
+    "yyear": 2024,
+    "distance": 5464.855965,
+    "pct_distance_over_21": 0.7498323237143177,
+    "day_duration": 85.77564184,
+    "peak_speed": 27.2522
+  },
+  {
+    "date": "2024-01-17",
+    "yyear": 2024,
+    "distance": 3244.280098,
+    "pct_distance_over_21": 2.273545341398571,
+    "day_duration": 57.54973296,
+    "peak_speed": 27.922
+  },
+  {
+    "date": "2024-01-18",
+    "yyear": 2024,
+    "distance": 3368.721266,
+    "pct_distance_over_21": 1.6355283874649902,
+    "day_duration": 53.1746105,
+    "peak_speed": 27.2542
+  },
+  {
+    "date": "2024-01-19",
+    "yyear": 2024,
+    "distance": 4307.578634,
+    "pct_distance_over_21": 4.540603088616768,
+    "day_duration": 68.11315659,
+    "peak_speed": 27.4885
+  },
+  {
+    "date": "2024-01-20",
+    "yyear": 2024,
+    "distance": 7122.287136,
+    "pct_distance_over_21": 1.8608838673476362,
+    "day_duration": 99.73119436,
+    "peak_speed": 29.0863
+  },
+  {
+    "date": "2024-01-21",
+    "yyear": 2024,
+    "distance": 3447.711599,
+    "pct_distance_over_21": 0.8417378271551883,
+    "day_duration": 71.33850197,
+    "peak_speed": 25.8224
+  },
+  {
+    "date": "2024-01-22",
+    "yyear": 2024,
+    "distance": 4345.954022,
+    "pct_distance_over_21": 1.930240409248398,
+    "day_duration": 74.19669244,
+    "peak_speed": 25.8985
+  },
+  {
+    "date": "2024-01-23",
+    "yyear": 2024,
+    "distance": 4254.805877,
+    "pct_distance_over_21": 10.437550488510807,
+    "day_duration": 40.84897467,
+    "peak_speed": 30.896145
+  },
+  {
+    "date": "2024-01-24",
+    "yyear": 2024,
+    "distance": 3721.958901,
+    "pct_distance_over_21": 3.558501770785674,
+    "day_duration": 67.84766794,
+    "peak_speed": 27.1181
+  },
+  {
+    "date": "2024-01-25",
+    "yyear": 2024,
+    "distance": 5659.661552,
+    "pct_distance_over_21": 2.064994113626814,
+    "day_duration": 67.9646124,
+    "peak_speed": 28.41306667
+  },
+  {
+    "date": "2024-01-26",
+    "yyear": 2024,
+    "distance": 8511.060839,
+    "pct_distance_over_21": 6.679259960110833,
+    "day_duration": 66.56804688,
+    "peak_speed": 27.70963
+  },
+  {
+    "date": "2024-01-27",
+    "yyear": 2024,
+    "distance": 2694.229565,
+    "pct_distance_over_21": 3.8868256016632343,
+    "day_duration": 29.9323297,
+    "peak_speed": 28.92256667
+  },
+  {
+    "date": "2024-01-28",
+    "yyear": 2024,
+    "distance": 4133.981438,
+    "pct_distance_over_21": 1.7796597363434992,
+    "day_duration": 69.99040379,
+    "peak_speed": 28.98809667
+  },
+  {
+    "date": "2024-01-29",
+    "yyear": 2024,
+    "distance": 4244.414311,
+    "pct_distance_over_21": 2.32059067289296,
+    "day_duration": 75.10823056,
+    "peak_speed": 25.6499
+  },
+  {
+    "date": "2024-01-30",
+    "yyear": 2024,
+    "distance": 4953.214085,
+    "pct_distance_over_21": 0.8557037213141173,
+    "day_duration": 78.90824294,
+    "peak_speed": 27.1316
+  },
+  {
+    "date": "2024-01-31",
+    "yyear": 2024,
+    "distance": 9901.730001,
+    "pct_distance_over_21": 6.686790081461846,
+    "day_duration": 86.26671128,
+    "peak_speed": 31.9429
+  },
+  {
+    "date": "2024-02-01",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-02-02",
+    "yyear": 2024,
+    "distance": 4330.693294,
+    "pct_distance_over_21": 0.6357871661830043,
+    "day_duration": 80.54151635,
+    "peak_speed": 27.0306
+  },
+  {
+    "date": "2024-02-03",
+    "yyear": 2024,
+    "distance": 4746.300544,
+    "pct_distance_over_21": 2.10529723357527,
+    "day_duration": 72.76492109,
+    "peak_speed": 29.7086
+  },
+  {
+    "date": "2024-02-04",
+    "yyear": 2024,
+    "distance": 9767.514052,
+    "pct_distance_over_21": 8.285135911673423,
+    "day_duration": 124.2166523,
+    "peak_speed": 31.57042
+  },
+  {
+    "date": "2024-02-05",
+    "yyear": 2024,
+    "distance": 3211.595364,
+    "pct_distance_over_21": 4.085927868464815,
+    "day_duration": 74.57331381,
+    "peak_speed": 25.7461
+  },
+  {
+    "date": "2024-02-06",
+    "yyear": 2024,
+    "distance": 2697.592513,
+    "pct_distance_over_21": 2.831351052166862,
+    "day_duration": 51.58247745,
+    "peak_speed": 22.6532
+  },
+  {
+    "date": "2024-02-07",
+    "yyear": 2024,
+    "distance": 7354.290174,
+    "pct_distance_over_21": 11.114503323376754,
+    "day_duration": 57.36452233,
+    "peak_speed": 31.309785
+  },
+  {
+    "date": "2024-02-08",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-02-09",
+    "yyear": 2024,
+    "distance": 1590.147756,
+    "pct_distance_over_21": 3.6197709076287876,
+    "day_duration": 29.31464232,
+    "peak_speed": 28.2493
+  },
+  {
+    "date": "2024-02-10",
+    "yyear": 2024,
+    "distance": 2257.609911,
+    "pct_distance_over_21": 3.0308426184084025,
+    "day_duration": 38.45674847,
+    "peak_speed": 29.38595
+  },
+  {
+    "date": "2024-02-11",
+    "yyear": 2024,
+    "distance": 3223.8253,
+    "pct_distance_over_21": 3.5952381662864923,
+    "day_duration": 71.15823696,
+    "peak_speed": 30.11305
+  },
+  {
+    "date": "2024-02-12",
+    "yyear": 2024,
+    "distance": 10342.32785,
+    "pct_distance_over_21": 9.304786676241365,
+    "day_duration": 94.14162381,
+    "peak_speed": 30.29426
+  },
+  {
+    "date": "2024-02-13",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-02-14",
+    "yyear": 2024,
+    "distance": 6339.669604,
+    "pct_distance_over_21": 8.274686039931995,
+    "day_duration": 92.61302888,
+    "peak_speed": 29.9148
+  },
+  {
+    "date": "2024-02-15",
+    "yyear": 2024,
+    "distance": 4264.073723,
+    "pct_distance_over_21": 1.3777514577929824,
+    "day_duration": 60.30928713,
+    "peak_speed": 30.067
+  },
+  {
+    "date": "2024-02-16",
+    "yyear": 2024,
+    "distance": 5340.037856,
+    "pct_distance_over_21": 3.6938047616717125,
+    "day_duration": 94.92984703,
+    "peak_speed": 29.00296667
+  },
+  {
+    "date": "2024-02-17",
+    "yyear": 2024,
+    "distance": 5083.728783,
+    "pct_distance_over_21": 8.793279541089163,
+    "day_duration": 54.69786036,
+    "peak_speed": 30.6994331
+  },
+  {
+    "date": "2024-02-18",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-02-19",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-02-20",
+    "yyear": 2024,
+    "distance": 3075.462372,
+    "pct_distance_over_21": 0.9286642629747642,
+    "day_duration": 50.9396223,
+    "peak_speed": 22.7889
+  },
+  {
+    "date": "2024-02-21",
+    "yyear": 2024,
+    "distance": 6666.275929,
+    "pct_distance_over_21": 6.259767476540648,
+    "day_duration": 90.02941041,
+    "peak_speed": 31.8141
+  },
+  {
+    "date": "2024-02-22",
+    "yyear": 2024,
+    "distance": 10263.55192,
+    "pct_distance_over_21": 5.836844805477439,
+    "day_duration": 125.3247498,
+    "peak_speed": 31.3338
+  },
+  {
+    "date": "2024-02-23",
+    "yyear": 2024,
+    "distance": 1884.491434,
+    "pct_distance_over_21": 2.3611640736171156,
+    "day_duration": 65.11877337,
+    "peak_speed": 28.8131
+  },
+  {
+    "date": "2024-02-24",
+    "yyear": 2024,
+    "distance": 3905.208514,
+    "pct_distance_over_21": 2.1496373658167234,
+    "day_duration": 72.68968504,
+    "peak_speed": 27.7169
+  },
+  {
+    "date": "2024-02-25",
+    "yyear": 2024,
+    "distance": 8337.437971,
+    "pct_distance_over_21": 7.724535071086768,
+    "day_duration": 72.80131682,
+    "peak_speed": 31.8751
+  },
+  {
+    "date": "2024-02-26",
+    "yyear": 2024,
+    "distance": 2496.50659,
+    "pct_distance_over_21": 4.815797357859168,
+    "day_duration": 45.22623518,
+    "peak_speed": 25.9436
+  },
+  {
+    "date": "2024-02-27",
+    "yyear": 2024,
+    "distance": 2414.446133,
+    "pct_distance_over_21": 5.7605321402297776,
+    "day_duration": 63.47721465,
+    "peak_speed": 28.8903
+  },
+  {
+    "date": "2024-02-28",
+    "yyear": 2024,
+    "distance": 6252.109057,
+    "pct_distance_over_21": 3.169040960316697,
+    "day_duration": 62.49586503,
+    "peak_speed": 31.9453
+  },
+  {
+    "date": "2024-02-29",
+    "yyear": 2024,
+    "distance": 5024.941942,
+    "pct_distance_over_21": 1.92812615505439,
+    "day_duration": 79.67849941,
+    "peak_speed": 25.9289
+  },
+  {
+    "date": "2024-03-01",
+    "yyear": 2024,
+    "distance": 3438.106158,
+    "pct_distance_over_21": 11.475591536984764,
+    "day_duration": 62.56911497,
+    "peak_speed": 28.75382762
+  },
+  {
+    "date": "2024-03-02",
+    "yyear": 2024,
+    "distance": 6078.277699,
+    "pct_distance_over_21": 9.86510781168572,
+    "day_duration": 36.61817004,
+    "peak_speed": 26.1612
+  },
+  {
+    "date": "2024-03-03",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-03-04",
+    "yyear": 2024,
+    "distance": 5399.358454,
+    "pct_distance_over_21": 3.879843353330362,
+    "day_duration": 81.53622947,
+    "peak_speed": 28.65036667
+  },
+  {
+    "date": "2024-03-05",
+    "yyear": 2024,
+    "distance": 5570.233412,
+    "pct_distance_over_21": 0.3324561450172854,
+    "day_duration": 80.30173014,
+    "peak_speed": 27.1334
+  },
+  {
+    "date": "2024-03-06",
+    "yyear": 2024,
+    "distance": 6295.657939,
+    "pct_distance_over_21": 5.109877507911409,
+    "day_duration": 89.88969723,
+    "peak_speed": 30.4747
+  },
+  {
+    "date": "2024-03-07",
+    "yyear": 2024,
+    "distance": 4822.972115,
+    "pct_distance_over_21": 4.172883564349615,
+    "day_duration": 67.635463,
+    "peak_speed": 28.69338333
+  },
+  {
+    "date": "2024-03-08",
+    "yyear": 2024,
+    "distance": 9414.58793,
+    "pct_distance_over_21": 7.250043983603221,
+    "day_duration": 98.05695774,
+    "peak_speed": 31.5843
+  },
+  {
+    "date": "2024-03-09",
+    "yyear": 2024,
+    "distance": 4988.71711,
+    "pct_distance_over_21": 4.2075312223907595,
+    "day_duration": 84.14375769,
+    "peak_speed": 26.0764
+  },
+  {
+    "date": "2024-03-10",
+    "yyear": 2024,
+    "distance": 2272.246306,
+    "pct_distance_over_21": 1.7524019889417746,
+    "day_duration": 51.27282079,
+    "peak_speed": 26.1091
+  },
+  {
+    "date": "2024-03-11",
+    "yyear": 2024,
+    "distance": 11118.5901,
+    "pct_distance_over_21": 7.61701020977471,
+    "day_duration": 95.38097323,
+    "peak_speed": 31.31204
+  },
+  {
+    "date": "2024-03-12",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-03-13",
+    "yyear": 2024,
+    "distance": 1340.679167,
+    "pct_distance_over_21": 4.807324994407106,
+    "day_duration": 41.24310439,
+    "peak_speed": 28.7484
+  },
+  {
+    "date": "2024-03-14",
+    "yyear": 2024,
+    "distance": 4516.365897,
+    "pct_distance_over_21": 2.471019869628601,
+    "day_duration": 102.984271,
+    "peak_speed": 27.1431
+  },
+  {
+    "date": "2024-03-15",
+    "yyear": 2024,
+    "distance": 2811.984255,
+    "pct_distance_over_21": 1.7725680106981967,
+    "day_duration": 64.53034212,
+    "peak_speed": 27.8927
+  },
+  {
+    "date": "2024-03-16",
+    "yyear": 2024,
+    "distance": 8444.69724,
+    "pct_distance_over_21": 5.4454454000058385,
+    "day_duration": 93.78082425,
+    "peak_speed": 31.22453333
+  },
+  {
+    "date": "2024-03-17",
+    "yyear": 2024,
+    "distance": 2402.827379,
+    "pct_distance_over_21": 12.362149083036563,
+    "day_duration": 24.13441261,
+    "peak_speed": 31.30297833
+  },
+  {
+    "date": "2024-03-18",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-03-19",
+    "yyear": 2024,
+    "distance": 5038.589641,
+    "pct_distance_over_21": 3.268198026289715,
+    "day_duration": 92.34787824,
+    "peak_speed": 28.56799167
+  },
+  {
+    "date": "2024-03-20",
+    "yyear": 2024,
+    "distance": 4034.132425,
+    "pct_distance_over_21": 3.479361486255623,
+    "day_duration": 76.93043992,
+    "peak_speed": 26.67682
+  },
+  {
+    "date": "2024-03-21",
+    "yyear": 2024,
+    "distance": 3365.146495,
+    "pct_distance_over_21": 0.5245681555387977,
+    "day_duration": 64.21755342,
+    "peak_speed": 25.7645
+  },
+  {
+    "date": "2024-03-22",
+    "yyear": 2024,
+    "distance": 6342.738643,
+    "pct_distance_over_21": 3.5404483148274037,
+    "day_duration": 48.77826761,
+    "peak_speed": 30.1557
+  },
+  {
+    "date": "2024-03-23",
+    "yyear": 2024,
+    "distance": 4147.390082,
+    "pct_distance_over_21": 6.429059344025312,
+    "day_duration": 52.16688537,
+    "peak_speed": 30.5275881
+  },
+  {
+    "date": "2024-03-24",
+    "yyear": 2024,
+    "distance": 4454.68346,
+    "pct_distance_over_21": 3.7950669249123257,
+    "day_duration": 87.32747395,
+    "peak_speed": 28.7617
+  },
+  {
+    "date": "2024-03-25",
+    "yyear": 2024,
+    "distance": 2815.619133,
+    "pct_distance_over_21": 19.34850359251341,
+    "day_duration": 52.70812158,
+    "peak_speed": 27.195
+  },
+  {
+    "date": "2024-03-26",
+    "yyear": 2024,
+    "distance": 4109.527636,
+    "pct_distance_over_21": 5.074035954238319,
+    "day_duration": 55.99804396,
+    "peak_speed": 30.0585
+  },
+  {
+    "date": "2024-03-27",
+    "yyear": 2024,
+    "distance": 8939.250036,
+    "pct_distance_over_21": 4.090903152135525,
+    "day_duration": 96.28559709,
+    "peak_speed": 31.35103333
+  },
+  {
+    "date": "2024-03-28",
+    "yyear": 2024,
+    "distance": 1974.722903,
+    "pct_distance_over_21": 5.008913525018249,
+    "day_duration": 58.30554505,
+    "peak_speed": 26.9463
+  },
+  {
+    "date": "2024-03-29",
+    "yyear": 2024,
+    "distance": 5327.005771,
+    "pct_distance_over_21": 2.7932676797544995,
+    "day_duration": 83.76677112,
+    "peak_speed": 28.7818
+  },
+  {
+    "date": "2024-03-30",
+    "yyear": 2024,
+    "distance": 5993.469858,
+    "pct_distance_over_21": 9.695754523973115,
+    "day_duration": 69.74451907,
+    "peak_speed": 30.95287
+  },
+  {
+    "date": "2024-03-31",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-04-01",
+    "yyear": 2024,
+    "distance": 3877.652582,
+    "pct_distance_over_21": 3.108168964374746,
+    "day_duration": 65.16710331,
+    "peak_speed": 29.66116667
+  },
+  {
+    "date": "2024-04-02",
+    "yyear": 2024,
+    "distance": 5225.177013,
+    "pct_distance_over_21": 2.4825743468071098,
+    "day_duration": 87.86012995,
+    "peak_speed": 29.1291
+  },
+  {
+    "date": "2024-04-03",
+    "yyear": 2024,
+    "distance": 6178.480804,
+    "pct_distance_over_21": 3.629727088490927,
+    "day_duration": 75.41838555,
+    "peak_speed": 29.9159
+  },
+  {
+    "date": "2024-04-04",
+    "yyear": 2024,
+    "distance": 9823.494991,
+    "pct_distance_over_21": 6.32898900004132,
+    "day_duration": 90.46049526,
+    "peak_speed": 30.7092
+  },
+  {
+    "date": "2024-04-05",
+    "yyear": 2024,
+    "distance": 4023.005985,
+    "pct_distance_over_21": 5.195038319089153,
+    "day_duration": 75.48406326,
+    "peak_speed": 25.8493
+  },
+  {
+    "date": "2024-04-06",
+    "yyear": 2024,
+    "distance": 2954.769779,
+    "pct_distance_over_21": 8.126669008414817,
+    "day_duration": 43.77743652,
+    "peak_speed": 28.77703333
+  },
+  {
+    "date": "2024-04-07",
+    "yyear": 2024,
+    "distance": 10105.28955,
+    "pct_distance_over_21": 8.531610178354562,
+    "day_duration": 92.71929223,
+    "peak_speed": 30.183
+  },
+  {
+    "date": "2024-04-08",
+    "yyear": 2024,
+    "distance": 6222.059675,
+    "pct_distance_over_21": 4.898258818130026,
+    "day_duration": 99.20139749,
+    "peak_speed": 31.6215
+  },
+  {
+    "date": "2024-04-09",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-04-10",
+    "yyear": 2024,
+    "distance": 3975.243669,
+    "pct_distance_over_21": 2.051122283291661,
+    "day_duration": 66.95440878,
+    "peak_speed": 25.3697
+  },
+  {
+    "date": "2024-04-11",
+    "yyear": 2024,
+    "distance": 6073.135406,
+    "pct_distance_over_21": 4.190327204767744,
+    "day_duration": 87.5664816,
+    "peak_speed": 29.1958
+  },
+  {
+    "date": "2024-04-12",
+    "yyear": 2024,
+    "distance": 10511.76517,
+    "pct_distance_over_21": 7.714533599117682,
+    "day_duration": 91.74678185,
+    "peak_speed": 31.69442
+  },
+  {
+    "date": "2024-04-13",
+    "yyear": 2024,
+    "distance": 2569.026886,
+    "pct_distance_over_21": 0.006116388149002812,
+    "day_duration": 61.27819676,
+    "peak_speed": 28.0176
+  },
+  {
+    "date": "2024-04-14",
+    "yyear": 2024,
+    "distance": 4018.598182,
+    "pct_distance_over_21": 2.331742505128123,
+    "day_duration": 72.80519092,
+    "peak_speed": 27.7592
+  },
+  {
+    "date": "2024-04-15",
+    "yyear": 2024,
+    "distance": 3594.071377,
+    "pct_distance_over_21": 22.276853507241853,
+    "day_duration": 31.57443184,
+    "peak_speed": 30.85089524
+  },
+  {
+    "date": "2024-04-16",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-04-17",
+    "yyear": 2024,
+    "distance": 3910.924298,
+    "pct_distance_over_21": 2.785828308047705,
+    "day_duration": 51.84769447,
+    "peak_speed": 26.9674
+  },
+  {
+    "date": "2024-04-18",
+    "yyear": 2024,
+    "distance": 5947.895493,
+    "pct_distance_over_21": 4.637434247535459,
+    "day_duration": 78.90880388,
+    "peak_speed": 25.4652
+  },
+  {
+    "date": "2024-04-19",
+    "yyear": 2024,
+    "distance": 6286.559024,
+    "pct_distance_over_21": 6.105452718008236,
+    "day_duration": 94.30325843,
+    "peak_speed": 29.9092
+  },
+  {
+    "date": "2024-04-20",
+    "yyear": 2024,
+    "distance": 6791.998328,
+    "pct_distance_over_21": 5.993103258313995,
+    "day_duration": 88.10203932,
+    "peak_speed": 31.1817
+  },
+  {
+    "date": "2024-04-21",
+    "yyear": 2024,
+    "distance": 2355.628045,
+    "pct_distance_over_21": 4.214157145934303,
+    "day_duration": 75.24285105,
+    "peak_speed": 26.0263
+  },
+  {
+    "date": "2024-04-22",
+    "yyear": 2024,
+    "distance": 5387.530861,
+    "pct_distance_over_21": 1.1635559922967091,
+    "day_duration": 72.84564041,
+    "peak_speed": 28.0976
+  },
+  {
+    "date": "2024-04-23",
+    "yyear": 2024,
+    "distance": 7295.957331,
+    "pct_distance_over_21": 8.01408604345359,
+    "day_duration": 56.33146122,
+    "peak_speed": 30.35103357
+  },
+  {
+    "date": "2024-04-24",
+    "yyear": 2024,
+    "distance": 3095.016938,
+    "pct_distance_over_21": 3.049794246715686,
+    "day_duration": 34.550195,
+    "peak_speed": 32.7086
+  },
+  {
+    "date": "2024-04-25",
+    "yyear": 2024,
+    "distance": 2860.203325,
+    "pct_distance_over_21": 5.624112502561335,
+    "day_duration": 53.39494618,
+    "peak_speed": 29.39065
+  },
+  {
+    "date": "2024-04-26",
+    "yyear": 2024,
+    "distance": 3133.131349,
+    "pct_distance_over_21": 2.443159637862983,
+    "day_duration": 74.16562119,
+    "peak_speed": 28.89
+  },
+  {
+    "date": "2024-04-27",
+    "yyear": 2024,
+    "distance": 10532.64671,
+    "pct_distance_over_21": 8.02887022971266,
+    "day_duration": 110.007777,
+    "peak_speed": 30.77126
+  },
+  {
+    "date": "2024-04-28",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-04-29",
+    "yyear": 2024,
+    "distance": 5114.786643,
+    "pct_distance_over_21": 7.012519933570959,
+    "day_duration": 78.8906286,
+    "peak_speed": 27.5607
+  },
+  {
+    "date": "2024-04-30",
+    "yyear": 2024,
+    "distance": 3271.981216,
+    "pct_distance_over_21": 0.3906823345284143,
+    "day_duration": 74.42048514,
+    "peak_speed": 31.122
+  },
+  {
+    "date": "2024-05-01",
+    "yyear": 2024,
+    "distance": 5645.102922,
+    "pct_distance_over_21": 2.4957287678660323,
+    "day_duration": 81.84609108,
+    "peak_speed": 29.824
+  },
+  {
+    "date": "2024-05-02",
+    "yyear": 2024,
+    "distance": 10871.14825,
+    "pct_distance_over_21": 7.7754332942704565,
+    "day_duration": 92.74965634,
+    "peak_speed": 31.69374
+  },
+  {
+    "date": "2024-05-03",
+    "yyear": 2024,
+    "distance": 3165.690342,
+    "pct_distance_over_21": 1.4266368953025033,
+    "day_duration": 45.60872385,
+    "peak_speed": 27.2818
+  },
+  {
+    "date": "2024-05-04",
+    "yyear": 2024,
+    "distance": 3626.202748,
+    "pct_distance_over_21": 3.5739920215845578,
+    "day_duration": 67.54003944,
+    "peak_speed": 30.05665
+  },
+  {
+    "date": "2024-05-05",
+    "yyear": 2024,
+    "distance": 8699.668739,
+    "pct_distance_over_21": 2.362571668718799,
+    "day_duration": 90.63942074,
+    "peak_speed": 30.76626
+  },
+  {
+    "date": "2024-05-06",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-07",
+    "yyear": 2024,
+    "distance": 4500.724694,
+    "pct_distance_over_21": 5.419447526420952,
+    "day_duration": 88.51256885,
+    "peak_speed": 30.4293
+  },
+  {
+    "date": "2024-05-08",
+    "yyear": 2024,
+    "distance": 6711.565225,
+    "pct_distance_over_21": 3.9730616251293305,
+    "day_duration": 82.2810008,
+    "peak_speed": 30.6579
+  },
+  {
+    "date": "2024-05-09",
+    "yyear": 2024,
+    "distance": 5020.869577,
+    "pct_distance_over_21": 3.711782328577303,
+    "day_duration": 79.31488835,
+    "peak_speed": 27.6605
+  },
+  {
+    "date": "2024-05-10",
+    "yyear": 2024,
+    "distance": 6104.610874,
+    "pct_distance_over_21": 1.0461191366347522,
+    "day_duration": 89.77280046,
+    "peak_speed": 27.6885
+  },
+  {
+    "date": "2024-05-11",
+    "yyear": 2024,
+    "distance": 6464.2111,
+    "pct_distance_over_21": 7.7078582489362075,
+    "day_duration": 43.02404464,
+    "peak_speed": 32.22637833
+  },
+  {
+    "date": "2024-05-12",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-13",
+    "yyear": 2024,
+    "distance": 3444.150988,
+    "pct_distance_over_21": 1.8621631993910717,
+    "day_duration": 46.5594509,
+    "peak_speed": 28.5688
+  },
+  {
+    "date": "2024-05-14",
+    "yyear": 2024,
+    "distance": 2587.131755,
+    "pct_distance_over_21": 2.731415497623159,
+    "day_duration": 54.00112491,
+    "peak_speed": 27.7773
+  },
+  {
+    "date": "2024-05-15",
+    "yyear": 2024,
+    "distance": 10490.68823,
+    "pct_distance_over_21": 8.304046114046038,
+    "day_duration": 71.78283625,
+    "peak_speed": 31.79172
+  },
+  {
+    "date": "2024-05-16",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-17",
+    "yyear": 2024,
+    "distance": 3655.996877,
+    "pct_distance_over_21": 1.878489369672402,
+    "day_duration": 53.82612124,
+    "peak_speed": 27.6965
+  },
+  {
+    "date": "2024-05-18",
+    "yyear": 2024,
+    "distance": 5432.013397,
+    "pct_distance_over_21": 0.12734702690203986,
+    "day_duration": 91.32572698,
+    "peak_speed": 30.0269
+  },
+  {
+    "date": "2024-05-19",
+    "yyear": 2024,
+    "distance": 6736.436637,
+    "pct_distance_over_21": 10.975462057181375,
+    "day_duration": 55.46538249,
+    "peak_speed": 31.34075333
+  },
+  {
+    "date": "2024-05-20",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-21",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-22",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-23",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-24",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-25",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-26",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-27",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-28",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-29",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-30",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-05-31",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-08-01",
+    "yyear": 2024,
+    "distance": 5063.106666,
+    "pct_distance_over_21": 4.206050522894515,
+    "day_duration": 76.53701038,
+    "peak_speed": 30.51006667
+  },
+  {
+    "date": "2024-08-02",
+    "yyear": 2024,
+    "distance": 4663.330765,
+    "pct_distance_over_21": 0,
+    "day_duration": 89.87548878,
+    "peak_speed": 28.8066
+  },
+  {
+    "date": "2024-08-03",
+    "yyear": 2024,
+    "distance": 9183.916333,
+    "pct_distance_over_21": 4.661556664684393,
+    "day_duration": 107.7395671,
+    "peak_speed": 31.18526
+  },
+  {
+    "date": "2024-08-04",
+    "yyear": 2024,
+    "distance": 2494.611114,
+    "pct_distance_over_21": 8.570600463539826,
+    "day_duration": 36.85462439,
+    "peak_speed": 30.01695
+  },
+  {
+    "date": "2024-08-05",
+    "yyear": 2024,
+    "distance": 3876.462628,
+    "pct_distance_over_21": 2.782570393453049,
+    "day_duration": 67.10019985,
+    "peak_speed": 27.5968
+  },
+  {
+    "date": "2024-08-06",
+    "yyear": 2024,
+    "distance": 11947.07038,
+    "pct_distance_over_21": 7.156032050595487,
+    "day_duration": 92.3188868,
+    "peak_speed": 31.89874
+  },
+  {
+    "date": "2024-08-07",
+    "yyear": 2024,
+    "distance": 1733.424229,
+    "pct_distance_over_21": 9.384443818109341,
+    "day_duration": 38.07158468,
+    "peak_speed": 30.54975
+  },
+  {
+    "date": "2024-08-08",
+    "yyear": 2024,
+    "distance": 1528.094743,
+    "pct_distance_over_21": 6.151183251600258,
+    "day_duration": 0,
+    "peak_speed": 27.1897
+  },
+  {
+    "date": "2024-08-09",
+    "yyear": 2024,
+    "distance": 6552.390285,
+    "pct_distance_over_21": 1.0203594195701975,
+    "day_duration": 103.8344423,
+    "peak_speed": 28.4654
+  },
+  {
+    "date": "2024-08-10",
+    "yyear": 2024,
+    "distance": 5932.199403,
+    "pct_distance_over_21": 6.463489169060894,
+    "day_duration": 87.87254614,
+    "peak_speed": 28.49487857
+  },
+  {
+    "date": "2024-08-11",
+    "yyear": 2024,
+    "distance": 6562.541608,
+    "pct_distance_over_21": 4.321346036942337,
+    "day_duration": 100.831376,
+    "peak_speed": 29.8793
+  },
+  {
+    "date": "2024-08-12",
+    "yyear": 2024,
+    "distance": 8451.998742,
+    "pct_distance_over_21": 3.1352417054110346,
+    "day_duration": 74.69400967,
+    "peak_speed": 31.4629
+  },
+  {
+    "date": "2024-08-13",
+    "yyear": 2024,
+    "distance": 3149.409009,
+    "pct_distance_over_21": 2.7352553626355616,
+    "day_duration": 79.38012036,
+    "peak_speed": 27.1227
+  },
+  {
+    "date": "2024-08-14",
+    "yyear": 2024,
+    "distance": 4917.515287,
+    "pct_distance_over_21": 0.8656383505819083,
+    "day_duration": 109.5611185,
+    "peak_speed": 28.8492
+  },
+  {
+    "date": "2024-08-15",
+    "yyear": 2024,
+    "distance": 7959.182113,
+    "pct_distance_over_21": 6.128848063461819,
+    "day_duration": 131.0752065,
+    "peak_speed": 31.8176
+  },
+  {
+    "date": "2024-08-16",
+    "yyear": 2024,
+    "distance": 2636.534963,
+    "pct_distance_over_21": 2.328217567809284,
+    "day_duration": 106.1613859,
+    "peak_speed": 25.7258
+  },
+  {
+    "date": "2024-08-17",
+    "yyear": 2024,
+    "distance": 7125.838928,
+    "pct_distance_over_21": 1.1401818433019737,
+    "day_duration": 114.8900966,
+    "peak_speed": 29.05265
+  },
+  {
+    "date": "2024-08-18",
+    "yyear": 2024,
+    "distance": 5705.631735,
+    "pct_distance_over_21": 1.886098072889382,
+    "day_duration": 50.24843496,
+    "peak_speed": 30.47437619
+  },
+  {
+    "date": "2024-08-19",
+    "yyear": 2024,
+    "distance": 2838.938202,
+    "pct_distance_over_21": 2.7364930161308245,
+    "day_duration": 40.77291713,
+    "peak_speed": 29.6648
+  },
+  {
+    "date": "2024-08-20",
+    "yyear": 2024,
+    "distance": 5692.63971,
+    "pct_distance_over_21": 4.292463604727234,
+    "day_duration": 74.2734193,
+    "peak_speed": 25.67577
+  },
+  {
+    "date": "2024-08-21",
+    "yyear": 2024,
+    "distance": 5838.209087,
+    "pct_distance_over_21": 5.013167256234652,
+    "day_duration": 109.991972,
+    "peak_speed": 29.76076333
+  },
+  {
+    "date": "2024-08-22",
+    "yyear": 2024,
+    "distance": 9855.816515,
+    "pct_distance_over_21": 1.7487814453290884,
+    "day_duration": 150.1221583,
+    "peak_speed": 31.058
+  },
+  {
+    "date": "2024-08-23",
+    "yyear": 2024,
+    "distance": 5643.882766,
+    "pct_distance_over_21": 3.566685199640804,
+    "day_duration": 110.020783,
+    "peak_speed": 31.08236667
+  },
+  {
+    "date": "2024-08-24",
+    "yyear": 2024,
+    "distance": 2854.494081,
+    "pct_distance_over_21": 1.6667188517459743,
+    "day_duration": 63.84435251,
+    "peak_speed": 28.8128
+  },
+  {
+    "date": "2024-08-25",
+    "yyear": 2024,
+    "distance": 4952.72204,
+    "pct_distance_over_21": 2.0041213326399396,
+    "day_duration": 75.11989077,
+    "peak_speed": 28.37716
+  },
+  {
+    "date": "2024-08-26",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-08-27",
+    "yyear": 2024,
+    "distance": 2359.144834,
+    "pct_distance_over_21": 9.485841999813394,
+    "day_duration": 42.06472016,
+    "peak_speed": 27.2483
+  },
+  {
+    "date": "2024-08-28",
+    "yyear": 2024,
+    "distance": 4564.664388,
+    "pct_distance_over_21": 5.323402347800383,
+    "day_duration": 107.1168282,
+    "peak_speed": 28.492725
+  },
+  {
+    "date": "2024-08-29",
+    "yyear": 2024,
+    "distance": 10117.62813,
+    "pct_distance_over_21": 8.414892817374184,
+    "day_duration": 85.34316399,
+    "peak_speed": 31.81032
+  },
+  {
+    "date": "2024-08-30",
+    "yyear": 2024,
+    "distance": 6257.723905,
+    "pct_distance_over_21": 3.807908731952916,
+    "day_duration": 101.1448249,
+    "peak_speed": 28.57266667
+  },
+  {
+    "date": "2024-08-31",
+    "yyear": 2024,
+    "distance": 5480.093489,
+    "pct_distance_over_21": 0.3709072628195085,
+    "day_duration": 114.5238964,
+    "peak_speed": 28.67245
+  },
+  {
+    "date": "2024-09-01",
+    "yyear": 2024,
+    "distance": 4688.605552,
+    "pct_distance_over_21": 7.241546046780777,
+    "day_duration": 38.89564469,
+    "peak_speed": 30.68618667
+  },
+  {
+    "date": "2024-09-02",
+    "yyear": 2024,
+    "distance": 5552.796305,
+    "pct_distance_over_21": 6.549863654687042,
+    "day_duration": 134.9854752,
+    "peak_speed": 30.04622
+  },
+  {
+    "date": "2024-09-03",
+    "yyear": 2024,
+    "distance": 4802.145415,
+    "pct_distance_over_21": 4.351182409997886,
+    "day_duration": 66.56279371,
+    "peak_speed": 29.0014
+  },
+  {
+    "date": "2024-09-04",
+    "yyear": 2024,
+    "distance": 4572.250756,
+    "pct_distance_over_21": 3.8123553256841536,
+    "day_duration": 65.95358688,
+    "peak_speed": 32.7274
+  },
+  {
+    "date": "2024-09-05",
+    "yyear": 2024,
+    "distance": 2108.599757,
+    "pct_distance_over_21": 15.20194763069016,
+    "day_duration": 72.56436402,
+    "peak_speed": 29.05448333
+  },
+  {
+    "date": "2024-09-06",
+    "yyear": 2024,
+    "distance": 6624.822251,
+    "pct_distance_over_21": 5.872671932311441,
+    "day_duration": 104.6239755,
+    "peak_speed": 31.6134
+  },
+  {
+    "date": "2024-09-07",
+    "yyear": 2024,
+    "distance": 7062.71014,
+    "pct_distance_over_21": 6.8411440172738,
+    "day_duration": 85.42776519,
+    "peak_speed": 32.23636667
+  },
+  {
+    "date": "2024-09-08",
+    "yyear": 2024,
+    "distance": 7297.012479,
+    "pct_distance_over_21": 8.613471705150964,
+    "day_duration": 54.11437604,
+    "peak_speed": 30.98668333
+  },
+  {
+    "date": "2024-09-09",
+    "yyear": 2024,
+    "distance": 5649.444367,
+    "pct_distance_over_21": 8.901778492369743,
+    "day_duration": 87.10765609,
+    "peak_speed": 28.07923333
+  },
+  {
+    "date": "2024-09-10",
+    "yyear": 2024,
+    "distance": 7475.662278,
+    "pct_distance_over_21": 4.4107205641212355,
+    "day_duration": 96.28213897,
+    "peak_speed": 32.26978
+  },
+  {
+    "date": "2024-09-11",
+    "yyear": 2024,
+    "distance": 7184.386995,
+    "pct_distance_over_21": 4.400015222175543,
+    "day_duration": 88.67089175,
+    "peak_speed": 31.42576667
+  },
+  {
+    "date": "2024-09-12",
+    "yyear": 2024,
+    "distance": 6290.433548,
+    "pct_distance_over_21": 4.177035870342207,
+    "day_duration": 134.3333715,
+    "peak_speed": 30.22558
+  },
+  {
+    "date": "2024-09-13",
+    "yyear": 2024,
+    "distance": 5179.602452,
+    "pct_distance_over_21": 4.624268439897634,
+    "day_duration": 87.17913194,
+    "peak_speed": 29.4064
+  },
+  {
+    "date": "2024-09-14",
+    "yyear": 2024,
+    "distance": 7092.246458,
+    "pct_distance_over_21": 5.437466558497874,
+    "day_duration": 85.51888972,
+    "peak_speed": 30.4404
+  },
+  {
+    "date": "2024-09-15",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-09-16",
+    "yyear": 2024,
+    "distance": 3804.12974,
+    "pct_distance_over_21": 3.2759604355660072,
+    "day_duration": 80.95349117,
+    "peak_speed": 28.2618
+  },
+  {
+    "date": "2024-09-17",
+    "yyear": 2024,
+    "distance": 4407.130689,
+    "pct_distance_over_21": 5.929249365175792,
+    "day_duration": 102.0944857,
+    "peak_speed": 25.83245
+  },
+  {
+    "date": "2024-09-18",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-09-19",
+    "yyear": 2024,
+    "distance": 5289.662806,
+    "pct_distance_over_21": 1.115975957163875,
+    "day_duration": 127.8520909,
+    "peak_speed": 28.7972
+  },
+  {
+    "date": "2024-09-20",
+    "yyear": 2024,
+    "distance": 3486.041563,
+    "pct_distance_over_21": 0.08336373687693752,
+    "day_duration": 93.0922616,
+    "peak_speed": 32.48663333
+  },
+  {
+    "date": "2024-09-21",
+    "yyear": 2024,
+    "distance": 11243.52696,
+    "pct_distance_over_21": 6.84060151442017,
+    "day_duration": 114.9539289,
+    "peak_speed": 31.33516
+  },
+  {
+    "date": "2024-09-22",
+    "yyear": 2024,
+    "distance": 3539.878322,
+    "pct_distance_over_21": 3.1355125912149924,
+    "day_duration": 76.89533997,
+    "peak_speed": 27.6989
+  },
+  {
+    "date": "2024-09-23",
+    "yyear": 2024,
+    "distance": 3638.843894,
+    "pct_distance_over_21": 4.235027123699965,
+    "day_duration": 73.03011174,
+    "peak_speed": 28.5232
+  },
+  {
+    "date": "2024-09-24",
+    "yyear": 2024,
+    "distance": 8948.413214,
+    "pct_distance_over_21": 3.867113331988337,
+    "day_duration": 76.81391619,
+    "peak_speed": 31.98425857
+  },
+  {
+    "date": "2024-09-25",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-09-26",
+    "yyear": 2024,
+    "distance": 6023.535953,
+    "pct_distance_over_21": 3.9523494216288286,
+    "day_duration": 91.70532845,
+    "peak_speed": 29.45466667
+  },
+  {
+    "date": "2024-09-27",
+    "yyear": 2024,
+    "distance": 5705.260548,
+    "pct_distance_over_21": 1.6851929955013862,
+    "day_duration": 111.781463,
+    "peak_speed": 28.9009
+  },
+  {
+    "date": "2024-09-28",
+    "yyear": 2024,
+    "distance": 11185.0685,
+    "pct_distance_over_21": 5.356617027423659,
+    "day_duration": 139.7947345,
+    "peak_speed": 29.34636667
+  },
+  {
+    "date": "2024-09-29",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-09-30",
+    "yyear": 2024,
+    "distance": 4533.609911,
+    "pct_distance_over_21": 0,
+    "day_duration": 114.6830501,
+    "peak_speed": 20.6439
+  },
+  {
+    "date": "2024-10-01",
+    "yyear": 2024,
+    "distance": 5373.182525,
+    "pct_distance_over_21": 4.768731486559728,
+    "day_duration": 91.59923879,
+    "peak_speed": 27.0146
+  },
+  {
+    "date": "2024-10-02",
+    "yyear": 2024,
+    "distance": 5324.17885,
+    "pct_distance_over_21": 5.115926351722764,
+    "day_duration": 110.3900278,
+    "peak_speed": 28.28625714
+  },
+  {
+    "date": "2024-10-03",
+    "yyear": 2024,
+    "distance": 3968.08187,
+    "pct_distance_over_21": 8.150974483296132,
+    "day_duration": 74.93928107,
+    "peak_speed": 31.22044
+  },
+  {
+    "date": "2024-10-04",
+    "yyear": 2024,
+    "distance": 3776.877362,
+    "pct_distance_over_21": 3.414155039752651,
+    "day_duration": 94.95493534,
+    "peak_speed": 28.9124
+  },
+  {
+    "date": "2024-10-05",
+    "yyear": 2024,
+    "distance": 2795.287414,
+    "pct_distance_over_21": 0,
+    "day_duration": 65.00940262,
+    "peak_speed": 26.2773
+  },
+  {
+    "date": "2024-10-06",
+    "yyear": 2024,
+    "distance": 5466.890631,
+    "pct_distance_over_21": 3.9913693016405984,
+    "day_duration": 82.16386642,
+    "peak_speed": 31.73242
+  },
+  {
+    "date": "2024-10-07",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-10-08",
+    "yyear": 2024,
+    "distance": 4612.179532,
+    "pct_distance_over_21": 2.8145753693960933,
+    "day_duration": 99.38865912,
+    "peak_speed": 28.6687
+  },
+  {
+    "date": "2024-10-09",
+    "yyear": 2024,
+    "distance": 5502.077344,
+    "pct_distance_over_21": 2.967905332666294,
+    "day_duration": 85.34791819,
+    "peak_speed": 28.9349
+  },
+  {
+    "date": "2024-10-10",
+    "yyear": 2024,
+    "distance": 10184.81155,
+    "pct_distance_over_21": 4.859915738941679,
+    "day_duration": 95.47492037,
+    "peak_speed": 31.41343333
+  },
+  {
+    "date": "2024-10-11",
+    "yyear": 2024,
+    "distance": 7412.345568,
+    "pct_distance_over_21": 4.281576452265049,
+    "day_duration": 79.64019086,
+    "peak_speed": 30.45318
+  },
+  {
+    "date": "2024-10-12",
+    "yyear": 2024,
+    "distance": 8119.459686,
+    "pct_distance_over_21": 9.798091662081072,
+    "day_duration": 68.19168125,
+    "peak_speed": 31.56062333
+  },
+  {
+    "date": "2024-10-13",
+    "yyear": 2024,
+    "distance": 4686.078288,
+    "pct_distance_over_21": 2.463596009388736,
+    "day_duration": 72.87534859,
+    "peak_speed": 26.3562
+  },
+  {
+    "date": "2024-10-14",
+    "yyear": 2024,
+    "distance": 6991.217886,
+    "pct_distance_over_21": 7.1777921798845785,
+    "day_duration": 97.63159364,
+    "peak_speed": 28.4402
+  },
+  {
+    "date": "2024-10-15",
+    "yyear": 2024,
+    "distance": 5585.895135,
+    "pct_distance_over_21": 4.6775921796820485,
+    "day_duration": 85.13569337,
+    "peak_speed": 29.3461
+  },
+  {
+    "date": "2024-10-16",
+    "yyear": 2024,
+    "distance": 8420.565841,
+    "pct_distance_over_21": 5.7490129302582575,
+    "day_duration": 89.34002817,
+    "peak_speed": 31.37856
+  },
+  {
+    "date": "2024-10-17",
+    "yyear": 2024,
+    "distance": 5236.549248,
+    "pct_distance_over_21": 1.513672864057823,
+    "day_duration": 66.22497949,
+    "peak_speed": 30.4091
+  },
+  {
+    "date": "2024-10-18",
+    "yyear": 2024,
+    "distance": 8397.763583,
+    "pct_distance_over_21": 2.9541244409666536,
+    "day_duration": 130.884649,
+    "peak_speed": 29.93828571
+  },
+  {
+    "date": "2024-10-19",
+    "yyear": 2024,
+    "distance": 6245.443401,
+    "pct_distance_over_21": 3.395511946614469,
+    "day_duration": 104.734539,
+    "peak_speed": 29.1304
+  },
+  {
+    "date": "2024-10-20",
+    "yyear": 2024,
+    "distance": 8265.115489,
+    "pct_distance_over_21": 6.459725527254517,
+    "day_duration": 71.45838464,
+    "peak_speed": 30.78798857
+  },
+  {
+    "date": "2024-10-21",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-10-22",
+    "yyear": 2024,
+    "distance": 7674.326185,
+    "pct_distance_over_21": 3.3856469771619437,
+    "day_duration": 86.69034507,
+    "peak_speed": 29.5601
+  },
+  {
+    "date": "2024-10-23",
+    "yyear": 2024,
+    "distance": 6563.315331,
+    "pct_distance_over_21": 4.192782187383829,
+    "day_duration": 102.7688558,
+    "peak_speed": 29.2486
+  },
+  {
+    "date": "2024-10-24",
+    "yyear": 2024,
+    "distance": 3703.869238,
+    "pct_distance_over_21": 12.669428115485756,
+    "day_duration": 65.66230219,
+    "peak_speed": 31.445325
+  },
+  {
+    "date": "2024-10-25",
+    "yyear": 2024,
+    "distance": 4035.928756,
+    "pct_distance_over_21": 5.277219551593096,
+    "day_duration": 66.5980171,
+    "peak_speed": 31.3255
+  },
+  {
+    "date": "2024-10-26",
+    "yyear": 2024,
+    "distance": 4134.850876,
+    "pct_distance_over_21": 0.6396721744796486,
+    "day_duration": 65.24142937,
+    "peak_speed": 28.9638
+  },
+  {
+    "date": "2024-10-27",
+    "yyear": 2024,
+    "distance": 8758.125912,
+    "pct_distance_over_21": 5.805513894283461,
+    "day_duration": 110.6077641,
+    "peak_speed": 30.75416
+  },
+  {
+    "date": "2024-10-28",
+    "yyear": 2024,
+    "distance": 4566.036598,
+    "pct_distance_over_21": 2.160155914939515,
+    "day_duration": 59.89005037,
+    "peak_speed": 29.0047
+  },
+  {
+    "date": "2024-10-29",
+    "yyear": 2024,
+    "distance": 3115.994781,
+    "pct_distance_over_21": 1.1476116827295804,
+    "day_duration": 61.17001463,
+    "peak_speed": 29.8251
+  },
+  {
+    "date": "2024-10-30",
+    "yyear": 2024,
+    "distance": 7207.360425,
+    "pct_distance_over_21": 6.705700318851475,
+    "day_duration": 23.28113151,
+    "peak_speed": 30.244835
+  },
+  {
+    "date": "2024-10-31",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-11-01",
+    "yyear": 2024,
+    "distance": 3772.117139,
+    "pct_distance_over_21": 3.4458211929881433,
+    "day_duration": 67.12430118,
+    "peak_speed": 29.11435
+  },
+  {
+    "date": "2024-11-02",
+    "yyear": 2024,
+    "distance": 4041.388804,
+    "pct_distance_over_21": 7.265386322379687,
+    "day_duration": 62.71366213,
+    "peak_speed": 27.328
+  },
+  {
+    "date": "2024-11-03",
+    "yyear": 2024,
+    "distance": 6395.683063,
+    "pct_distance_over_21": 6.868474922425968,
+    "day_duration": 39.66425486,
+    "peak_speed": 31.982895
+  },
+  {
+    "date": "2024-11-04",
+    "yyear": 2024,
+    "distance": 4280.251585,
+    "pct_distance_over_21": 3.4142200638890716,
+    "day_duration": 56.53581204,
+    "peak_speed": 30.3743
+  },
+  {
+    "date": "2024-11-05",
+    "yyear": 2024,
+    "distance": 3211.503787,
+    "pct_distance_over_21": 2.760008731074867,
+    "day_duration": 74.8012814,
+    "peak_speed": 27.2502
+  },
+  {
+    "date": "2024-11-06",
+    "yyear": 2024,
+    "distance": 3988.506059,
+    "pct_distance_over_21": 2.4714288144948764,
+    "day_duration": 67.57701501,
+    "peak_speed": 27.2435
+  },
+  {
+    "date": "2024-11-07",
+    "yyear": 2024,
+    "distance": 8255.037395,
+    "pct_distance_over_21": 7.537609943195176,
+    "day_duration": 65.60768837,
+    "peak_speed": 30.55
+  },
+  {
+    "date": "2024-11-08",
+    "yyear": 2024,
+    "distance": 5412.366338,
+    "pct_distance_over_21": 3.727259910025699,
+    "day_duration": 90.82881985,
+    "peak_speed": 30.7936
+  },
+  {
+    "date": "2024-11-09",
+    "yyear": 2024,
+    "distance": 4372.022631,
+    "pct_distance_over_21": 2.4836726605681654,
+    "day_duration": 100.6410029,
+    "peak_speed": 28.5208
+  },
+  {
+    "date": "2024-11-10",
+    "yyear": 2024,
+    "distance": 7176.139782,
+    "pct_distance_over_21": 7.726946545702056,
+    "day_duration": 65.18444131,
+    "peak_speed": 31.97455
+  },
+  {
+    "date": "2024-11-11",
+    "yyear": 2024,
+    "distance": 5517.010201,
+    "pct_distance_over_21": 2.133352850764468,
+    "day_duration": 78.46047645,
+    "peak_speed": 28.4749
+  },
+  {
+    "date": "2024-11-12",
+    "yyear": 2024,
+    "distance": 6187.077874,
+    "pct_distance_over_21": 3.86003730619926,
+    "day_duration": 124.5034428,
+    "peak_speed": 29.73870833
+  },
+  {
+    "date": "2024-11-13",
+    "yyear": 2024,
+    "distance": 2369.900801,
+    "pct_distance_over_21": 10.677536764122138,
+    "day_duration": 59.31956939,
+    "peak_speed": 29.61704333
+  },
+  {
+    "date": "2024-11-14",
+    "yyear": 2024,
+    "distance": 6734.525828,
+    "pct_distance_over_21": 4.838757529819663,
+    "day_duration": 87.50411335,
+    "peak_speed": 30.0902
+  },
+  {
+    "date": "2024-11-15",
+    "yyear": 2024,
+    "distance": 6801.803508,
+    "pct_distance_over_21": 4.477632584384265,
+    "day_duration": 45.72701154,
+    "peak_speed": 30.0083
+  },
+  {
+    "date": "2024-11-16",
+    "yyear": 2024,
+    "distance": 5498.051017,
+    "pct_distance_over_21": 7.540278360789173,
+    "day_duration": 78.09540588,
+    "peak_speed": 32.5037
+  },
+  {
+    "date": "2024-11-17",
+    "yyear": 2024,
+    "distance": 8489.726417,
+    "pct_distance_over_21": 6.778224378911691,
+    "day_duration": 95.04223163,
+    "peak_speed": 31.979
+  },
+  {
+    "date": "2024-11-18",
+    "yyear": 2024,
+    "distance": 6394.784813,
+    "pct_distance_over_21": 9.833844122817085,
+    "day_duration": 84.11571898,
+    "peak_speed": 30.857835
+  },
+  {
+    "date": "2024-11-19",
+    "yyear": 2024,
+    "distance": 8414.38727,
+    "pct_distance_over_21": 6.529816845475428,
+    "day_duration": 111.3700296,
+    "peak_speed": 31.22603333
+  },
+  {
+    "date": "2024-11-20",
+    "yyear": 2024,
+    "distance": 6306.36144,
+    "pct_distance_over_21": 4.6845828313322935,
+    "day_duration": 74.61820919,
+    "peak_speed": 31.00632857
+  },
+  {
+    "date": "2024-11-21",
+    "yyear": 2024,
+    "distance": 6015.4982,
+    "pct_distance_over_21": 4.585804765098259,
+    "day_duration": 84.71880493,
+    "peak_speed": 30.6222
+  },
+  {
+    "date": "2024-11-22",
+    "yyear": 2024,
+    "distance": 3988.445187,
+    "pct_distance_over_21": 8.8103000624238,
+    "day_duration": 72.86699608,
+    "peak_speed": 30.9177
+  },
+  {
+    "date": "2024-11-23",
+    "yyear": 2024,
+    "distance": 11404.94599,
+    "pct_distance_over_21": 4.148241056247211,
+    "day_duration": 156.4871086,
+    "peak_speed": 31.03684
+  },
+  {
+    "date": "2024-11-24",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-11-25",
+    "yyear": 2024,
+    "distance": 4279.391496,
+    "pct_distance_over_21": 0.959143586380581,
+    "day_duration": 95.97398056,
+    "peak_speed": 27.2916
+  },
+  {
+    "date": "2024-11-26",
+    "yyear": 2024,
+    "distance": 5592.296526,
+    "pct_distance_over_21": 0,
+    "day_duration": 139.065142,
+    "peak_speed": 27.1115
+  },
+  {
+    "date": "2024-11-27",
+    "yyear": 2024,
+    "distance": 5352.106228,
+    "pct_distance_over_21": 0.6511705120438802,
+    "day_duration": 91.77655081,
+    "peak_speed": 29.9288
+  },
+  {
+    "date": "2024-11-28",
+    "yyear": 2024,
+    "distance": 13752.19611,
+    "pct_distance_over_21": 7.357311747934344,
+    "day_duration": 123.9044134,
+    "peak_speed": 31.48494
+  },
+  {
+    "date": "2024-11-29",
+    "yyear": 2024,
+    "distance": 5959.477141,
+    "pct_distance_over_21": 1.548366008909908,
+    "day_duration": 55.96856372,
+    "peak_speed": 29.8956
+  },
+  {
+    "date": "2024-11-30",
+    "yyear": 2024,
+    "distance": 4056.105986,
+    "pct_distance_over_21": 1.7030126026889278,
+    "day_duration": 60.43605829,
+    "peak_speed": 28.6943
+  },
+  {
+    "date": "2024-12-01",
+    "yyear": 2024,
+    "distance": 2495.957812,
+    "pct_distance_over_21": 5.09216838076909,
+    "day_duration": 45.21351945,
+    "peak_speed": 27.1775
+  },
+  {
+    "date": "2024-12-02",
+    "yyear": 2024,
+    "distance": 3022.01725,
+    "pct_distance_over_21": 2.984111798501481,
+    "day_duration": 77.31488563,
+    "peak_speed": 29.5
+  },
+  {
+    "date": "2024-12-03",
+    "yyear": 2024,
+    "distance": 4853.283229,
+    "pct_distance_over_21": 2.302072457514925,
+    "day_duration": 79.00559169,
+    "peak_speed": 29.2084
+  },
+  {
+    "date": "2024-12-04",
+    "yyear": 2024,
+    "distance": 7059.441852,
+    "pct_distance_over_21": 4.8879027894002975,
+    "day_duration": 105.6265383,
+    "peak_speed": 28.75856667
+  },
+  {
+    "date": "2024-12-05",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-12-06",
+    "yyear": 2024,
+    "distance": 4927.523664,
+    "pct_distance_over_21": 6.903779955139753,
+    "day_duration": 88.89613019,
+    "peak_speed": 27.56894167
+  },
+  {
+    "date": "2024-12-07",
+    "yyear": 2024,
+    "distance": 5779.427334,
+    "pct_distance_over_21": 0.8252255450885819,
+    "day_duration": 119.6688263,
+    "peak_speed": 29.36962333
+  },
+  {
+    "date": "2024-12-08",
+    "yyear": 2024,
+    "distance": 11751.11731,
+    "pct_distance_over_21": 7.267100096714123,
+    "day_duration": 129.2942415,
+    "peak_speed": 31.57944
+  },
+  {
+    "date": "2024-12-09",
+    "yyear": 2024,
+    "distance": 1169.998032,
+    "pct_distance_over_21": 5.9787970412586136,
+    "day_duration": 6.153799112,
+    "peak_speed": 31.35253333
+  },
+  {
+    "date": "2024-12-10",
+    "yyear": 2024,
+    "distance": 6822.139637,
+    "pct_distance_over_21": 1.431327375364891,
+    "day_duration": 87.68024518,
+    "peak_speed": 29.0498
+  },
+  {
+    "date": "2024-12-11",
+    "yyear": 2024,
+    "distance": 3949.28699,
+    "pct_distance_over_21": 1.8608834884901588,
+    "day_duration": 66.69140754,
+    "peak_speed": 28.8562
+  },
+  {
+    "date": "2024-12-12",
+    "yyear": 2024,
+    "distance": 7031.352445,
+    "pct_distance_over_21": 7.031244669744328,
+    "day_duration": 40.55693183,
+    "peak_speed": 30.93647976
+  },
+  {
+    "date": "2024-12-13",
+    "yyear": 2024,
+    "distance": 5429.572392,
+    "pct_distance_over_21": 3.933687113458418,
+    "day_duration": 91.70390687,
+    "peak_speed": 28.18930667
+  },
+  {
+    "date": "2024-12-14",
+    "yyear": 2024,
+    "distance": 3578.095722,
+    "pct_distance_over_21": 0,
+    "day_duration": 103.9123052,
+    "peak_speed": 31.2778
+  },
+  {
+    "date": "2024-12-15",
+    "yyear": 2024,
+    "distance": 15653.2508,
+    "pct_distance_over_21": 6.19825627402584,
+    "day_duration": 141.279811,
+    "peak_speed": 31.64074
+  },
+  {
+    "date": "2024-12-16",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-12-17",
+    "yyear": 2024,
+    "distance": 7552.162892,
+    "pct_distance_over_21": 3.0557645802960782,
+    "day_duration": 105.8431593,
+    "peak_speed": 26.9652
+  },
+  {
+    "date": "2024-12-18",
+    "yyear": 2024,
+    "distance": 4601.177278,
+    "pct_distance_over_21": 5.626129263433262,
+    "day_duration": 64.26977837,
+    "peak_speed": 27.0763
+  },
+  {
+    "date": "2024-12-19",
+    "yyear": 2024,
+    "distance": 3642.434691,
+    "pct_distance_over_21": 13.61823567696742,
+    "day_duration": 54.21761218,
+    "peak_speed": 30.08320119
+  },
+  {
+    "date": "2024-12-20",
+    "yyear": 2024,
+    "distance": 6444.635014,
+    "pct_distance_over_21": 1.7333176115844502,
+    "day_duration": 90.4595874,
+    "peak_speed": 29.017
+  },
+  {
+    "date": "2024-12-21",
+    "yyear": 2024,
+    "distance": 4131.525236,
+    "pct_distance_over_21": 2.698472910888931,
+    "day_duration": 43.64061844,
+    "peak_speed": 27.8668
+  },
+  {
+    "date": "2024-12-22",
+    "yyear": 2024,
+    "distance": 6235.00907,
+    "pct_distance_over_21": 6.069661354959345,
+    "day_duration": 56.65172269,
+    "peak_speed": 31.1714519
+  },
+  {
+    "date": "2024-12-23",
+    "yyear": 2024,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2024-12-24",
+    "yyear": 2024,
+    "distance": 4001.376035,
+    "pct_distance_over_21": 3.3681236909792207,
+    "day_duration": 81.56458099,
+    "peak_speed": 26.52818
+  },
+  {
+    "date": "2024-12-25",
+    "yyear": 2024,
+    "distance": 3872.4608,
+    "pct_distance_over_21": 3.470616854275194,
+    "day_duration": 82.25732092,
+    "peak_speed": 28.6846
+  },
+  {
+    "date": "2024-12-26",
+    "yyear": 2024,
+    "distance": 9008.184763,
+    "pct_distance_over_21": 8.91013749514498,
+    "day_duration": 66.5342366,
+    "peak_speed": 30.70784333
+  },
+  {
+    "date": "2024-12-27",
+    "yyear": 2024,
+    "distance": 2908.759541,
+    "pct_distance_over_21": 2.1031009469063573,
+    "day_duration": 47.79619487,
+    "peak_speed": 30.73089524
+  },
+  {
+    "date": "2024-12-28",
+    "yyear": 2024,
+    "distance": 6376.215856,
+    "pct_distance_over_21": 2.9591182507168874,
+    "day_duration": 91.10962586,
+    "peak_speed": 28.13243833
+  },
+  {
+    "date": "2024-12-29",
+    "yyear": 2024,
+    "distance": 5616.53076,
+    "pct_distance_over_21": 6.443521532498471,
+    "day_duration": 91.29636252,
+    "peak_speed": 27.50788333
+  },
+  {
+    "date": "2024-12-30",
+    "yyear": 2024,
+    "distance": 6788.606679,
+    "pct_distance_over_21": 5.429931236704073,
+    "day_duration": 97.0383281,
+    "peak_speed": 30.90196
+  },
+  {
+    "date": "2024-12-31",
+    "yyear": 2024,
+    "distance": 4531.80628,
+    "pct_distance_over_21": 1.280283007816477,
+    "day_duration": 75.37738681,
+    "peak_speed": 27.1019
+  },
+  {
+    "date": "2025-01-01",
+    "yyear": 2025,
+    "distance": 2681.266481,
+    "pct_distance_over_21": 0.5044558362940277,
+    "day_duration": 65.42323685,
+    "peak_speed": 27.1768
+  },
+  {
+    "date": "2025-01-02",
+    "yyear": 2025,
+    "distance": 4381.823964,
+    "pct_distance_over_21": 1.975752056022121,
+    "day_duration": 81.02624898,
+    "peak_speed": 28.7764
+  },
+  {
+    "date": "2025-01-03",
+    "yyear": 2025,
+    "distance": 6754.054957,
+    "pct_distance_over_21": 6.916894851674509,
+    "day_duration": 79.93508008,
+    "peak_speed": 29.28653333
+  },
+  {
+    "date": "2025-01-04",
+    "yyear": 2025,
+    "distance": 5794.546512,
+    "pct_distance_over_21": 6.365871913118574,
+    "day_duration": 41.04140147,
+    "peak_speed": 30.08656
+  },
+  {
+    "date": "2025-01-05",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-01-06",
+    "yyear": 2025,
+    "distance": 3483.833771,
+    "pct_distance_over_21": 7.0171683487019045,
+    "day_duration": 77.50507296,
+    "peak_speed": 28.247985
+  },
+  {
+    "date": "2025-01-07",
+    "yyear": 2025,
+    "distance": 2858.404149,
+    "pct_distance_over_21": 0.42030771695468877,
+    "day_duration": 107.4305883,
+    "peak_speed": 26.52148
+  },
+  {
+    "date": "2025-01-08",
+    "yyear": 2025,
+    "distance": 6656.915887,
+    "pct_distance_over_21": 8.52132285023718,
+    "day_duration": 102.948329,
+    "peak_speed": 28.9347
+  },
+  {
+    "date": "2025-01-09",
+    "yyear": 2025,
+    "distance": 7717.601369,
+    "pct_distance_over_21": 3.2252727771070755,
+    "day_duration": 112.5895621,
+    "peak_speed": 29.6932
+  },
+  {
+    "date": "2025-01-10",
+    "yyear": 2025,
+    "distance": 6774.159423,
+    "pct_distance_over_21": 6.637741263858058,
+    "day_duration": 96.3433306,
+    "peak_speed": 31.5535
+  },
+  {
+    "date": "2025-01-11",
+    "yyear": 2025,
+    "distance": 9222.131679,
+    "pct_distance_over_21": 4.3863201457112915,
+    "day_duration": 110.5983507,
+    "peak_speed": 30.30756
+  },
+  {
+    "date": "2025-01-12",
+    "yyear": 2025,
+    "distance": 5649.698118,
+    "pct_distance_over_21": 2.284834745218151,
+    "day_duration": 76.00285004,
+    "peak_speed": 30.6199
+  },
+  {
+    "date": "2025-01-13",
+    "yyear": 2025,
+    "distance": 3863.982185,
+    "pct_distance_over_21": 1.9847812279703874,
+    "day_duration": 72.35653657,
+    "peak_speed": 27.5834
+  },
+  {
+    "date": "2025-01-14",
+    "yyear": 2025,
+    "distance": 9578.680355,
+    "pct_distance_over_21": 5.640563987689304,
+    "day_duration": 116.7606073,
+    "peak_speed": 30.81689333
+  },
+  {
+    "date": "2025-01-15",
+    "yyear": 2025,
+    "distance": 7730.363276,
+    "pct_distance_over_21": 2.9608943037724322,
+    "day_duration": 98.49974641,
+    "peak_speed": 30.2727
+  },
+  {
+    "date": "2025-01-16",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-01-17",
+    "yyear": 2025,
+    "distance": 5516.407877,
+    "pct_distance_over_21": 4.7010891649482724,
+    "day_duration": 82.46784466,
+    "peak_speed": 30.9508
+  },
+  {
+    "date": "2025-01-18",
+    "yyear": 2025,
+    "distance": 4069.877059,
+    "pct_distance_over_21": 3.0965552883547187,
+    "day_duration": 38.49716669,
+    "peak_speed": 29.4275
+  },
+  {
+    "date": "2025-01-19",
+    "yyear": 2025,
+    "distance": 5492.41704,
+    "pct_distance_over_21": 3.264827865292618,
+    "day_duration": 94.93682931,
+    "peak_speed": 28.97516667
+  },
+  {
+    "date": "2025-01-20",
+    "yyear": 2025,
+    "distance": 3637.334122,
+    "pct_distance_over_21": 1.2385536634514325,
+    "day_duration": 55.14088347,
+    "peak_speed": 31.7043619
+  },
+  {
+    "date": "2025-01-21",
+    "yyear": 2025,
+    "distance": 5420.434623,
+    "pct_distance_over_21": 5.297406296196186,
+    "day_duration": 74.4883117,
+    "peak_speed": 30.6203
+  },
+  {
+    "date": "2025-01-22",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-01-23",
+    "yyear": 2025,
+    "distance": 7006.912748,
+    "pct_distance_over_21": 3.1137177519767802,
+    "day_duration": 100.6674823,
+    "peak_speed": 28.6993
+  },
+  {
+    "date": "2025-01-24",
+    "yyear": 2025,
+    "distance": 6015.446709,
+    "pct_distance_over_21": 3.290827209953095,
+    "day_duration": 97.48997953,
+    "peak_speed": 27.6657
+  },
+  {
+    "date": "2025-01-25",
+    "yyear": 2025,
+    "distance": 8792.5845,
+    "pct_distance_over_21": 11.153330846010064,
+    "day_duration": 48.65347546,
+    "peak_speed": 31.61391333
+  },
+  {
+    "date": "2025-01-26",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-01-27",
+    "yyear": 2025,
+    "distance": 5473.430629,
+    "pct_distance_over_21": 3.495392536562648,
+    "day_duration": 89.12542462,
+    "peak_speed": 29.7239
+  },
+  {
+    "date": "2025-01-28",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-01-29",
+    "yyear": 2025,
+    "distance": 6619.133235,
+    "pct_distance_over_21": 9.194379777430179,
+    "day_duration": 91.02828165,
+    "peak_speed": 27.0108
+  },
+  {
+    "date": "2025-01-30",
+    "yyear": 2025,
+    "distance": 8043.710667,
+    "pct_distance_over_21": 8.300730193332798,
+    "day_duration": 140.3638699,
+    "peak_speed": 28.4491
+  },
+  {
+    "date": "2025-01-31",
+    "yyear": 2025,
+    "distance": 6161.556982,
+    "pct_distance_over_21": 2.9306590530205052,
+    "day_duration": 107.6453048,
+    "peak_speed": 25.6431
+  },
+  {
+    "date": "2025-02-01",
+    "yyear": 2025,
+    "distance": 5830.891897,
+    "pct_distance_over_21": 2.2402577119841256,
+    "day_duration": 147.9687999,
+    "peak_speed": 29.926875
+  },
+  {
+    "date": "2025-02-02",
+    "yyear": 2025,
+    "distance": 3337.972252,
+    "pct_distance_over_21": 4.45611344165242,
+    "day_duration": 69.72195564,
+    "peak_speed": 28.35198333
+  },
+  {
+    "date": "2025-02-03",
+    "yyear": 2025,
+    "distance": 12331.01779,
+    "pct_distance_over_21": 7.592582161054526,
+    "day_duration": 83.28362711,
+    "peak_speed": 31.72444
+  },
+  {
+    "date": "2025-02-04",
+    "yyear": 2025,
+    "distance": 4177.547377,
+    "pct_distance_over_21": 2.768256334726422,
+    "day_duration": 47.93766588,
+    "peak_speed": 30.65525
+  },
+  {
+    "date": "2025-02-05",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-02-06",
+    "yyear": 2025,
+    "distance": 7044.924951,
+    "pct_distance_over_21": 4.475392683285378,
+    "day_duration": 89.55204481,
+    "peak_speed": 29.0292
+  },
+  {
+    "date": "2025-02-07",
+    "yyear": 2025,
+    "distance": 3593.296987,
+    "pct_distance_over_21": 6.863175829668765,
+    "day_duration": 73.52158359,
+    "peak_speed": 29.0198
+  },
+  {
+    "date": "2025-02-08",
+    "yyear": 2025,
+    "distance": 8460.113451,
+    "pct_distance_over_21": 5.721593882913995,
+    "day_duration": 92.3214106,
+    "peak_speed": 31.2335
+  },
+  {
+    "date": "2025-02-09",
+    "yyear": 2025,
+    "distance": 5973.634928,
+    "pct_distance_over_21": 2.5494356256382193,
+    "day_duration": 72.70107846,
+    "peak_speed": 27.72953333
+  },
+  {
+    "date": "2025-02-10",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-02-11",
+    "yyear": 2025,
+    "distance": 6504.847584,
+    "pct_distance_over_21": 5.143332849534142,
+    "day_duration": 99.44010711,
+    "peak_speed": 28.4816
+  },
+  {
+    "date": "2025-02-12",
+    "yyear": 2025,
+    "distance": 6552.956398,
+    "pct_distance_over_21": 4.101764835212932,
+    "day_duration": 130.4396399,
+    "peak_speed": 30.57381333
+  },
+  {
+    "date": "2025-02-13",
+    "yyear": 2025,
+    "distance": 4706.218135,
+    "pct_distance_over_21": 0.5952811711308404,
+    "day_duration": 94.40323918,
+    "peak_speed": 26.9177
+  },
+  {
+    "date": "2025-02-14",
+    "yyear": 2025,
+    "distance": 5771.444638,
+    "pct_distance_over_21": 12.621901705574327,
+    "day_duration": 54.35963408,
+    "peak_speed": 30.180125
+  },
+  {
+    "date": "2025-02-15",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-02-16",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-02-17",
+    "yyear": 2025,
+    "distance": 7301.824049,
+    "pct_distance_over_21": 10.298864417350465,
+    "day_duration": 95.06969583,
+    "peak_speed": 27.0818
+  },
+  {
+    "date": "2025-02-18",
+    "yyear": 2025,
+    "distance": 3176.364698,
+    "pct_distance_over_21": 0,
+    "day_duration": 98.6667945,
+    "peak_speed": 30.9225
+  },
+  {
+    "date": "2025-02-19",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-02-20",
+    "yyear": 2025,
+    "distance": 7119.253572,
+    "pct_distance_over_21": 2.362469808091842,
+    "day_duration": 90.85104343,
+    "peak_speed": 30.0393
+  },
+  {
+    "date": "2025-02-21",
+    "yyear": 2025,
+    "distance": 4062.281285,
+    "pct_distance_over_21": 2.8046072983840653,
+    "day_duration": 80.15527937,
+    "peak_speed": 30.6663
+  },
+  {
+    "date": "2025-02-22",
+    "yyear": 2025,
+    "distance": 5778.224429,
+    "pct_distance_over_21": 4.068372166719106,
+    "day_duration": 29.64415436,
+    "peak_speed": 30.2133881
+  },
+  {
+    "date": "2025-02-23",
+    "yyear": 2025,
+    "distance": 4078.965587,
+    "pct_distance_over_21": 3.44114691350545,
+    "day_duration": 78.61607994,
+    "peak_speed": 28.4842
+  },
+  {
+    "date": "2025-02-24",
+    "yyear": 2025,
+    "distance": 3070.202878,
+    "pct_distance_over_21": 0.8157063860325129,
+    "day_duration": 78.54165247,
+    "peak_speed": 29.8401
+  },
+  {
+    "date": "2025-02-25",
+    "yyear": 2025,
+    "distance": 12338.87035,
+    "pct_distance_over_21": 6.756477771889386,
+    "day_duration": 135.8247985,
+    "peak_speed": 30.49886
+  },
+  {
+    "date": "2025-02-26",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-02-27",
+    "yyear": 2025,
+    "distance": 7405.11567,
+    "pct_distance_over_21": 6.3953574934501995,
+    "day_duration": 84.07580883,
+    "peak_speed": 28.71565333
+  },
+  {
+    "date": "2025-02-28",
+    "yyear": 2025,
+    "distance": 7370.23549,
+    "pct_distance_over_21": 5.532919929808104,
+    "day_duration": 73.06991441,
+    "peak_speed": 29.141
+  },
+  {
+    "date": "2025-03-01",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-03-02",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-03-03",
+    "yyear": 2025,
+    "distance": 6302.533331,
+    "pct_distance_over_21": 2.3624983904111305,
+    "day_duration": 106.8713254,
+    "peak_speed": 27.59356667
+  },
+  {
+    "date": "2025-03-04",
+    "yyear": 2025,
+    "distance": 6607.976423,
+    "pct_distance_over_21": 4.685128131244847,
+    "day_duration": 156.6122521,
+    "peak_speed": 29.81684667
+  },
+  {
+    "date": "2025-03-05",
+    "yyear": 2025,
+    "distance": 4504.818356,
+    "pct_distance_over_21": 4.660296902324202,
+    "day_duration": 77.08347192,
+    "peak_speed": 28.67615
+  },
+  {
+    "date": "2025-03-06",
+    "yyear": 2025,
+    "distance": 3218.229847,
+    "pct_distance_over_21": 7.598378513205057,
+    "day_duration": 26.96457417,
+    "peak_speed": 31.49356667
+  },
+  {
+    "date": "2025-03-07",
+    "yyear": 2025,
+    "distance": 4087.219531,
+    "pct_distance_over_21": 3.8019178324385434,
+    "day_duration": 44.40710972,
+    "peak_speed": 29.4382
+  },
+  {
+    "date": "2025-03-08",
+    "yyear": 2025,
+    "distance": 3613.665318,
+    "pct_distance_over_21": 0.3046193095184694,
+    "day_duration": 67.63797093,
+    "peak_speed": 28.7422
+  },
+  {
+    "date": "2025-03-09",
+    "yyear": 2025,
+    "distance": 5997.883275,
+    "pct_distance_over_21": 2.5262584757453452,
+    "day_duration": 48.04405798,
+    "peak_speed": 30.5180281
+  },
+  {
+    "date": "2025-03-10",
+    "yyear": 2025,
+    "distance": 0,
+    "pct_distance_over_21": 0,
+    "day_duration": 0,
+    "peak_speed": 0
+  },
+  {
+    "date": "2025-03-11",
+    "yyear": 2025,
+    "distance": 5584.006613,
+    "pct_distance_over_21": 1.3290853568693652,
+    "day_duration": 100.6607398,
+    "peak_speed": 28.7746
+  },
+  {
+    "date": "2025-03-12",
+    "yyear": 2025,
+    "distance": 5382.410857,
+    "pct_distance_over_21": 2.059103554977836,
+    "day_duration": 93.26899756,
+    "peak_speed": 29.0588
+  }
+]

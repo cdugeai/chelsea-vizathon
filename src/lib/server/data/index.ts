@@ -1,5 +1,6 @@
 import priorities from './priorities.json';
 import gps_5_last_weeks from './gps_5_last_weeks.json';
+import gps_yearly_data from './gps_yearly_data.json';
 
 export interface PriorityInterface {
 	Area: string;
@@ -54,5 +55,27 @@ export function load_gps_5_last_weeks(): GpsDataRaw[] {
 		info_cols: '-',
 		date: new Date(e.date),
 		match_week: e.match_week
+	}));
+}
+
+export interface GpsYearlyData {
+	date_str: string; // date as ts
+	date: number;
+	yyear: number;
+	distance: number;
+	pct_distance_over_21: number;
+	day_duration: number;
+	peak_speed: number;
+}
+
+export function load_gps_yearly_data(): GpsYearlyData[] {
+	return gps_yearly_data.map((e) => ({
+		date_str: e.date,
+		date: new Date(e.date).setHours(0, 0, 0, 0),
+		yyear: e.yyear,
+		distance: e.distance,
+		pct_distance_over_21: e.pct_distance_over_21,
+		day_duration: e.day_duration,
+		peak_speed: e.peak_speed
 	}));
 }

@@ -35,12 +35,22 @@
 	}));
 
 	let selectedYearColumn: string = $state('peak_speed');
-	let selectedData = $derived.by(() => {
-		return data.gps_yearly_data.map((e) => ({
-			year: e.yyear,
-			date: new Date(e.date).setHours(0, 0, 0, 0),
-			value: parseFloat(e[selectedYearColumn])
-		}));
+	let selectedData: { year: number; date: Date; value: number }[] = $derived.by(() => {
+		// TODO optimize
+		if (selectedYearColumn === 'peak_speed') {
+			return data.gps_yearly_data.map((e) => ({
+				year: e.yyear,
+				date: e.date,
+				value: e.peak_speed
+			}));
+		}
+		if (selectedYearColumn === 'day_duration') {
+			return data.gps_yearly_data.map((e) => ({
+				year: e.yyear,
+				date: e.date,
+				value: e.day_duration
+			}));
+		}
 	});
 
 	const selectNextData = () => {
@@ -99,7 +109,7 @@
 			<p>Evolution of variable <b>{selectedYearColumn}</b> over years.</p>
 
 			<div class=" overflow-hidden p-4 border rounded flex flex-col">
-				{#each ['2022', '2023', '2024', '2025'] as yy}
+				{#each [2022, 2023, 2024, 2025] as yy}
 					<div class="h-[100px]">
 						<CalendarViewSimple
 							data={selectedData.filter((e) => e.year === yy)}
