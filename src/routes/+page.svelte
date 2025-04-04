@@ -87,7 +87,7 @@
 
 <div class="flex-col mt-5">
 	<div class="flex gap-2 justify-between">
-		<div class="graph-column bg-blue-50 rounded-2xl p-2">
+		<div class="graph-column p-2">
 			{@render title('Weekly data')}
 			<p class="mb-4 text-lg font-extralight tracking-tight text-gray-900 leading-none">
 				Displays data over the last 3 match weeks. The x-axis represents the number of <b
@@ -106,7 +106,7 @@
 				<WeeklyEffortChart data={data_peak_speed} display_legend={true} />
 			</div>
 		</div>
-		<div class="graph-column bg-blue-50 rounded-2xl p-2">
+		<div class="graph-column p-2">
 			{@render title('Yearly data')}
 			<p>Evolution of variable <b>{selectedYearColumn}</b> over years.</p>
 
@@ -123,7 +123,7 @@
 				<Button variant="outline" on:click={selectNextData}>Change variable</Button>
 			</div>
 		</div>
-		<div class="graph-column bg-blue-50 rounded-2xl p-2">
+		<div class="graph-column p-2">
 			{@render title('Player Identity')}
 
 			<PlayerIdentity />
