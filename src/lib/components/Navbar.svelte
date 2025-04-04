@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container justify-center mt-5">
 	<div class="container-logo">
 		<img
 			src="https://chelsea-fc-performance-insights.github.io/Competition/assets/img/logo/logo.svg"
@@ -19,6 +19,7 @@
 	.container-logo {
 		width: 100px;
 		height: 100px;
+		margin-right: 30px;
 	}
 
 	.container-title {

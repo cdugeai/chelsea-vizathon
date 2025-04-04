@@ -61,7 +61,8 @@
 			//d9f0ff
 			{ key: 'Current week', data: dataMap.get('week_current'), color: 'red' },
 			{ key: 'Week - 1', data: dataMap.get('week_current_prev'), color: '#a3d5ff' },
-			{ key: 'Week - 2', data: dataMap.get('week_current_prev_prev'), color: '#83c9f4' }
+			//83c9f4
+			{ key: 'Week - 2', data: dataMap.get('week_current_prev_prev'), color: 'blue' }
 		]}
 	/>
 </div>
