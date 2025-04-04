@@ -59,11 +59,19 @@
 		{debug}
 		series={[
 			//d9f0ff
-			{ key: 'Current week', data: dataMap.get('week_current'), color: 'red' },
-			{ key: 'Week - 1', data: dataMap.get('week_current_prev'), color: '#a3d5ff' },
+			{ key: 'Current week', data: dataMap.get('week_current'), color: '#2D336B' },
+			//a3d5ff
+			{ key: 'Week - 1', data: dataMap.get('week_current_prev'), color: '#7886C7' },
 			//83c9f4
-			{ key: 'Week - 2', data: dataMap.get('week_current_prev_prev'), color: 'blue' }
+			{ key: 'Week - 2', data: dataMap.get('week_current_prev_prev'), color: '#A9B5DF' }
 		]}
+		props={{
+			spline: {
+				// either of these
+				strokeWidth: 2,
+				class: 'stroke-[2]'
+			}
+		}}
 	/>
 </div>
 
